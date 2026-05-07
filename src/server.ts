@@ -1,5 +1,9 @@
+import dotenv from "dotenv";
 import express, { Request, Response, NextFunction } from "express";
+
+dotenv.config({ path: `.env.${process.env.NODE_ENV ?? "development"}` });
 import path from "path";
+import { loadTargetSegments } from "./services/activeTargetSegmentLoader";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -11,7 +15,8 @@ app.use("/assets", express.static(path.join(process.cwd(), "src", "assets")));
 
 app.get("/", async (_req: Request, res: Response, next: NextFunction) => {
   try {
-    res.render("index", { title: "activeSegments" });
+    const segments = await loadTargetSegments();
+    res.render("index", { title: "activeSegments", segments });
   } catch (err) {
     next(err);
   }

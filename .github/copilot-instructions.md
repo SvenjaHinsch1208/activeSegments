@@ -29,11 +29,13 @@ src/
 ├── styles/
 │   ├── _variables.scss    ← design tokens only (colors, fonts, spacing)
 │   └── main.scss          ← imports variables, defines all CSS rules
+├── services/              ← API calls, data loading, data processing
+├── scripts/               ← ETL scripts (run manually or via npm script, not part of request lifecycle)
 └── assets/
     ├── fonts/
     ├── icons/
     └── img/
-data/                      ← JSON / JSONL data sources (never modified by app code)
+data/                      ← data sources and ETL output directories
 webapp/                    ← compiled output (tsc + sass), served as static files
 ​```
 
@@ -120,7 +122,9 @@ padding: 1.5rem;
 - **Strict mode** is enabled — no `any`, no implicit types
 - Use `interface` for data shapes, `type` for unions/aliases
 - All route handlers are `async` functions with explicit `try/catch` — errors are passed to `next()`
-- Use named exports for services and types; default export for the Express app/router
+- Use named exports for services and types
+- `server.ts` does not need a default export — it is the process entry point
+- Default exports apply to router modules and service factories only
 - Use `process.cwd()` for all file paths (consistent between ts-node and compiled output)
 - Prefer `const` over `let`; never use `var`
 - Use double quotes `"` for strings (matches tsconfig/project style)
@@ -198,6 +202,7 @@ All tokens are defined in `src/styles/_variables.scss`. Use them consistently:
 
 ​```bash
 npm run dev    # nodemon + ts-node (hot reload, watches src/)
+npm run fetch  # fetches active-agent target segments and writes JSONL to data/activeagent/
 npm run build  # tsc → webapp/ && sass → webapp/main.css
 npm run start  # node webapp/server.js (requires prior build)
 ​```
@@ -206,8 +211,10 @@ npm run start  # node webapp/server.js (requires prior build)
 
 ## Data Sources
 
-Files in `data/` are **read-only** inputs. Never write to them from application code.
-Load them in TypeScript service files using `fs` + `JSON.parse` or a streaming JSONL reader.
+- `data/seeds/` — read-only, committed, never written by app code
+- `data/activeagent/` — ETL output, written only by `src/scripts/`, gitignored, never written during web requests
+
+Load data in TypeScript service files using `fs` + `JSON.parse` or a streaming JSONL reader.
 
 ​```ts
 // ✅ reading a JSON file

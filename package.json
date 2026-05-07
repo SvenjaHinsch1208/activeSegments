@@ -5,15 +5,21 @@
   "private": true,
   "scripts": {
     "dev": "nodemon",
+    "fetch": "NODE_ENV=development ts-node src/scripts/fetchSegmentData.ts",
     "build": "tsc && sass src/styles/main.scss webapp/main.css --style compressed && cp -r src/assets webapp/assets",
-    "start": "node webapp/server.js"
+    "prestart": "npm run fetch",
+    "start": "NODE_ENV=production node webapp/server.js"
   },
   "dependencies": {
     "axios": "^1.7.2",
+    "date-and-time": "^4.5.0",
+    "dotenv": "^17.4.2",
     "ejs": "^3.1.10",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "radash": "^12.1.1"
   },
   "devDependencies": {
+    "@types/date-and-time": "^0.13.0",
     "@types/ejs": "^3.1.5",
     "@types/express": "^4.17.21",
     "@types/node": "^20.14.2",

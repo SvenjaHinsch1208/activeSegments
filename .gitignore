@@ -5,5 +5,11 @@
 *.iml
 activeTargets
 node_modules
-dist
-webapp
+.env.*
+!.env.example
+
+# ETL output
+data/activeagent/
+
+# Compiled output
+webapp/
