@@ -1,0 +1,56 @@
+@use "variables" as *;
+
+// ─── Reset / Base ─────────────────────────────────────────────────────────────
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  font-weight: $font-weight-normal;
+  line-height: $line-height-base;
+  color: $color-text-base;
+  background-color: $color-bg;
+}
+
+// ─── Site Header ──────────────────────────────────────────────────────────────
+.site-header {
+  height: $nav-height;
+  background-color: $color-surface;
+  border-bottom: 1px solid $color-border;
+  box-shadow: $shadow-sm;
+
+  &__inner {
+    max-width: $max-width-content;
+    margin: 0 auto;
+    padding: 0 $space-6;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+
+  &__brand {
+    font-size: $font-size-lg;
+    font-weight: $font-weight-semibold;
+    color: $color-primary;
+  }
+}
+
+// ─── Site Main ────────────────────────────────────────────────────────────────
+.site-main {
+  max-width: $max-width-content;
+  margin: 0 auto;
+  padding: $space-12 $space-6;
+
+  &__headline {
+    font-size: $font-size-3xl;
+    font-weight: $font-weight-bold;
+    line-height: $line-height-tight;
+    color: $color-text-base;
+  }
+}

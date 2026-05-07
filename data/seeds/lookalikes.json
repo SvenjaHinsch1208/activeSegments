@@ -1,0 +1,1696 @@
+{
+  "lookalikes": [
+    {
+      "lookalike_id": "9aa05fa377962473ca9dfa22dbd008d9",
+      "export_id": "F4",
+      "display_name": "DRAFT - Lascana LALs ",
+      "status": "DELETED",
+      "similarity": "1",
+      "description": "Lascana LAL NTB",
+      "version_id": "2",
+      "version_creation_time": "2025-11-25T09:49:33.769000+00:00",
+      "original_creation_time": "2025-11-25T09:16:19.819000+00:00",
+      "version_author": "anika.born-faure@otto.de",
+      "original_author": "anika.born-faure@otto.de",
+      "source_audience": "N2B_Lascana",
+      "source_segment_id": "bb51ab4bd6ef515d84a2682c40a35788",
+      "last_run": null,
+      "kpis": null
+    },
+    {
+      "lookalike_id": "f1b5269995ea111e48d380e3f20b73da",
+      "export_id": "GS",
+      "display_name": "LAL_BOSE_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LAL for Bose brand buyers",
+      "version_id": "1",
+      "version_creation_time": "2025-12-17T11:57:50.884000+00:00",
+      "original_creation_time": "2025-12-17T11:57:50.884000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_BOSE_Buyers",
+      "source_segment_id": "ab11bd22e5798ef273fcfb4d39e71452",
+      "last_run": {
+        "component_id": 7832750,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 5179755,
+        "idfa": 160232,
+        "aaid": 272697,
+        "id5_id": 1025696
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 18658
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 1351232
+          },
+          "5": {
+            "component_id": 49443
+          },
+          "1": {
+            "component_id": 14859700
+          },
+          "2": {
+            "component_id": 9855802
+          },
+          "3": {
+            "component_id": 7832750
+          }
+        },
+        "run_date": "2025-12-17",
+        "lookalike_id": "f1b5269995ea111e48d380e3f20b73da"
+      }
+    },
+    {
+      "lookalike_id": "e8ca55b03e44a83dec5919ae4f005932",
+      "export_id": "F2",
+      "display_name": "LAL_BSH_Haushaltsgeraete_Buyer",
+      "status": "ACTIVE",
+      "similarity": "5",
+      "description": "LAL for BSH Haushaltgeraete Kaeufer",
+      "version_id": "4",
+      "version_creation_time": "2026-03-16T13:27:31.769000+00:00",
+      "original_creation_time": "2025-11-21T15:09:12.311000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_BSH_Hauhaltsgeraete_Buyer",
+      "source_segment_id": "f798d1881a2ea01968f412f4e1f83b18",
+      "last_run": {
+        "component_id": 3401542,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 17152347,
+        "idfa": 707255,
+        "aaid": 1163093,
+        "id5_id": 4641460
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 204749
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 6244489
+          },
+          "5": {
+            "component_id": 3401542
+          },
+          "1": {
+            "component_id": 27999144
+          },
+          "2": {
+            "component_id": 24911620
+          },
+          "3": {
+            "component_id": 15381466
+          }
+        },
+        "run_date": "2026-02-17",
+        "lookalike_id": "e8ca55b03e44a83dec5919ae4f005932"
+      }
+    },
+    {
+      "lookalike_id": "484480d029640699785ad08287ee57d5",
+      "export_id": "HH",
+      "display_name": "LAL_Barbie_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL for Barbie Buyers",
+      "version_id": "2",
+      "version_creation_time": "2026-02-03T17:13:39.767000+00:00",
+      "original_creation_time": "2026-02-03T17:13:18.775000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_Barbie_Buyers",
+      "source_segment_id": "7cd1785e62ed16d0160f67d5ff0652ba",
+      "last_run": {
+        "component_id": 5050894,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 6693929,
+        "idfa": 193492,
+        "aaid": 323141,
+        "id5_id": 1395454
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 21385
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 282157
+          },
+          "5": {
+            "component_id": 138621
+          },
+          "1": {
+            "component_id": 17450015
+          },
+          "2": {
+            "component_id": 12568197
+          },
+          "3": {
+            "component_id": 5050894
+          }
+        },
+        "run_date": "2026-02-04",
+        "lookalike_id": "484480d029640699785ad08287ee57d5"
+      }
+    },
+    {
+      "lookalike_id": "f28c95da191d10449c0b87fea6eb186e",
+      "export_id": "G8",
+      "display_name": "LAL_Beko_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL for Beko Buyers",
+      "version_id": "1",
+      "version_creation_time": "2026-01-22T09:03:06.573000+00:00",
+      "original_creation_time": "2026-01-22T09:03:06.573000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_BEKO_Buyers",
+      "source_segment_id": "b16e94b3b3cb6f2d02cf4b3a1b271829",
+      "last_run": {
+        "component_id": 5431164,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 20069736,
+        "idfa": 880756,
+        "aaid": 1416561,
+        "id5_id": 5397613
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 83503
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 3154076
+          },
+          "5": {
+            "component_id": 1517828
+          },
+          "1": {
+            "component_id": 8170772
+          },
+          "2": {
+            "component_id": 7088669
+          },
+          "3": {
+            "component_id": 5431164
+          }
+        },
+        "run_date": "2026-01-23",
+        "lookalike_id": "f28c95da191d10449c0b87fea6eb186e"
+      }
+    },
+    {
+      "lookalike_id": "ae8ed50458532cf6747034ee31f98b24",
+      "export_id": "FU",
+      "display_name": "LAL_Bett1",
+      "status": "INACTIVE",
+      "similarity": "3",
+      "description": "Lookalikes for users for bett1.de",
+      "version_id": "3",
+      "version_creation_time": "2025-10-24T11:46:31.520000+00:00",
+      "original_creation_time": "2025-10-16T13:30:23.706000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_Bett1",
+      "source_segment_id": "073dc406be5e1d5ca127694c0b2a2e6a",
+      "last_run": {
+        "component_id": 0,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 0,
+        "idfa": 0,
+        "aaid": 0,
+        "id5_id": 0
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 3633339
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 8508725
+          },
+          "5": {
+            "component_id": 4741457
+          },
+          "1": {
+            "component_id": 16389757
+          },
+          "2": {
+            "component_id": 15139213
+          },
+          "3": {
+            "component_id": 12691566
+          }
+        },
+        "run_date": "2025-10-17",
+        "lookalike_id": "ae8ed50458532cf6747034ee31f98b24"
+      }
+    },
+    {
+      "lookalike_id": "f0ab4744bd347394ea5c4f6a6aa1db07",
+      "export_id": "FR",
+      "display_name": "LAL_Carolina-Herrera_LaBomba_Female-Beauty",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "Lookalikes for female user between 18-35 old with an interest in beauty",
+      "version_id": "1",
+      "version_creation_time": "2025-10-14T15:56:57.191000+00:00",
+      "original_creation_time": "2025-10-14T15:56:57.191000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_CarolinaHerrera_Beauty_Female_18To35",
+      "source_segment_id": "1b627117e99e9a3cf87230d4958149c3",
+      "last_run": {
+        "component_id": 7562345,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 21659647,
+        "idfa": 672059,
+        "aaid": 1208010,
+        "id5_id": 4919771
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 292015
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 6056218
+          },
+          "5": {
+            "component_id": 3855380
+          },
+          "1": {
+            "component_id": 8314626
+          },
+          "2": {
+            "component_id": 8095359
+          },
+          "3": {
+            "component_id": 7562345
+          }
+        },
+        "run_date": "2025-10-15",
+        "lookalike_id": "f0ab4744bd347394ea5c4f6a6aa1db07"
+      }
+    },
+    {
+      "lookalike_id": "4ec1c7bb6ce1ae0075679e9826e8046e",
+      "export_id": "IZ",
+      "display_name": "LAL_DYSONBeauty_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL for Dyson and Beauty Buyers",
+      "version_id": "2",
+      "version_creation_time": "2026-02-19T14:18:43.698000+00:00",
+      "original_creation_time": "2026-02-19T14:18:03.911000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_DYSON_BEAUTY_Buyers",
+      "source_segment_id": "ce4d426ee6238d3fc46262d717c7e180",
+      "last_run": {
+        "component_id": 41762,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 170863,
+        "idfa": 7988,
+        "aaid": 11375,
+        "id5_id": 43362
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 17464
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 10682
+          },
+          "5": {
+            "component_id": 1626
+          },
+          "1": {
+            "component_id": 239863
+          },
+          "2": {
+            "component_id": 114028
+          },
+          "3": {
+            "component_id": 41762
+          }
+        },
+        "run_date": "2026-02-19",
+        "lookalike_id": "4ec1c7bb6ce1ae0075679e9826e8046e"
+      }
+    },
+    {
+      "lookalike_id": "b17dc89ae903d949a31ffaf0814fb2bd",
+      "export_id": "JQ",
+      "display_name": "LAL_GABOR_Buyers",
+      "status": "ACTIVE",
+      "similarity": "5",
+      "description": "LAL for GABOR Buyers",
+      "version_id": "3",
+      "version_creation_time": "2026-03-19T14:10:38.703000+00:00",
+      "original_creation_time": "2026-03-18T09:07:28.238000+00:00",
+      "version_author": "felix.theodor@og1o.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_GABOR_Buyers",
+      "source_segment_id": "9239a7ae9eb2744118689fba836ddbb6",
+      "last_run": {
+        "component_id": 2668357,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 13127297,
+        "idfa": 292467,
+        "aaid": 654370,
+        "id5_id": 3294202
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 133090
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 5057006
+          },
+          "5": {
+            "component_id": 2668357
+          },
+          "1": {
+            "component_id": 22361502
+          },
+          "2": {
+            "component_id": 19773023
+          },
+          "3": {
+            "component_id": 11640097
+          }
+        },
+        "run_date": "2026-03-19",
+        "lookalike_id": "b17dc89ae903d949a31ffaf0814fb2bd"
+      }
+    },
+    {
+      "lookalike_id": "dcf9b24816c25625efcb589a56b227ca",
+      "export_id": "IX",
+      "display_name": "LAL_GANG_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL for GANG Buyers",
+      "version_id": "2",
+      "version_creation_time": "2026-02-19T14:16:55.379000+00:00",
+      "original_creation_time": "2026-02-19T14:16:20.952000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_GANG_Buyers",
+      "source_segment_id": "b321299bc8a608ab924ccdc1fc4710c8",
+      "last_run": {
+        "component_id": 3562387,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 15893616,
+        "idfa": 380616,
+        "aaid": 787556,
+        "id5_id": 3835378
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 80225
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 1960731
+          },
+          "5": {
+            "component_id": 891116
+          },
+          "1": {
+            "component_id": 13881092
+          },
+          "2": {
+            "component_id": 8887065
+          },
+          "3": {
+            "component_id": 3562387
+          }
+        },
+        "run_date": "2026-02-19",
+        "lookalike_id": "dcf9b24816c25625efcb589a56b227ca"
+      }
+    },
+    {
+      "lookalike_id": "5eea08a5688406c031bd69651a79c442",
+      "export_id": "Fh",
+      "display_name": "LAL_Haspa",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LAL Audience for HASPA ",
+      "version_id": "3",
+      "version_creation_time": "2025-10-27T09:40:49.867000+00:00",
+      "original_creation_time": "2025-10-24T12:34:02.031000+00:00",
+      "version_author": "felix.theodor@ottogroup.com",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_HASPA_Maeusekonto_ParentsGrandparents",
+      "source_segment_id": "e2bfb8ec1e3b6260e7438d8ae918e4b2",
+      "last_run": {
+        "component_id": 14242292,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 23508336,
+        "idfa": 932386,
+        "aaid": 1395625,
+        "id5_id": 4545625
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 8253804
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 7589129
+          },
+          "5": {
+            "component_id": 3535124
+          },
+          "1": {
+            "component_id": 23652496
+          },
+          "2": {
+            "component_id": 20135554
+          },
+          "3": {
+            "component_id": 14242292
+          }
+        },
+        "run_date": "2025-10-27",
+        "lookalike_id": "5eea08a5688406c031bd69651a79c442"
+      }
+    },
+    {
+      "lookalike_id": "7ef44e2afc9b0cba68982adf2dd4ac31",
+      "export_id": "Eo",
+      "display_name": "LAL_Interest_Headphones",
+      "status": "DELETED",
+      "similarity": "3",
+      "description": "Lookalikes for users who have interest in headphones",
+      "version_id": "3",
+      "version_creation_time": "2025-10-14T15:55:45.740000+00:00",
+      "original_creation_time": "2025-09-17T10:58:26.286000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "INTEREST_Headsets",
+      "source_segment_id": "1c44f33890bc63df52b4bd6612546211",
+      "last_run": {
+        "component_id": 0,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 0,
+        "idfa": 0,
+        "aaid": 0,
+        "id5_id": 0
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 1114933
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 4970612
+          },
+          "5": {
+            "component_id": 2422165
+          },
+          "1": {
+            "component_id": 10508571
+          },
+          "2": {
+            "component_id": 9713440
+          },
+          "3": {
+            "component_id": 8039689
+          }
+        },
+        "run_date": "2025-09-22",
+        "lookalike_id": "7ef44e2afc9b0cba68982adf2dd4ac31"
+      }
+    },
+    {
+      "lookalike_id": "74bfc8e30710817739a725a5996c1993",
+      "export_id": "Es",
+      "display_name": "LAL_JBL_Headphones_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "Lookalikes for users who bought JBL headphones",
+      "version_id": "3",
+      "version_creation_time": "2025-10-14T15:52:53.314000+00:00",
+      "original_creation_time": "2025-09-19T10:27:22.890000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "N2B_JBL_Headphone_Buyers",
+      "source_segment_id": "92b2ea82039f0a184ce1cd93087cd9e8",
+      "last_run": {
+        "component_id": 1444586,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 4738776,
+        "idfa": 270422,
+        "aaid": 436316,
+        "id5_id": 1251066
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 27625
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 634168
+          },
+          "5": {
+            "component_id": 332909
+          },
+          "1": {
+            "component_id": 2771780
+          },
+          "2": {
+            "component_id": 2282824
+          },
+          "3": {
+            "component_id": 1444586
+          }
+        },
+        "run_date": "2025-10-08",
+        "lookalike_id": "74bfc8e30710817739a725a5996c1993"
+      }
+    },
+    {
+      "lookalike_id": "10b105549af111094ba28af0a27c4e1b",
+      "export_id": "Er",
+      "display_name": "LAL_JBL_Products_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "Lookalikes for users who bought JBL products",
+      "version_id": "3",
+      "version_creation_time": "2025-10-14T15:53:06.563000+00:00",
+      "original_creation_time": "2025-09-19T10:25:25.118000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "N2B_JBL",
+      "source_segment_id": "bb2a17975a9d0a3fb754b8afdce32e22",
+      "last_run": {
+        "component_id": 16406923,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 31071848,
+        "idfa": 1224499,
+        "aaid": 1964248,
+        "id5_id": 7291870
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 119766
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 6623825
+          },
+          "5": {
+            "component_id": 3409553
+          },
+          "1": {
+            "component_id": 30774920
+          },
+          "2": {
+            "component_id": 24232310
+          },
+          "3": {
+            "component_id": 16406923
+          }
+        },
+        "run_date": "2025-10-08",
+        "lookalike_id": "10b105549af111094ba28af0a27c4e1b"
+      }
+    },
+    {
+      "lookalike_id": "d2b332b7a94c9307cf0d78f43efa5171",
+      "export_id": "HI",
+      "display_name": "LAL_JackWolfskin_Buyers",
+      "status": "ACTIVE",
+      "similarity": "5",
+      "description": "LaL for Jack Wolfskin Buyers",
+      "version_id": "6",
+      "version_creation_time": "2026-03-11T15:55:57.903000+00:00",
+      "original_creation_time": "2026-02-03T17:13:52.279000+00:00",
+      "version_author": "marcus.buda@ottogroup.com",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_JackWolfskin_Buyers",
+      "source_segment_id": "6b67adc35e52c86df3d367c474163b7b",
+      "last_run": {
+        "component_id": 3048020,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 15334969,
+        "idfa": 473641,
+        "aaid": 908782,
+        "id5_id": 3949954
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 140296
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 7991450
+          },
+          "5": {
+            "component_id": 3048020
+          },
+          "1": {
+            "component_id": 30338545
+          },
+          "2": {
+            "component_id": 25491483
+          },
+          "3": {
+            "component_id": 14753785
+          }
+        },
+        "run_date": "2026-02-28",
+        "lookalike_id": "d2b332b7a94c9307cf0d78f43efa5171"
+      }
+    },
+    {
+      "lookalike_id": "63a42430ddd41fd5d54d3d64d4cf0466",
+      "export_id": "Jo",
+      "display_name": "LAL_LEGO_Mothersday_GenZ",
+      "status": "ACTIVE",
+      "similarity": "5",
+      "description": "LAL zu LEGO_Mothersday_GenZ",
+      "version_id": "5",
+      "version_creation_time": "2026-04-27T09:15:10.425000+00:00",
+      "original_creation_time": "2026-04-13T13:14:42.863000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "svenja.hinsch@otto.de",
+      "source_audience": "CUST_LEGO_Mothersday_GenZ",
+      "source_segment_id": "fa41ef67fc6b3035de0e3137dc141c2b",
+      "last_run": {
+        "component_id": 4260867,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 51960471,
+        "idfa": 1631228,
+        "aaid": 3229898,
+        "id5_id": 14476520
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 622010
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 7283394
+          },
+          "5": {
+            "component_id": 4260867
+          },
+          "1": {
+            "component_id": 12592881
+          },
+          "2": {
+            "component_id": 12338039
+          },
+          "3": {
+            "component_id": 10797213
+          }
+        },
+        "run_date": "2026-04-27",
+        "lookalike_id": "63a42430ddd41fd5d54d3d64d4cf0466"
+      }
+    },
+    {
+      "lookalike_id": "741e02ada069dde73c78cfa4070943b7",
+      "export_id": "F1",
+      "display_name": "LAL_LEVIS_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LAL for LEVIS Buyers",
+      "version_id": "1",
+      "version_creation_time": "2025-11-21T14:48:22.285000+00:00",
+      "original_creation_time": "2025-11-21T14:48:22.285000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_LEVIS_Buyers",
+      "source_segment_id": "8cffe598f92bd638f5d617850d1789ca",
+      "last_run": {
+        "component_id": 16998857,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 29884535,
+        "idfa": 967737,
+        "aaid": 1740538,
+        "id5_id": 7033825
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 263219
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 8397867
+          },
+          "5": {
+            "component_id": 3431379
+          },
+          "1": {
+            "component_id": 34149281
+          },
+          "2": {
+            "component_id": 27211666
+          },
+          "3": {
+            "component_id": 16998857
+          }
+        },
+        "run_date": "2025-11-21",
+        "lookalike_id": "741e02ada069dde73c78cfa4070943b7"
+      }
+    },
+    {
+      "lookalike_id": "9c8a37f03d6f4d85158d78805abafbb5",
+      "export_id": "FQ",
+      "display_name": "LAL_LG-Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "Lookalikes for users who bought LG products",
+      "version_id": "2",
+      "version_creation_time": "2025-10-14T15:55:01.314000+00:00",
+      "original_creation_time": "2025-10-14T15:54:39.280000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "N2B_LG",
+      "source_segment_id": "150534492e91de6ef74462047122bd0a",
+      "last_run": {
+        "component_id": 14014230,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 30076132,
+        "idfa": 1217174,
+        "aaid": 1941915,
+        "id5_id": 7186350
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 127102
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 6432719
+          },
+          "5": {
+            "component_id": 3436238
+          },
+          "1": {
+            "component_id": 24899785
+          },
+          "2": {
+            "component_id": 20623860
+          },
+          "3": {
+            "component_id": 14014230
+          }
+        },
+        "run_date": "2025-10-15",
+        "lookalike_id": "9c8a37f03d6f4d85158d78805abafbb5"
+      }
+    },
+    {
+      "lookalike_id": "a28c4743fd2715a035a5c7eb34b6c481",
+      "export_id": "F5",
+      "display_name": "LAL_Lascana_N2B",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LAL Audience for N2B Lascana",
+      "version_id": "1",
+      "version_creation_time": "2025-11-25T09:46:14.810000+00:00",
+      "original_creation_time": "2025-11-25T09:46:14.810000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "N2B_Lascana",
+      "source_segment_id": "bb51ab4bd6ef515d84a2682c40a35788",
+      "last_run": {
+        "component_id": 19527467,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 25692272,
+        "idfa": 667381,
+        "aaid": 1334370,
+        "id5_id": 5807688
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 1721296
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 6866071
+          },
+          "5": {
+            "component_id": 2681114
+          },
+          "1": {
+            "component_id": 24501464
+          },
+          "2": {
+            "component_id": 24073051
+          },
+          "3": {
+            "component_id": 19527467
+          }
+        },
+        "run_date": "2025-11-25",
+        "lookalike_id": "a28c4743fd2715a035a5c7eb34b6c481"
+      }
+    },
+    {
+      "lookalike_id": "c2693c38597fad790a4e3d97357aa201",
+      "export_id": "IY",
+      "display_name": "LAL_MOP_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL for MOP Buyers",
+      "version_id": "2",
+      "version_creation_time": "2026-02-19T14:17:39.127000+00:00",
+      "original_creation_time": "2026-02-19T14:17:12.061000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_MOP_Buyers",
+      "source_segment_id": "4d7a5f863b1e2981542c8f7c0b601e20",
+      "last_run": {
+        "component_id": 4581428,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 20304363,
+        "idfa": 581278,
+        "aaid": 1118109,
+        "id5_id": 5087077
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 102454
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 2343274
+          },
+          "5": {
+            "component_id": 1081890
+          },
+          "1": {
+            "component_id": 6873007
+          },
+          "2": {
+            "component_id": 6065608
+          },
+          "3": {
+            "component_id": 4581428
+          }
+        },
+        "run_date": "2026-02-19",
+        "lookalike_id": "c2693c38597fad790a4e3d97357aa201"
+      }
+    },
+    {
+      "lookalike_id": "9f3a6800317553d52198a2ab59396f28",
+      "export_id": "G9",
+      "display_name": "LAL_Miele_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL for Miele Buyers",
+      "version_id": "1",
+      "version_creation_time": "2026-01-22T09:03:45.254000+00:00",
+      "original_creation_time": "2026-01-22T09:03:45.254000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_Miele_Buyers",
+      "source_segment_id": "0a6967c201ae81f1be05f215fec17359",
+      "last_run": {
+        "component_id": 4543223,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 19222812,
+        "idfa": 740934,
+        "aaid": 1261030,
+        "id5_id": 5088859
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 77073
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 2160518
+          },
+          "5": {
+            "component_id": 809883
+          },
+          "1": {
+            "component_id": 7582279
+          },
+          "2": {
+            "component_id": 6585351
+          },
+          "3": {
+            "component_id": 4543223
+          }
+        },
+        "run_date": "2026-01-23",
+        "lookalike_id": "9f3a6800317553d52198a2ab59396f28"
+      }
+    },
+    {
+      "lookalike_id": "23b7914ca2b3709bea0ca1c47e4ad4cc",
+      "export_id": "FP",
+      "display_name": "LAL_Samsung-Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "Lookalikes for users who bought Samsung products",
+      "version_id": "3",
+      "version_creation_time": "2025-10-14T15:50:37.532000+00:00",
+      "original_creation_time": "2025-10-14T15:49:47.636000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "N2B_Samsung",
+      "source_segment_id": "8a61d692cc98ffdf829406a4ecfe628c",
+      "last_run": {
+        "component_id": 14518242,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 31399351,
+        "idfa": 1222498,
+        "aaid": 1937076,
+        "id5_id": 7431513
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 330230
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 6725946
+          },
+          "5": {
+            "component_id": 3702855
+          },
+          "1": {
+            "component_id": 24081475
+          },
+          "2": {
+            "component_id": 20385131
+          },
+          "3": {
+            "component_id": 14518242
+          }
+        },
+        "run_date": "2025-10-15",
+        "lookalike_id": "23b7914ca2b3709bea0ca1c47e4ad4cc"
+      }
+    },
+    {
+      "lookalike_id": "73c9d37b9b7177c705bcbc09df1a8ec6",
+      "export_id": "EB",
+      "display_name": "LAL_Tommy-Hilfiger_Buyers",
+      "status": "ACTIVE",
+      "similarity": "4",
+      "description": "Lookalikes for users who bought Tommy Hilfiger & Tommy Jeans Purchaser last 365 Days",
+      "version_id": "4",
+      "version_creation_time": "2025-10-15T13:02:47.419000+00:00",
+      "original_creation_time": "2025-08-13T07:15:05.910000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "serap.oyman@otto.de",
+      "source_audience": "CUST_TommyHilfiger_Purchaser",
+      "source_segment_id": "a7c6397f89241d56bbd40274f1d7b198",
+      "last_run": {
+        "component_id": 7943044,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 18627816,
+        "idfa": 667097,
+        "aaid": 1203720,
+        "id5_id": 4502838
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 400196
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 7943044
+          },
+          "5": {
+            "component_id": 3305344
+          },
+          "1": {
+            "component_id": 29224078
+          },
+          "2": {
+            "component_id": 26815643
+          },
+          "3": {
+            "component_id": 14673113
+          }
+        },
+        "run_date": "2025-10-15",
+        "lookalike_id": "73c9d37b9b7177c705bcbc09df1a8ec6"
+      }
+    },
+    {
+      "lookalike_id": "b5f98218ab021fdbf3a8e562f48d1e9f",
+      "export_id": "Jb",
+      "display_name": "LAL_nobilia_Competitors_30d",
+      "status": "ACTIVE",
+      "similarity": "4",
+      "description": "CUST_nobilia_Competitors_30d",
+      "version_id": "4",
+      "version_creation_time": "2026-04-02T12:57:04.891000+00:00",
+      "original_creation_time": "2026-04-02T12:49:25.038000+00:00",
+      "version_author": "svenja.hinsch@otto.de",
+      "original_author": "svenja.hinsch@otto.de",
+      "source_audience": "CUST_nobilia_Competitors_30d",
+      "source_segment_id": "d1068f0924514b9e58e824bdd7875062",
+      "last_run": {
+        "component_id": 7212987,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 71595205,
+        "idfa": 2273984,
+        "aaid": 4387326,
+        "id5_id": 19527691
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 312869
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 7212987
+          },
+          "5": {
+            "component_id": 3920736
+          },
+          "1": {
+            "component_id": 16989103
+          },
+          "2": {
+            "component_id": 15685233
+          },
+          "3": {
+            "component_id": 13024753
+          }
+        },
+        "run_date": "2026-04-07",
+        "lookalike_id": "b5f98218ab021fdbf3a8e562f48d1e9f"
+      }
+    },
+    {
+      "lookalike_id": "73eaa764e157cb395b45383f472a0211",
+      "export_id": "Ja",
+      "display_name": "LAL_nobilia_Competitors_90d",
+      "status": "ACTIVE",
+      "similarity": "4",
+      "description": "CUST_nobilia_Competitors_90d",
+      "version_id": "5",
+      "version_creation_time": "2026-04-02T12:56:47.059000+00:00",
+      "original_creation_time": "2026-04-02T12:44:14.325000+00:00",
+      "version_author": "svenja.hinsch@otto.de",
+      "original_author": "svenja.hinsch@otto.de",
+      "source_audience": "CUST_nobilia_Competitors_90d",
+      "source_segment_id": "d88036ee0214fce1724339b6c6f38349",
+      "last_run": {
+        "component_id": 7868025,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 68652821,
+        "idfa": 2144988,
+        "aaid": 4166309,
+        "id5_id": 18537783
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 875100
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 7868025
+          },
+          "5": {
+            "component_id": 3703316
+          },
+          "1": {
+            "component_id": 21838961
+          },
+          "2": {
+            "component_id": 16825453
+          },
+          "3": {
+            "component_id": 12829561
+          }
+        },
+        "run_date": "2026-04-07",
+        "lookalike_id": "73eaa764e157cb395b45383f472a0211"
+      }
+    },
+    {
+      "lookalike_id": "14f68949e016a593e17dbb43e3104af5",
+      "export_id": "HD",
+      "display_name": "LAL_set_one_by_Musterring_Buyers",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL for set one by Musterring Buyers",
+      "version_id": "4",
+      "version_creation_time": "2026-02-02T10:29:20.239000+00:00",
+      "original_creation_time": "2026-01-30T09:28:30.284000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_set_one_by_Musterring_Buyers",
+      "source_segment_id": "80ec5ea83baef8e9519b11a0471463c2",
+      "last_run": {
+        "component_id": 6344188,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 3683128,
+        "idfa": 66293,
+        "aaid": 166438,
+        "id5_id": 650519
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 1797
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 2531663
+          },
+          "5": {
+            "component_id": 1282433
+          },
+          "1": {
+            "component_id": 19245381
+          },
+          "2": {
+            "component_id": 19245381
+          },
+          "3": {
+            "component_id": 6344188
+          }
+        },
+        "run_date": "2026-02-02",
+        "lookalike_id": "14f68949e016a593e17dbb43e3104af5"
+      }
+    },
+    {
+      "lookalike_id": "29b8ca4f53a3368e20caf6d22c9b6068",
+      "export_id": "E1",
+      "display_name": "LLA_JBL_Headphones_Buyers (copy)",
+      "status": "DELETED",
+      "similarity": "3",
+      "description": "Lookalikes for users who bought JBL headphones",
+      "version_id": "2",
+      "version_creation_time": "2025-10-08T11:38:59.144000+00:00",
+      "original_creation_time": "2025-09-24T08:49:20.760000+00:00",
+      "version_author": "jia-jen.yang@ottogroup.com",
+      "original_author": "jia-jen.yang@ottogroup.com",
+      "source_audience": "N2B_JBL_Headphone_Buyers",
+      "source_segment_id": "92b2ea82039f0a184ce1cd93087cd9e8",
+      "last_run": null,
+      "kpis": null
+    },
+    {
+      "lookalike_id": "23426d07546867494ae123005db292b8",
+      "export_id": "Fq",
+      "display_name": "LaL_Interest_Toys_NOT-LEGO",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL based on Audience Lego Interest Toys but not LEGO",
+      "version_id": "3",
+      "version_creation_time": "2025-11-07T14:12:49.298000+00:00",
+      "original_creation_time": "2025-11-07T14:11:51.164000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_LEGO_InterestToys_NotLEGO",
+      "source_segment_id": "a790e3915e92f8db4360f726dc5e557c",
+      "last_run": {
+        "component_id": 16491317,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 19232334,
+        "idfa": 826450,
+        "aaid": 1276961,
+        "id5_id": 4614485
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 6442905
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 9187043
+          },
+          "5": {
+            "component_id": 5018188
+          },
+          "1": {
+            "component_id": 25130832
+          },
+          "2": {
+            "component_id": 22167146
+          },
+          "3": {
+            "component_id": 16491317
+          }
+        },
+        "run_date": "2025-11-08",
+        "lookalike_id": "23426d07546867494ae123005db292b8"
+      }
+    },
+    {
+      "lookalike_id": "50e9f57c1c0532ff88fc32646ed10c82",
+      "export_id": "J_",
+      "display_name": "LaL_Interest_Vacuum",
+      "status": "ACTIVE",
+      "similarity": "5",
+      "description": "LaL Audience with users who have interested in vacuum cleaners in the last 30 days with more than 5 views in this categorie",
+      "version_id": "1",
+      "version_creation_time": "2026-04-23T08:30:56.903000+00:00",
+      "original_creation_time": "2026-04-23T08:30:56.903000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_LAL_Vacuum",
+      "source_segment_id": "c62fe21110d2c4f04d1f6e4709bc62aa",
+      "last_run": {
+        "component_id": 4224443,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 58147366,
+        "idfa": 1774370,
+        "aaid": 3463246,
+        "id5_id": 16134365
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 56657
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 7214023
+          },
+          "5": {
+            "component_id": 4224443
+          },
+          "1": {
+            "component_id": 15900434
+          },
+          "2": {
+            "component_id": 14487950
+          },
+          "3": {
+            "component_id": 11254743
+          }
+        },
+        "run_date": "2026-04-23",
+        "lookalike_id": "50e9f57c1c0532ff88fc32646ed10c82"
+      }
+    },
+    {
+      "lookalike_id": "5ecf54d876f6bfea0e60412ca1758b60",
+      "export_id": "Fk",
+      "display_name": "LaL_LEGO_Holiday",
+      "status": "INACTIVE",
+      "similarity": "3",
+      "description": "Lego lookalike segment based on holiday n2b segment",
+      "version_id": "5",
+      "version_creation_time": "2026-04-17T05:56:08.898000+00:00",
+      "original_creation_time": "2025-10-27T15:38:01.071000+00:00",
+      "version_author": "marcus.buda@ottogroup.com",
+      "original_author": "felix.theodor@ottogroup.com",
+      "source_audience": "N2B_LEGO_Holiday",
+      "source_segment_id": "b4906daf97ef6938b339db9aad22604b",
+      "last_run": {
+        "component_id": 0,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 0,
+        "idfa": 0,
+        "aaid": 0,
+        "id5_id": 0
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 4512754
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 9348161
+          },
+          "5": {
+            "component_id": 4816172
+          },
+          "1": {
+            "component_id": 19097493
+          },
+          "2": {
+            "component_id": 17467388
+          },
+          "3": {
+            "component_id": 14288822
+          }
+        },
+        "run_date": "2025-11-08",
+        "lookalike_id": "5ecf54d876f6bfea0e60412ca1758b60"
+      }
+    },
+    {
+      "lookalike_id": "4884a3e805c6b4ef3d31211a9e6de7e9",
+      "export_id": "Fp",
+      "display_name": "LaL_LEGO_Technic_Luxury",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "LaL based on Audience Lego Luxury Shopper & Luxury Toys",
+      "version_id": "1",
+      "version_creation_time": "2025-11-07T14:09:48.598000+00:00",
+      "original_creation_time": "2025-11-07T14:09:48.598000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "thilo.mohns@otto.de",
+      "source_audience": "CUST_LEGO_Adults_Technic_Luxury",
+      "source_segment_id": "4c54d136a229b2c76e36bda9d9cbfde1",
+      "last_run": {
+        "component_id": 13203335,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 36635823,
+        "idfa": 1417728,
+        "aaid": 2195688,
+        "id5_id": 7966854
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 1484378
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 10188597
+          },
+          "5": {
+            "component_id": 5754810
+          },
+          "1": {
+            "component_id": 19324854
+          },
+          "2": {
+            "component_id": 15330289
+          },
+          "3": {
+            "component_id": 13203335
+          }
+        },
+        "run_date": "2025-11-08",
+        "lookalike_id": "4884a3e805c6b4ef3d31211a9e6de7e9"
+      }
+    },
+    {
+      "lookalike_id": "112351357cef70f7f60a8d3d4fba5991",
+      "export_id": "Dk",
+      "display_name": "Small Kids Lookalike (test)",
+      "status": "DELETED",
+      "similarity": "4",
+      "description": "test",
+      "version_id": "2",
+      "version_creation_time": "2025-10-14T15:54:21.418000+00:00",
+      "original_creation_time": "2025-06-16T07:58:50.663000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "johannes.lipka@ottogroup.com",
+      "source_audience": "INTEREST_BrandsSmallKids",
+      "source_segment_id": "0c98dc4d239fe5ed746f410de06b009e",
+      "last_run": {
+        "component_id": 0,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 0,
+        "idfa": 0,
+        "aaid": 0,
+        "id5_id": 0
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 3101752
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 8856778
+          },
+          "5": {
+            "component_id": 3454775
+          },
+          "1": {
+            "component_id": 29890233
+          },
+          "2": {
+            "component_id": 26578418
+          },
+          "3": {
+            "component_id": 18757133
+          }
+        },
+        "run_date": "2025-06-16",
+        "lookalike_id": "112351357cef70f7f60a8d3d4fba5991"
+      }
+    },
+    {
+      "lookalike_id": "0f874e27fa8ce302c6fecce1eaad2ff8",
+      "export_id": "Et",
+      "display_name": "Small Kids Lookalike (test) (copy)",
+      "status": "DELETED",
+      "similarity": "4",
+      "description": "test",
+      "version_id": "1",
+      "version_creation_time": "2025-09-19T12:34:44.398000+00:00",
+      "original_creation_time": "2025-09-19T12:34:24.655000+00:00",
+      "version_author": "alexandre.carmo@ottogroup.com",
+      "original_author": "alexandre.carmo@ottogroup.com",
+      "source_audience": "INTEREST_BrandsSmallKids",
+      "source_segment_id": "0c98dc4d239fe5ed746f410de06b009e",
+      "last_run": null,
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 1202679
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 5530264
+          },
+          "5": {
+            "component_id": 2620034
+          },
+          "1": {
+            "component_id": 20682261
+          },
+          "2": {
+            "component_id": 16296535
+          },
+          "3": {
+            "component_id": 11111310
+          }
+        },
+        "run_date": "2025-09-22",
+        "lookalike_id": "0f874e27fa8ce302c6fecce1eaad2ff8"
+      }
+    },
+    {
+      "lookalike_id": "aa87008c82606f462b10f78b9e0d55da",
+      "export_id": "Ey",
+      "display_name": "Test puzzle lookalike",
+      "status": "DELETED",
+      "similarity": "2",
+      "description": "Just for testing. To be deleted",
+      "version_id": "1",
+      "version_creation_time": "2025-09-24T14:08:01.047000+00:00",
+      "original_creation_time": "2025-09-22T15:00:47.020000+00:00",
+      "version_author": "jia-jen.yang@ottogroup.com",
+      "original_author": "jia-jen.yang@ottogroup.com",
+      "source_audience": "INTEREST_Puzzle",
+      "source_segment_id": "3904ba623e63e21e17341037d8c39eac",
+      "last_run": null,
+      "kpis": null
+    },
+    {
+      "lookalike_id": "3aef3887eee57268265dd20a162ee1dc",
+      "export_id": "Dl",
+      "display_name": "[Test] Lego",
+      "status": "INACTIVE",
+      "similarity": "4",
+      "description": "just a test - feel free to delete after 2025/06/15",
+      "version_id": "1",
+      "version_creation_time": "2025-07-30T14:10:48.181000+00:00",
+      "original_creation_time": "2025-06-12T13:28:07.617000+00:00",
+      "version_author": "marcus.buda@ottogroup.com",
+      "original_author": "felix.theodor@ottogroup.com",
+      "source_audience": "TEST_Marcus",
+      "source_segment_id": "29b843884288e0c3f7881a397a6f433d",
+      "last_run": null,
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 107255
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 6870797
+          },
+          "5": {
+            "component_id": 2885764
+          },
+          "1": {
+            "component_id": 23964744
+          },
+          "2": {
+            "component_id": 20640078
+          },
+          "3": {
+            "component_id": 18370679
+          }
+        },
+        "run_date": "2025-06-29",
+        "lookalike_id": "3aef3887eee57268265dd20a162ee1dc"
+      }
+    },
+    {
+      "lookalike_id": "e1f7fb9e88dedbc02e248ca5ccdb2ba4",
+      "export_id": "Dn",
+      "display_name": "[Test] Pets",
+      "status": "DELETED",
+      "similarity": "1",
+      "description": "just a test - feel free to delete after 2025/06/15",
+      "version_id": "2",
+      "version_creation_time": "2025-10-08T11:38:26.796000+00:00",
+      "original_creation_time": "2025-06-12T13:26:00.446000+00:00",
+      "version_author": "jia-jen.yang@ottogroup.com",
+      "original_author": "felix.theodor@ottogroup.com",
+      "source_audience": "INTEREST_Pets",
+      "source_segment_id": "5d684fd3cc11df307d41eda2aae66ff2",
+      "last_run": null,
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 2390748
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 9433945
+          },
+          "5": {
+            "component_id": 4048822
+          },
+          "1": {
+            "component_id": 25094776
+          },
+          "2": {
+            "component_id": 22670501
+          },
+          "3": {
+            "component_id": 17651724
+          }
+        },
+        "run_date": "2025-06-14",
+        "lookalike_id": "e1f7fb9e88dedbc02e248ca5ccdb2ba4"
+      }
+    },
+    {
+      "lookalike_id": "898f5769727a87ba3cefb172cbd13dd9",
+      "export_id": "Dm",
+      "display_name": "[Test] Vacuum",
+      "status": "DELETED",
+      "similarity": "5",
+      "description": "just a test - feel free to delete after 2025/06/15",
+      "version_id": "2",
+      "version_creation_time": "2025-10-08T11:38:04.697000+00:00",
+      "original_creation_time": "2025-06-12T13:27:06.468000+00:00",
+      "version_author": "jia-jen.yang@ottogroup.com",
+      "original_author": "felix.theodor@ottogroup.com",
+      "source_audience": "INTENT_VacuumCleaner",
+      "source_segment_id": "c904706c5f4a19cf2fee3badec46c5eb",
+      "last_run": {
+        "component_id": 0,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 0,
+        "idfa": 0,
+        "aaid": 0,
+        "id5_id": 0
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 3916413
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 8292412
+          },
+          "5": {
+            "component_id": 3267124
+          },
+          "1": {
+            "component_id": 31433205
+          },
+          "2": {
+            "component_id": 26593520
+          },
+          "3": {
+            "component_id": 18032514
+          }
+        },
+        "run_date": "2025-06-14",
+        "lookalike_id": "898f5769727a87ba3cefb172cbd13dd9"
+      }
+    },
+    {
+      "lookalike_id": "2a6434f74e54ca4eba41b8a5a1dc6efc",
+      "export_id": "Do",
+      "display_name": "tbs",
+      "status": "DELETED",
+      "similarity": "3",
+      "description": "tbs",
+      "version_id": "2",
+      "version_creation_time": "2025-10-24T11:47:13.537000+00:00",
+      "original_creation_time": "2025-06-25T11:17:56.419000+00:00",
+      "version_author": "thilo.mohns@otto.de",
+      "original_author": "johannes.lipka@ottogroup.com",
+      "source_audience": "INTEREST_Pharmacy",
+      "source_segment_id": "002ac0d1a694654a655abdb4cc7856bb",
+      "last_run": {
+        "component_id": 0,
+        "timestamp": "2026-05-06T01:11:09.052615",
+        "visitor_id": 0,
+        "idfa": 0,
+        "aaid": 0,
+        "id5_id": 0
+      },
+      "kpis": {
+        "source_audience_reach": {
+          "component_id": 6747248
+        },
+        "reach_per_similarity": {
+          "4": {
+            "component_id": 6863402
+          },
+          "5": {
+            "component_id": 3674839
+          },
+          "1": {
+            "component_id": 17400326
+          },
+          "2": {
+            "component_id": 15437835
+          },
+          "3": {
+            "component_id": 11794828
+          }
+        },
+        "run_date": "2025-06-25",
+        "lookalike_id": "2a6434f74e54ca4eba41b8a5a1dc6efc"
+      }
+    },
+    {
+      "lookalike_id": "2cb6449ad78d84c278e6d5cd995e8d43",
+      "export_id": "E2",
+      "display_name": "test deleted lookalikes",
+      "status": "DELETED",
+      "similarity": "3",
+      "description": "just test",
+      "version_id": "2",
+      "version_creation_time": "2025-10-08T11:37:37.957000+00:00",
+      "original_creation_time": "2025-09-24T14:08:45.892000+00:00",
+      "version_author": "jia-jen.yang@ottogroup.com",
+      "original_author": "jia-jen.yang@ottogroup.com",
+      "source_audience": "INTEREST_Pharmacy",
+      "source_segment_id": "002ac0d1a694654a655abdb4cc7856bb",
+      "last_run": null,
+      "kpis": null
+    }
+  ]
+}
