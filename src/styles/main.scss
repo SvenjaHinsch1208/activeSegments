@@ -16,13 +16,13 @@ html {
 body {
   --page-bg: #{$color-dark-bg};
   --surface-bg: #{$color-dark-surface};
-  --surface-alt-bg: #{$color-dark-bg};
+  --surface-alt-bg: #{$color-dark-surface-nuance};
   --border-color: #{$color-dark-border};
   --text-color: #{$color-dark-text-base};
   --text-muted-color: #{$color-dark-text-muted};
-  --button-bg: #{$color-dark-bg};
-  --button-text: #{$color-dark-text-muted};
-  --button-active-bg: #{$color-dark-primary};
+  --button-bg: #{$color-dark-surface-nuance};
+  --button-text: #{$color-dark-text-base};
+  --button-active-bg: #{$color-dark-bg};
   --button-active-text: #{$color-text-inverse};
   font-family: $font-family-base;
   font-size: $font-size-base;
@@ -133,7 +133,7 @@ body.theme--light {
 
 // ─── Site Main ────────────────────────────────────────────────────────────────
 .site-main {
-  max-width: $max-width-content-wide;
+  max-width: $max-width-content;
   margin: 0 auto;
   padding: $space-12 $space-6;
 }
@@ -142,10 +142,7 @@ body.theme--light {
   display: flex;
   flex-direction: column;
   gap: $space-6;
-  padding: $space-8;
-  border: 1px solid var(--border-color);
   border-radius: $radius-xl;
-  background-color: var(--surface-bg);
   box-shadow: $shadow-lg;
 
   &__header {
@@ -229,6 +226,51 @@ body.theme--light {
     &--end-date {
       width: 8rem;
     }
+  }
+
+  &__sort-button {
+    display: inline-flex;
+    align-items: center;
+    gap: $space-2;
+    width: 100%;
+    border: 0;
+    padding: 0;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+    text-align: left;
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: 2px solid $color-dark-primary;
+      outline-offset: 2px;
+    }
+  }
+
+  &__sort-indicator {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: $space-3;
+    color: var(--text-muted-color);
+
+    &::before {
+      content: "↕";
+      font-size: $font-size-xs;
+      line-height: 1;
+    }
+  }
+
+  th[aria-sort="ascending"] .segments-table__sort-indicator::before {
+    content: "↑";
+    color: var(--text-color);
+  }
+
+  th[aria-sort="descending"] .segments-table__sort-indicator::before {
+    content: "↓";
+    color: var(--text-color);
   }
 
   &__status-dot {

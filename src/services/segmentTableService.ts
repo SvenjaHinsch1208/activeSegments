@@ -23,12 +23,13 @@ const formatEndDate = (value: string | null): string => {
     return EMPTY_VALUE;
   }
 
-  const parsed = new Date(value);
-  if (Number.isNaN(parsed.getTime())) {
+  const match = value.match(/^(\d{4})-(\d{2})-(\d{2})/);
+  if (!match) {
     return EMPTY_VALUE;
   }
 
-  return parsed.toISOString().split("T")[0];
+  const [, year, month, day] = match;
+  return `${day}.${month}.${year}`;
 };
 
 const mapStatusToTone = (status: string | undefined): SegmentStatusTone => {

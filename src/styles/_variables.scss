@@ -19,10 +19,11 @@ $color-dark-accent:         #368383;
 
 $color-dark-bg:             #020617;
 $color-dark-surface:        #0e172a;
+$color-dark-surface-nuance: #182540;
 $color-dark-border:         #334155;
 
 $color-dark-text-base:      #ffffff;
-$color-dark-text-muted:     #64748b;
+$color-dark-text-muted:  #74859c;
 $color-dark-text-inverse:   #212121;
 
 $error-color:               #de3e64;
@@ -73,7 +74,6 @@ $shadow-md:  0 4px 12px rgba(0, 0, 0, 0.10);
 $shadow-lg:  0 8px 24px rgba(0, 0, 0, 0.12);
 
 // ─── Layout Tokens ────────────────────────────────────────────────────────────
-$max-width-content: 72rem;   // 1152px
-$max-width-content-wide: 84rem; // 1344px
+$max-width-content: 90rem;
 $nav-height:        4rem;
 

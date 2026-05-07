@@ -26,22 +26,38 @@
     </header>
     <main class="site-main">
       <section class="segments-panel" aria-labelledby="segments-title">
-        <div class="segments-panel__header">
+        <!--<div class="segments-panel__header">
           <h1 class="segments-panel__title" id="segments-title"><%= title %></h1>
           <p class="segments-panel__subtitle">Overview of target segment usage across active campaigns.</p>
-        </div>
+        </div>-->
         <div class="segments-table">
           <table class="segments-table__table">
             <thead class="segments-table__head">
               <tr class="segments-table__row">
-                <th class="segments-table__cell segments-table__cell--head segments-table__cell--short-id" scope="col">SHORT ID</th>
-                <th class="segments-table__cell segments-table__cell--head" scope="col">NAME</th>
-                <th class="segments-table__cell segments-table__cell--head segments-table__cell--description" scope="col">DESCRIPTION</th>
-                <th class="segments-table__cell segments-table__cell--head segments-table__cell--type" scope="col">TYPE</th>
-                <th class="segments-table__cell segments-table__cell--head segments-table__cell--used" scope="col">USED</th>
-                <th class="segments-table__cell segments-table__cell--head segments-table__cell--end-date" scope="col">END DATE</th>
-                <th class="segments-table__cell segments-table__cell--head" scope="col">AUTHOR</th>
-                <th class="segments-table__cell segments-table__cell--head" scope="col">MODIFIER</th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--short-id" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">SHORT ID<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">NAME<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--description" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">DESCRIPTION<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--type" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">TYPE<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--used" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="number">USED<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--end-date" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="date">END DATE<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">AUTHOR<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">MODIFIER<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
               </tr>
             </thead>
             <tbody class="segments-table__body">
@@ -66,5 +82,6 @@
       </section>
     </main>
     <script src="/assets/themeToggle.js" defer></script>
+    <script src="/assets/tableSort.js" defer></script>
   </body>
 </html>

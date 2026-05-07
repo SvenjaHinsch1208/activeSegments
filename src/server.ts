@@ -20,7 +20,7 @@ app.get("/", async (_req: Request, res: Response, next: NextFunction) => {
     const segments = await loadTargetSegments();
     const metadataLookup = getSegmentMetadataLookup();
     const rows = buildSegmentTableRows(segments, metadataLookup);
-    res.render("index", { title: "Target Segments in Active Agent Campaigns", rows });
+    res.render("index", { title: "Active Targeting Segment Overview", rows });
   } catch (err) {
     next(err);
   }

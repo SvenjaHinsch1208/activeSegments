@@ -1,8 +1,9 @@
 {
   "watch": ["src"],
-  "ext": "ts,ejs,scss",
-  "ignore": ["webapp", "node_modules"],
+  "ext": "ts,ejs",
+  "ignore": ["webapp", "node_modules", "src/styles"],
   "exec": "ts-node src/server.ts",
+  "delay": 500,
   "env": {
     "NODE_ENV": "development"
   }
