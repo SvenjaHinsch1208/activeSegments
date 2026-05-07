@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon",
     "fetch": "NODE_ENV=development ts-node src/scripts/fetchSegmentData.ts",
-    "build": "tsc && sass src/styles/main.scss webapp/main.css --style compressed && cp -r src/assets webapp/assets",
+    "build": "tsc && sass src/styles/main.scss webapp/main.css --style compressed && rm -rf webapp/assets && mkdir -p webapp/assets && cp -R src/assets/. webapp/assets/",
     "prestart": "npm run fetch",
     "start": "NODE_ENV=production node webapp/server.js"
   },

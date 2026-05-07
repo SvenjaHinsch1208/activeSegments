@@ -6,14 +6,48 @@
     <title><%= title %></title>
     <link rel="stylesheet" href="/main.css" />
   </head>
-  <body>
+  <body class="theme theme--dark" data-theme="dark">
     <header class="site-header">
       <div class="site-header__inner">
         <span class="site-header__brand"><%= title %></span>
+        <div class="theme-switcher" aria-label="Theme controls">
+          <button
+            class="theme-switcher__button"
+            type="button"
+            aria-label="Switch to light mode"
+            aria-pressed="true"
+            data-theme-toggle
+            data-theme-target="light"
+          >
+            <span class="theme-switcher__icon i-lucide-sun" aria-hidden="true"></span>
+          </button>
+        </div>
       </div>
     </header>
     <main class="site-main">
-      <h1 class="site-main__headline">Welcome to <%= title %></h1>
+      <section class="segments-panel" aria-labelledby="segments-title">
+        <div class="segments-panel__header">
+          <h1 class="segments-panel__title" id="segments-title"><%= title %></h1>
+          <p class="segments-panel__subtitle">Overview of target segment usage across active campaigns.</p>
+        </div>
+        <div class="segments-table">
+          <table class="segments-table__table">
+            <thead class="segments-table__head">
+              <tr class="segments-table__row">
+                <th class="segments-table__cell segments-table__cell--head" scope="col">SHORT ID</th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col">NAME</th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col">DESCRIPTION</th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col">USED</th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col">END DATE</th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col">AUTHOR</th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col">MODIFIER</th>
+              </tr>
+            </thead>
+            <tbody class="segments-table__body"></tbody>
+          </table>
+        </div>
+      </section>
     </main>
+    <script src="/assets/themeToggle.js" defer></script>
   </body>
 </html>

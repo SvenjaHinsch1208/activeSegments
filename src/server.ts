@@ -16,7 +16,7 @@ app.use("/assets", express.static(path.join(process.cwd(), "src", "assets")));
 app.get("/", async (_req: Request, res: Response, next: NextFunction) => {
   try {
     const segments = await loadTargetSegments();
-    res.render("index", { title: "activeSegments", segments });
+    res.render("index", { title: "Target Segments in Active Agent Campaigns", segments });
   } catch (err) {
     next(err);
   }
