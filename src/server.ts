@@ -4,6 +4,8 @@ import express, { Request, Response, NextFunction } from "express";
 dotenv.config({ path: `.env.${process.env.NODE_ENV ?? "development"}` });
 import path from "path";
 import { loadTargetSegments } from "./services/activeTargetSegmentLoader";
+import { getSegmentMetadataLookup } from "./services/segmentMetadataService";
+import { buildSegmentTableRows } from "./services/segmentTableService";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -16,7 +18,9 @@ app.use("/assets", express.static(path.join(process.cwd(), "src", "assets")));
 app.get("/", async (_req: Request, res: Response, next: NextFunction) => {
   try {
     const segments = await loadTargetSegments();
-    res.render("index", { title: "Target Segments in Active Agent Campaigns", segments });
+    const metadataLookup = getSegmentMetadataLookup();
+    const rows = buildSegmentTableRows(segments, metadataLookup);
+    res.render("index", { title: "Target Segments in Active Agent Campaigns", rows });
   } catch (err) {
     next(err);
   }

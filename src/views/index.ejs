@@ -34,16 +34,33 @@
           <table class="segments-table__table">
             <thead class="segments-table__head">
               <tr class="segments-table__row">
-                <th class="segments-table__cell segments-table__cell--head" scope="col">SHORT ID</th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--short-id" scope="col">SHORT ID</th>
                 <th class="segments-table__cell segments-table__cell--head" scope="col">NAME</th>
-                <th class="segments-table__cell segments-table__cell--head" scope="col">DESCRIPTION</th>
-                <th class="segments-table__cell segments-table__cell--head" scope="col">USED</th>
-                <th class="segments-table__cell segments-table__cell--head" scope="col">END DATE</th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--description" scope="col">DESCRIPTION</th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--type" scope="col">TYPE</th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--used" scope="col">USED</th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--end-date" scope="col">END DATE</th>
                 <th class="segments-table__cell segments-table__cell--head" scope="col">AUTHOR</th>
                 <th class="segments-table__cell segments-table__cell--head" scope="col">MODIFIER</th>
               </tr>
             </thead>
-            <tbody class="segments-table__body"></tbody>
+            <tbody class="segments-table__body">
+              <% rows.forEach((row) => { %>
+                <tr class="segments-table__row<%= row.isShortIdWarning ? ' segments-table__row--warning' : '' %>">
+                  <td class="segments-table__cell segments-table__cell--short-id">
+                    <span class="segments-table__status-dot segments-table__status-dot--<%= row.statusTone %>" aria-hidden="true"></span>
+                    <%= row.shortId %>
+                  </td>
+                  <td class="segments-table__cell"><%= row.name %></td>
+                  <td class="segments-table__cell segments-table__cell--description"><%= row.description %></td>
+                  <td class="segments-table__cell segments-table__cell--type"><%= row.type %></td>
+                  <td class="segments-table__cell segments-table__cell--used"><%= row.used %></td>
+                  <td class="segments-table__cell segments-table__cell--end-date"><%= row.endDate %></td>
+                  <td class="segments-table__cell"><%= row.author %></td>
+                  <td class="segments-table__cell"><%= row.modifier %></td>
+                </tr>
+              <% }); %>
+            </tbody>
           </table>
         </div>
       </section>

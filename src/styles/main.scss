@@ -133,7 +133,7 @@ body.theme--light {
 
 // ─── Site Main ────────────────────────────────────────────────────────────────
 .site-main {
-  max-width: $max-width-content;
+  max-width: $max-width-content-wide;
   margin: 0 auto;
   padding: $space-12 $space-6;
 }
@@ -177,7 +177,7 @@ body.theme--light {
   &__table {
     width: 100%;
     border-collapse: collapse;
-    min-width: 60rem;
+    min-width: 72rem;
   }
 
   &__head {
@@ -185,11 +185,13 @@ body.theme--light {
   }
 
   &__cell {
-    padding: $space-4;
+    font-size: $font-size-xs;
+    padding: $space-2 $space-3;
     text-align: left;
     border-bottom: 1px solid var(--border-color);
     background-color: var(--surface-bg);
     color: var(--text-color);
+    overflow-wrap: anywhere;
 
     &--head {
       font-size: $font-size-xs;
@@ -197,6 +199,62 @@ body.theme--light {
       letter-spacing: 0.08em;
       color: var(--text-color);
       background-color: var(--surface-alt-bg);
+    }
+
+    &--short-id {
+      width: 8rem;
+      max-width: 8rem;
+    }
+
+    &--description {
+      width: 14rem;
+      max-width: 14rem;
+    }
+
+    &--type,
+    &--used,
+    &--end-date {
+      white-space: nowrap;
+      overflow-wrap: normal;
+    }
+
+    &--type {
+      width: 5rem;
+    }
+
+    &--used {
+      width: 5rem;
+    }
+
+    &--end-date {
+      width: 8rem;
+    }
+  }
+
+  &__status-dot {
+    display: inline-block;
+    width: $space-2;
+    height: $space-2;
+    margin-right: $space-2;
+    border-radius: 50%;
+    vertical-align: middle;
+
+    &--active {
+      background-color: $active-color;
+    }
+
+    &--draft {
+      background-color: $warning-color;
+    }
+
+    &--error {
+      background-color: $error-color;
+    }
+  }
+
+  &__row--warning {
+    .segments-table__cell {
+      background-color: rgba($warning-color, 0.18);
     }
   }
 }
