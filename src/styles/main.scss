@@ -22,8 +22,8 @@ body {
   --text-muted-color: #{$color-dark-text-muted};
   --button-bg: #{$color-dark-surface-nuance};
   --button-text: #{$color-dark-text-base};
-  --button-active-bg: #{$color-dark-bg};
-  --button-active-text: #{$color-text-inverse};
+  --button-active-bg: #{$color-surface};
+  --button-active-text: #{$color-text-muted};
   font-family: $font-family-base;
   font-size: $font-size-base;
   font-weight: $font-weight-normal;

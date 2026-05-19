@@ -33,22 +33,20 @@
       "source_segment_id": "ab11bd22e5798ef273fcfb4d39e71452",
       "last_run": {
         "component_id": 7832750,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 5179755,
-        "idfa": 160232,
-        "aaid": 272697,
-        "id5_id": 1025696
+        "idfa": 160335,
+        "visitor_id": 5185899,
+        "aaid": 273268,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 1042012
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 18658
-        },
+        "lookalike_id": "f1b5269995ea111e48d380e3f20b73da",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 7832750
+          },
           "4": {
             "component_id": 1351232
-          },
-          "5": {
-            "component_id": 49443
           },
           "1": {
             "component_id": 14859700
@@ -56,12 +54,14 @@
           "2": {
             "component_id": 9855802
           },
-          "3": {
-            "component_id": 7832750
+          "5": {
+            "component_id": 49443
           }
         },
         "run_date": "2025-12-17",
-        "lookalike_id": "f1b5269995ea111e48d380e3f20b73da"
+        "source_audience_reach": {
+          "component_id": 18658
+        }
       }
     },
     {
@@ -80,22 +80,20 @@
       "source_segment_id": "f798d1881a2ea01968f412f4e1f83b18",
       "last_run": {
         "component_id": 3401542,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 17152347,
-        "idfa": 707255,
-        "aaid": 1163093,
-        "id5_id": 4641460
+        "idfa": 702565,
+        "visitor_id": 16997563,
+        "aaid": 1160072,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 4672967
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 204749
-        },
+        "lookalike_id": "e8ca55b03e44a83dec5919ae4f005932",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 15381466
+          },
           "4": {
             "component_id": 6244489
-          },
-          "5": {
-            "component_id": 3401542
           },
           "1": {
             "component_id": 27999144
@@ -103,12 +101,14 @@
           "2": {
             "component_id": 24911620
           },
-          "3": {
-            "component_id": 15381466
+          "5": {
+            "component_id": 3401542
           }
         },
         "run_date": "2026-02-17",
-        "lookalike_id": "e8ca55b03e44a83dec5919ae4f005932"
+        "source_audience_reach": {
+          "component_id": 204749
+        }
       }
     },
     {
@@ -127,22 +127,21 @@
       "source_segment_id": "7cd1785e62ed16d0160f67d5ff0652ba",
       "last_run": {
         "component_id": 5050894,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 6693929,
-        "idfa": 193492,
-        "aaid": 323141,
-        "id5_id": 1395454
+        "idfa": 192822,
+        "visitor_id": 6668822,
+        "aaid": 322704,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 1409550
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 21385
-        },
+        "lookalike_id": "484480d029640699785ad08287ee57d5",
+        "run_date": "2026-02-04",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 5050894
+          },
           "4": {
             "component_id": 282157
-          },
-          "5": {
-            "component_id": 138621
           },
           "1": {
             "component_id": 17450015
@@ -150,12 +149,13 @@
           "2": {
             "component_id": 12568197
           },
-          "3": {
-            "component_id": 5050894
+          "5": {
+            "component_id": 138621
           }
         },
-        "run_date": "2026-02-04",
-        "lookalike_id": "484480d029640699785ad08287ee57d5"
+        "source_audience_reach": {
+          "component_id": 21385
+        }
       }
     },
     {
@@ -174,22 +174,20 @@
       "source_segment_id": "b16e94b3b3cb6f2d02cf4b3a1b271829",
       "last_run": {
         "component_id": 5431164,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 20069736,
-        "idfa": 880756,
-        "aaid": 1416561,
-        "id5_id": 5397613
+        "idfa": 876677,
+        "visitor_id": 19964581,
+        "aaid": 1414556,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 5452940
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 83503
-        },
+        "lookalike_id": "f28c95da191d10449c0b87fea6eb186e",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 5431164
+          },
           "4": {
             "component_id": 3154076
-          },
-          "5": {
-            "component_id": 1517828
           },
           "1": {
             "component_id": 8170772
@@ -197,12 +195,14 @@
           "2": {
             "component_id": 7088669
           },
-          "3": {
-            "component_id": 5431164
+          "5": {
+            "component_id": 1517828
           }
         },
         "run_date": "2026-01-23",
-        "lookalike_id": "f28c95da191d10449c0b87fea6eb186e"
+        "source_audience_reach": {
+          "component_id": 83503
+        }
       }
     },
     {
@@ -221,22 +221,20 @@
       "source_segment_id": "073dc406be5e1d5ca127694c0b2a2e6a",
       "last_run": {
         "component_id": 0,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 0,
         "idfa": 0,
+        "visitor_id": 0,
         "aaid": 0,
+        "timestamp": "2026-05-18T01:11:03.956546",
         "id5_id": 0
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 3633339
-        },
+        "lookalike_id": "ae8ed50458532cf6747034ee31f98b24",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 12691566
+          },
           "4": {
             "component_id": 8508725
-          },
-          "5": {
-            "component_id": 4741457
           },
           "1": {
             "component_id": 16389757
@@ -244,12 +242,14 @@
           "2": {
             "component_id": 15139213
           },
-          "3": {
-            "component_id": 12691566
+          "5": {
+            "component_id": 4741457
           }
         },
         "run_date": "2025-10-17",
-        "lookalike_id": "ae8ed50458532cf6747034ee31f98b24"
+        "source_audience_reach": {
+          "component_id": 3633339
+        }
       }
     },
     {
@@ -268,22 +268,20 @@
       "source_segment_id": "1b627117e99e9a3cf87230d4958149c3",
       "last_run": {
         "component_id": 7562345,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 21659647,
-        "idfa": 672059,
-        "aaid": 1208010,
-        "id5_id": 4919771
+        "idfa": 670071,
+        "visitor_id": 21633724,
+        "aaid": 1206913,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 4983900
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 292015
-        },
+        "lookalike_id": "f0ab4744bd347394ea5c4f6a6aa1db07",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 7562345
+          },
           "4": {
             "component_id": 6056218
-          },
-          "5": {
-            "component_id": 3855380
           },
           "1": {
             "component_id": 8314626
@@ -291,12 +289,14 @@
           "2": {
             "component_id": 8095359
           },
-          "3": {
-            "component_id": 7562345
+          "5": {
+            "component_id": 3855380
           }
         },
         "run_date": "2025-10-15",
-        "lookalike_id": "f0ab4744bd347394ea5c4f6a6aa1db07"
+        "source_audience_reach": {
+          "component_id": 292015
+        }
       }
     },
     {
@@ -315,22 +315,20 @@
       "source_segment_id": "ce4d426ee6238d3fc46262d717c7e180",
       "last_run": {
         "component_id": 41762,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 170863,
-        "idfa": 7988,
-        "aaid": 11375,
-        "id5_id": 43362
+        "idfa": 7961,
+        "visitor_id": 169167,
+        "aaid": 11332,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 43705
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 17464
-        },
+        "lookalike_id": "4ec1c7bb6ce1ae0075679e9826e8046e",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 41762
+          },
           "4": {
             "component_id": 10682
-          },
-          "5": {
-            "component_id": 1626
           },
           "1": {
             "component_id": 239863
@@ -338,12 +336,14 @@
           "2": {
             "component_id": 114028
           },
-          "3": {
-            "component_id": 41762
+          "5": {
+            "component_id": 1626
           }
         },
         "run_date": "2026-02-19",
-        "lookalike_id": "4ec1c7bb6ce1ae0075679e9826e8046e"
+        "source_audience_reach": {
+          "component_id": 17464
+        }
       }
     },
     {
@@ -362,22 +362,20 @@
       "source_segment_id": "9239a7ae9eb2744118689fba836ddbb6",
       "last_run": {
         "component_id": 2668357,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 13127297,
-        "idfa": 292467,
-        "aaid": 654370,
-        "id5_id": 3294202
+        "idfa": 289589,
+        "visitor_id": 12963974,
+        "aaid": 650561,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 3300515
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 133090
-        },
+        "lookalike_id": "b17dc89ae903d949a31ffaf0814fb2bd",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 11640097
+          },
           "4": {
             "component_id": 5057006
-          },
-          "5": {
-            "component_id": 2668357
           },
           "1": {
             "component_id": 22361502
@@ -385,12 +383,14 @@
           "2": {
             "component_id": 19773023
           },
-          "3": {
-            "component_id": 11640097
+          "5": {
+            "component_id": 2668357
           }
         },
         "run_date": "2026-03-19",
-        "lookalike_id": "b17dc89ae903d949a31ffaf0814fb2bd"
+        "source_audience_reach": {
+          "component_id": 133090
+        }
       }
     },
     {
@@ -409,22 +409,20 @@
       "source_segment_id": "b321299bc8a608ab924ccdc1fc4710c8",
       "last_run": {
         "component_id": 3562387,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 15893616,
-        "idfa": 380616,
-        "aaid": 787556,
-        "id5_id": 3835378
+        "idfa": 377625,
+        "visitor_id": 15751305,
+        "aaid": 783963,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 3858610
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 80225
-        },
+        "lookalike_id": "dcf9b24816c25625efcb589a56b227ca",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 3562387
+          },
           "4": {
             "component_id": 1960731
-          },
-          "5": {
-            "component_id": 891116
           },
           "1": {
             "component_id": 13881092
@@ -432,12 +430,14 @@
           "2": {
             "component_id": 8887065
           },
-          "3": {
-            "component_id": 3562387
+          "5": {
+            "component_id": 891116
           }
         },
         "run_date": "2026-02-19",
-        "lookalike_id": "dcf9b24816c25625efcb589a56b227ca"
+        "source_audience_reach": {
+          "component_id": 80225
+        }
       }
     },
     {
@@ -456,22 +456,21 @@
       "source_segment_id": "e2bfb8ec1e3b6260e7438d8ae918e4b2",
       "last_run": {
         "component_id": 14242292,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 23508336,
-        "idfa": 932386,
-        "aaid": 1395625,
-        "id5_id": 4545625
+        "idfa": 931023,
+        "visitor_id": 23517277,
+        "aaid": 1395669,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 4616112
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 8253804
-        },
+        "lookalike_id": "5eea08a5688406c031bd69651a79c442",
+        "run_date": "2025-10-27",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 14242292
+          },
           "4": {
             "component_id": 7589129
-          },
-          "5": {
-            "component_id": 3535124
           },
           "1": {
             "component_id": 23652496
@@ -479,12 +478,13 @@
           "2": {
             "component_id": 20135554
           },
-          "3": {
-            "component_id": 14242292
+          "5": {
+            "component_id": 3535124
           }
         },
-        "run_date": "2025-10-27",
-        "lookalike_id": "5eea08a5688406c031bd69651a79c442"
+        "source_audience_reach": {
+          "component_id": 8253804
+        }
       }
     },
     {
@@ -503,22 +503,20 @@
       "source_segment_id": "1c44f33890bc63df52b4bd6612546211",
       "last_run": {
         "component_id": 0,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 0,
         "idfa": 0,
+        "visitor_id": 0,
         "aaid": 0,
+        "timestamp": "2026-05-18T01:11:03.956546",
         "id5_id": 0
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 1114933
-        },
+        "lookalike_id": "7ef44e2afc9b0cba68982adf2dd4ac31",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 8039689
+          },
           "4": {
             "component_id": 4970612
-          },
-          "5": {
-            "component_id": 2422165
           },
           "1": {
             "component_id": 10508571
@@ -526,12 +524,14 @@
           "2": {
             "component_id": 9713440
           },
-          "3": {
-            "component_id": 8039689
+          "5": {
+            "component_id": 2422165
           }
         },
         "run_date": "2025-09-22",
-        "lookalike_id": "7ef44e2afc9b0cba68982adf2dd4ac31"
+        "source_audience_reach": {
+          "component_id": 1114933
+        }
       }
     },
     {
@@ -550,22 +550,20 @@
       "source_segment_id": "92b2ea82039f0a184ce1cd93087cd9e8",
       "last_run": {
         "component_id": 1444586,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 4738776,
-        "idfa": 270422,
-        "aaid": 436316,
-        "id5_id": 1251066
+        "idfa": 269991,
+        "visitor_id": 4738584,
+        "aaid": 436557,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 1269353
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 27625
-        },
+        "lookalike_id": "74bfc8e30710817739a725a5996c1993",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 1444586
+          },
           "4": {
             "component_id": 634168
-          },
-          "5": {
-            "component_id": 332909
           },
           "1": {
             "component_id": 2771780
@@ -573,12 +571,14 @@
           "2": {
             "component_id": 2282824
           },
-          "3": {
-            "component_id": 1444586
+          "5": {
+            "component_id": 332909
           }
         },
         "run_date": "2025-10-08",
-        "lookalike_id": "74bfc8e30710817739a725a5996c1993"
+        "source_audience_reach": {
+          "component_id": 27625
+        }
       }
     },
     {
@@ -597,22 +597,20 @@
       "source_segment_id": "bb2a17975a9d0a3fb754b8afdce32e22",
       "last_run": {
         "component_id": 16406923,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 31071848,
-        "idfa": 1224499,
-        "aaid": 1964248,
-        "id5_id": 7291870
+        "idfa": 1222863,
+        "visitor_id": 31075543,
+        "aaid": 1964566,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 7400126
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 119766
-        },
+        "lookalike_id": "10b105549af111094ba28af0a27c4e1b",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 16406923
+          },
           "4": {
             "component_id": 6623825
-          },
-          "5": {
-            "component_id": 3409553
           },
           "1": {
             "component_id": 30774920
@@ -620,12 +618,14 @@
           "2": {
             "component_id": 24232310
           },
-          "3": {
-            "component_id": 16406923
+          "5": {
+            "component_id": 3409553
           }
         },
         "run_date": "2025-10-08",
-        "lookalike_id": "10b105549af111094ba28af0a27c4e1b"
+        "source_audience_reach": {
+          "component_id": 119766
+        }
       }
     },
     {
@@ -644,22 +644,20 @@
       "source_segment_id": "6b67adc35e52c86df3d367c474163b7b",
       "last_run": {
         "component_id": 3048020,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 15334969,
-        "idfa": 473641,
-        "aaid": 908782,
-        "id5_id": 3949954
+        "idfa": 469902,
+        "visitor_id": 15166921,
+        "aaid": 905357,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 3967062
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 140296
-        },
+        "lookalike_id": "d2b332b7a94c9307cf0d78f43efa5171",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 14753785
+          },
           "4": {
             "component_id": 7991450
-          },
-          "5": {
-            "component_id": 3048020
           },
           "1": {
             "component_id": 30338545
@@ -667,12 +665,14 @@
           "2": {
             "component_id": 25491483
           },
-          "3": {
-            "component_id": 14753785
+          "5": {
+            "component_id": 3048020
           }
         },
         "run_date": "2026-02-28",
-        "lookalike_id": "d2b332b7a94c9307cf0d78f43efa5171"
+        "source_audience_reach": {
+          "component_id": 140296
+        }
       }
     },
     {
@@ -691,22 +691,20 @@
       "source_segment_id": "fa41ef67fc6b3035de0e3137dc141c2b",
       "last_run": {
         "component_id": 4260867,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 51960471,
-        "idfa": 1631228,
-        "aaid": 3229898,
-        "id5_id": 14476520
+        "idfa": 1610603,
+        "visitor_id": 51020361,
+        "aaid": 3207257,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 14372886
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 622010
-        },
+        "lookalike_id": "63a42430ddd41fd5d54d3d64d4cf0466",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 10797213
+          },
           "4": {
             "component_id": 7283394
-          },
-          "5": {
-            "component_id": 4260867
           },
           "1": {
             "component_id": 12592881
@@ -714,12 +712,14 @@
           "2": {
             "component_id": 12338039
           },
-          "3": {
-            "component_id": 10797213
+          "5": {
+            "component_id": 4260867
           }
         },
         "run_date": "2026-04-27",
-        "lookalike_id": "63a42430ddd41fd5d54d3d64d4cf0466"
+        "source_audience_reach": {
+          "component_id": 622010
+        }
       }
     },
     {
@@ -738,22 +738,20 @@
       "source_segment_id": "8cffe598f92bd638f5d617850d1789ca",
       "last_run": {
         "component_id": 16998857,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 29884535,
-        "idfa": 967737,
-        "aaid": 1740538,
-        "id5_id": 7033825
+        "idfa": 965541,
+        "visitor_id": 29843528,
+        "aaid": 1739535,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 7126694
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 263219
-        },
+        "lookalike_id": "741e02ada069dde73c78cfa4070943b7",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 16998857
+          },
           "4": {
             "component_id": 8397867
-          },
-          "5": {
-            "component_id": 3431379
           },
           "1": {
             "component_id": 34149281
@@ -761,12 +759,14 @@
           "2": {
             "component_id": 27211666
           },
-          "3": {
-            "component_id": 16998857
+          "5": {
+            "component_id": 3431379
           }
         },
         "run_date": "2025-11-21",
-        "lookalike_id": "741e02ada069dde73c78cfa4070943b7"
+        "source_audience_reach": {
+          "component_id": 263219
+        }
       }
     },
     {
@@ -785,22 +785,20 @@
       "source_segment_id": "150534492e91de6ef74462047122bd0a",
       "last_run": {
         "component_id": 14014230,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 30076132,
-        "idfa": 1217174,
-        "aaid": 1941915,
-        "id5_id": 7186350
+        "idfa": 1215284,
+        "visitor_id": 30079639,
+        "aaid": 1942469,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 7293915
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 127102
-        },
+        "lookalike_id": "9c8a37f03d6f4d85158d78805abafbb5",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 14014230
+          },
           "4": {
             "component_id": 6432719
-          },
-          "5": {
-            "component_id": 3436238
           },
           "1": {
             "component_id": 24899785
@@ -808,12 +806,14 @@
           "2": {
             "component_id": 20623860
           },
-          "3": {
-            "component_id": 14014230
+          "5": {
+            "component_id": 3436238
           }
         },
         "run_date": "2025-10-15",
-        "lookalike_id": "9c8a37f03d6f4d85158d78805abafbb5"
+        "source_audience_reach": {
+          "component_id": 127102
+        }
       }
     },
     {
@@ -832,22 +832,20 @@
       "source_segment_id": "bb51ab4bd6ef515d84a2682c40a35788",
       "last_run": {
         "component_id": 19527467,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 25692272,
-        "idfa": 667381,
-        "aaid": 1334370,
-        "id5_id": 5807688
+        "idfa": 665427,
+        "visitor_id": 25644176,
+        "aaid": 1332981,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 5877133
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 1721296
-        },
+        "lookalike_id": "a28c4743fd2715a035a5c7eb34b6c481",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 19527467
+          },
           "4": {
             "component_id": 6866071
-          },
-          "5": {
-            "component_id": 2681114
           },
           "1": {
             "component_id": 24501464
@@ -855,12 +853,14 @@
           "2": {
             "component_id": 24073051
           },
-          "3": {
-            "component_id": 19527467
+          "5": {
+            "component_id": 2681114
           }
         },
         "run_date": "2025-11-25",
-        "lookalike_id": "a28c4743fd2715a035a5c7eb34b6c481"
+        "source_audience_reach": {
+          "component_id": 1721296
+        }
       }
     },
     {
@@ -879,22 +879,20 @@
       "source_segment_id": "4d7a5f863b1e2981542c8f7c0b601e20",
       "last_run": {
         "component_id": 4581428,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 20304363,
-        "idfa": 581278,
-        "aaid": 1118109,
-        "id5_id": 5087077
+        "idfa": 577236,
+        "visitor_id": 20127141,
+        "aaid": 1114069,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 5121064
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 102454
-        },
+        "lookalike_id": "c2693c38597fad790a4e3d97357aa201",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 4581428
+          },
           "4": {
             "component_id": 2343274
-          },
-          "5": {
-            "component_id": 1081890
           },
           "1": {
             "component_id": 6873007
@@ -902,12 +900,14 @@
           "2": {
             "component_id": 6065608
           },
-          "3": {
-            "component_id": 4581428
+          "5": {
+            "component_id": 1081890
           }
         },
         "run_date": "2026-02-19",
-        "lookalike_id": "c2693c38597fad790a4e3d97357aa201"
+        "source_audience_reach": {
+          "component_id": 102454
+        }
       }
     },
     {
@@ -926,22 +926,20 @@
       "source_segment_id": "0a6967c201ae81f1be05f215fec17359",
       "last_run": {
         "component_id": 4543223,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 19222812,
-        "idfa": 740934,
-        "aaid": 1261030,
-        "id5_id": 5088859
+        "idfa": 737365,
+        "visitor_id": 19122282,
+        "aaid": 1259019,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 5142306
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 77073
-        },
+        "lookalike_id": "9f3a6800317553d52198a2ab59396f28",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 4543223
+          },
           "4": {
             "component_id": 2160518
-          },
-          "5": {
-            "component_id": 809883
           },
           "1": {
             "component_id": 7582279
@@ -949,12 +947,14 @@
           "2": {
             "component_id": 6585351
           },
-          "3": {
-            "component_id": 4543223
+          "5": {
+            "component_id": 809883
           }
         },
         "run_date": "2026-01-23",
-        "lookalike_id": "9f3a6800317553d52198a2ab59396f28"
+        "source_audience_reach": {
+          "component_id": 77073
+        }
       }
     },
     {
@@ -973,22 +973,20 @@
       "source_segment_id": "8a61d692cc98ffdf829406a4ecfe628c",
       "last_run": {
         "component_id": 14518242,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 31399351,
-        "idfa": 1222498,
-        "aaid": 1937076,
-        "id5_id": 7431513
+        "idfa": 1220413,
+        "visitor_id": 31398301,
+        "aaid": 1937182,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 7541487
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 330230
-        },
+        "lookalike_id": "23b7914ca2b3709bea0ca1c47e4ad4cc",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 14518242
+          },
           "4": {
             "component_id": 6725946
-          },
-          "5": {
-            "component_id": 3702855
           },
           "1": {
             "component_id": 24081475
@@ -996,12 +994,14 @@
           "2": {
             "component_id": 20385131
           },
-          "3": {
-            "component_id": 14518242
+          "5": {
+            "component_id": 3702855
           }
         },
         "run_date": "2025-10-15",
-        "lookalike_id": "23b7914ca2b3709bea0ca1c47e4ad4cc"
+        "source_audience_reach": {
+          "component_id": 330230
+        }
       }
     },
     {
@@ -1020,22 +1020,20 @@
       "source_segment_id": "a7c6397f89241d56bbd40274f1d7b198",
       "last_run": {
         "component_id": 7943044,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 18627816,
-        "idfa": 667097,
-        "aaid": 1203720,
-        "id5_id": 4502838
+        "idfa": 665383,
+        "visitor_id": 18612997,
+        "aaid": 1203300,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 4561504
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 400196
-        },
+        "lookalike_id": "73c9d37b9b7177c705bcbc09df1a8ec6",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 14673113
+          },
           "4": {
             "component_id": 7943044
-          },
-          "5": {
-            "component_id": 3305344
           },
           "1": {
             "component_id": 29224078
@@ -1043,12 +1041,14 @@
           "2": {
             "component_id": 26815643
           },
-          "3": {
-            "component_id": 14673113
+          "5": {
+            "component_id": 3305344
           }
         },
         "run_date": "2025-10-15",
-        "lookalike_id": "73c9d37b9b7177c705bcbc09df1a8ec6"
+        "source_audience_reach": {
+          "component_id": 400196
+        }
       }
     },
     {
@@ -1067,22 +1067,20 @@
       "source_segment_id": "d1068f0924514b9e58e824bdd7875062",
       "last_run": {
         "component_id": 7212987,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 71595205,
-        "idfa": 2273984,
-        "aaid": 4387326,
-        "id5_id": 19527691
+        "idfa": 2247207,
+        "visitor_id": 70569063,
+        "aaid": 4352070,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 19432804
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 312869
-        },
+        "lookalike_id": "b5f98218ab021fdbf3a8e562f48d1e9f",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 13024753
+          },
           "4": {
             "component_id": 7212987
-          },
-          "5": {
-            "component_id": 3920736
           },
           "1": {
             "component_id": 16989103
@@ -1090,12 +1088,14 @@
           "2": {
             "component_id": 15685233
           },
-          "3": {
-            "component_id": 13024753
+          "5": {
+            "component_id": 3920736
           }
         },
         "run_date": "2026-04-07",
-        "lookalike_id": "b5f98218ab021fdbf3a8e562f48d1e9f"
+        "source_audience_reach": {
+          "component_id": 312869
+        }
       }
     },
     {
@@ -1114,22 +1114,20 @@
       "source_segment_id": "d88036ee0214fce1724339b6c6f38349",
       "last_run": {
         "component_id": 7868025,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 68652821,
-        "idfa": 2144988,
-        "aaid": 4166309,
-        "id5_id": 18537783
+        "idfa": 2121884,
+        "visitor_id": 67804921,
+        "aaid": 4134228,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 18479359
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 875100
-        },
+        "lookalike_id": "73eaa764e157cb395b45383f472a0211",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 12829561
+          },
           "4": {
             "component_id": 7868025
-          },
-          "5": {
-            "component_id": 3703316
           },
           "1": {
             "component_id": 21838961
@@ -1137,12 +1135,14 @@
           "2": {
             "component_id": 16825453
           },
-          "3": {
-            "component_id": 12829561
+          "5": {
+            "component_id": 3703316
           }
         },
         "run_date": "2026-04-07",
-        "lookalike_id": "73eaa764e157cb395b45383f472a0211"
+        "source_audience_reach": {
+          "component_id": 875100
+        }
       }
     },
     {
@@ -1161,22 +1161,20 @@
       "source_segment_id": "80ec5ea83baef8e9519b11a0471463c2",
       "last_run": {
         "component_id": 6344188,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 3683128,
-        "idfa": 66293,
-        "aaid": 166438,
-        "id5_id": 650519
+        "idfa": 66335,
+        "visitor_id": 3678307,
+        "aaid": 166578,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 657570
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 1797
-        },
+        "lookalike_id": "14f68949e016a593e17dbb43e3104af5",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 6344188
+          },
           "4": {
             "component_id": 2531663
-          },
-          "5": {
-            "component_id": 1282433
           },
           "1": {
             "component_id": 19245381
@@ -1184,12 +1182,14 @@
           "2": {
             "component_id": 19245381
           },
-          "3": {
-            "component_id": 6344188
+          "5": {
+            "component_id": 1282433
           }
         },
         "run_date": "2026-02-02",
-        "lookalike_id": "14f68949e016a593e17dbb43e3104af5"
+        "source_audience_reach": {
+          "component_id": 1797
+        }
       }
     },
     {
@@ -1225,22 +1225,20 @@
       "source_segment_id": "a790e3915e92f8db4360f726dc5e557c",
       "last_run": {
         "component_id": 16491317,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 19232334,
-        "idfa": 826450,
-        "aaid": 1276961,
-        "id5_id": 4614485
+        "idfa": 824634,
+        "visitor_id": 19219624,
+        "aaid": 1276830,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 4681224
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 6442905
-        },
+        "lookalike_id": "23426d07546867494ae123005db292b8",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 16491317
+          },
           "4": {
             "component_id": 9187043
-          },
-          "5": {
-            "component_id": 5018188
           },
           "1": {
             "component_id": 25130832
@@ -1248,12 +1246,14 @@
           "2": {
             "component_id": 22167146
           },
-          "3": {
-            "component_id": 16491317
+          "5": {
+            "component_id": 5018188
           }
         },
         "run_date": "2025-11-08",
-        "lookalike_id": "23426d07546867494ae123005db292b8"
+        "source_audience_reach": {
+          "component_id": 6442905
+        }
       }
     },
     {
@@ -1272,22 +1272,20 @@
       "source_segment_id": "c62fe21110d2c4f04d1f6e4709bc62aa",
       "last_run": {
         "component_id": 4224443,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 58147366,
-        "idfa": 1774370,
-        "aaid": 3463246,
-        "id5_id": 16134365
+        "idfa": 1742418,
+        "visitor_id": 56695286,
+        "aaid": 3429509,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 15856156
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 56657
-        },
+        "lookalike_id": "50e9f57c1c0532ff88fc32646ed10c82",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 11254743
+          },
           "4": {
             "component_id": 7214023
-          },
-          "5": {
-            "component_id": 4224443
           },
           "1": {
             "component_id": 15900434
@@ -1295,12 +1293,14 @@
           "2": {
             "component_id": 14487950
           },
-          "3": {
-            "component_id": 11254743
+          "5": {
+            "component_id": 4224443
           }
         },
         "run_date": "2026-04-23",
-        "lookalike_id": "50e9f57c1c0532ff88fc32646ed10c82"
+        "source_audience_reach": {
+          "component_id": 56657
+        }
       }
     },
     {
@@ -1319,22 +1319,20 @@
       "source_segment_id": "b4906daf97ef6938b339db9aad22604b",
       "last_run": {
         "component_id": 0,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 0,
         "idfa": 0,
+        "visitor_id": 0,
         "aaid": 0,
+        "timestamp": "2026-05-18T01:11:03.956546",
         "id5_id": 0
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 4512754
-        },
+        "lookalike_id": "5ecf54d876f6bfea0e60412ca1758b60",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 14288822
+          },
           "4": {
             "component_id": 9348161
-          },
-          "5": {
-            "component_id": 4816172
           },
           "1": {
             "component_id": 19097493
@@ -1342,12 +1340,14 @@
           "2": {
             "component_id": 17467388
           },
-          "3": {
-            "component_id": 14288822
+          "5": {
+            "component_id": 4816172
           }
         },
         "run_date": "2025-11-08",
-        "lookalike_id": "5ecf54d876f6bfea0e60412ca1758b60"
+        "source_audience_reach": {
+          "component_id": 4512754
+        }
       }
     },
     {
@@ -1366,22 +1366,20 @@
       "source_segment_id": "4c54d136a229b2c76e36bda9d9cbfde1",
       "last_run": {
         "component_id": 13203335,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 36635823,
-        "idfa": 1417728,
-        "aaid": 2195688,
-        "id5_id": 7966854
+        "idfa": 1414896,
+        "visitor_id": 36623100,
+        "aaid": 2195276,
+        "timestamp": "2026-05-18T01:11:03.956546",
+        "id5_id": 8082588
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 1484378
-        },
+        "lookalike_id": "4884a3e805c6b4ef3d31211a9e6de7e9",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 13203335
+          },
           "4": {
             "component_id": 10188597
-          },
-          "5": {
-            "component_id": 5754810
           },
           "1": {
             "component_id": 19324854
@@ -1389,12 +1387,14 @@
           "2": {
             "component_id": 15330289
           },
-          "3": {
-            "component_id": 13203335
+          "5": {
+            "component_id": 5754810
           }
         },
         "run_date": "2025-11-08",
-        "lookalike_id": "4884a3e805c6b4ef3d31211a9e6de7e9"
+        "source_audience_reach": {
+          "component_id": 1484378
+        }
       }
     },
     {
@@ -1413,22 +1413,20 @@
       "source_segment_id": "0c98dc4d239fe5ed746f410de06b009e",
       "last_run": {
         "component_id": 0,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 0,
         "idfa": 0,
+        "visitor_id": 0,
         "aaid": 0,
+        "timestamp": "2026-05-18T01:11:03.956546",
         "id5_id": 0
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 3101752
-        },
+        "lookalike_id": "112351357cef70f7f60a8d3d4fba5991",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 18757133
+          },
           "4": {
             "component_id": 8856778
-          },
-          "5": {
-            "component_id": 3454775
           },
           "1": {
             "component_id": 29890233
@@ -1436,12 +1434,14 @@
           "2": {
             "component_id": 26578418
           },
-          "3": {
-            "component_id": 18757133
+          "5": {
+            "component_id": 3454775
           }
         },
         "run_date": "2025-06-16",
-        "lookalike_id": "112351357cef70f7f60a8d3d4fba5991"
+        "source_audience_reach": {
+          "component_id": 3101752
+        }
       }
     },
     {
@@ -1460,15 +1460,13 @@
       "source_segment_id": "0c98dc4d239fe5ed746f410de06b009e",
       "last_run": null,
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 1202679
-        },
+        "lookalike_id": "0f874e27fa8ce302c6fecce1eaad2ff8",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 11111310
+          },
           "4": {
             "component_id": 5530264
-          },
-          "5": {
-            "component_id": 2620034
           },
           "1": {
             "component_id": 20682261
@@ -1476,12 +1474,14 @@
           "2": {
             "component_id": 16296535
           },
-          "3": {
-            "component_id": 11111310
+          "5": {
+            "component_id": 2620034
           }
         },
         "run_date": "2025-09-22",
-        "lookalike_id": "0f874e27fa8ce302c6fecce1eaad2ff8"
+        "source_audience_reach": {
+          "component_id": 1202679
+        }
       }
     },
     {
@@ -1517,15 +1517,13 @@
       "source_segment_id": "29b843884288e0c3f7881a397a6f433d",
       "last_run": null,
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 107255
-        },
+        "lookalike_id": "3aef3887eee57268265dd20a162ee1dc",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 18370679
+          },
           "4": {
             "component_id": 6870797
-          },
-          "5": {
-            "component_id": 2885764
           },
           "1": {
             "component_id": 23964744
@@ -1533,12 +1531,14 @@
           "2": {
             "component_id": 20640078
           },
-          "3": {
-            "component_id": 18370679
+          "5": {
+            "component_id": 2885764
           }
         },
         "run_date": "2025-06-29",
-        "lookalike_id": "3aef3887eee57268265dd20a162ee1dc"
+        "source_audience_reach": {
+          "component_id": 107255
+        }
       }
     },
     {
@@ -1557,15 +1557,13 @@
       "source_segment_id": "5d684fd3cc11df307d41eda2aae66ff2",
       "last_run": null,
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 2390748
-        },
+        "lookalike_id": "e1f7fb9e88dedbc02e248ca5ccdb2ba4",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 17651724
+          },
           "4": {
             "component_id": 9433945
-          },
-          "5": {
-            "component_id": 4048822
           },
           "1": {
             "component_id": 25094776
@@ -1573,12 +1571,14 @@
           "2": {
             "component_id": 22670501
           },
-          "3": {
-            "component_id": 17651724
+          "5": {
+            "component_id": 4048822
           }
         },
         "run_date": "2025-06-14",
-        "lookalike_id": "e1f7fb9e88dedbc02e248ca5ccdb2ba4"
+        "source_audience_reach": {
+          "component_id": 2390748
+        }
       }
     },
     {
@@ -1597,22 +1597,20 @@
       "source_segment_id": "c904706c5f4a19cf2fee3badec46c5eb",
       "last_run": {
         "component_id": 0,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 0,
         "idfa": 0,
+        "visitor_id": 0,
         "aaid": 0,
+        "timestamp": "2026-05-18T01:11:03.956546",
         "id5_id": 0
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 3916413
-        },
+        "lookalike_id": "898f5769727a87ba3cefb172cbd13dd9",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 18032514
+          },
           "4": {
             "component_id": 8292412
-          },
-          "5": {
-            "component_id": 3267124
           },
           "1": {
             "component_id": 31433205
@@ -1620,12 +1618,14 @@
           "2": {
             "component_id": 26593520
           },
-          "3": {
-            "component_id": 18032514
+          "5": {
+            "component_id": 3267124
           }
         },
         "run_date": "2025-06-14",
-        "lookalike_id": "898f5769727a87ba3cefb172cbd13dd9"
+        "source_audience_reach": {
+          "component_id": 3916413
+        }
       }
     },
     {
@@ -1644,22 +1644,20 @@
       "source_segment_id": "002ac0d1a694654a655abdb4cc7856bb",
       "last_run": {
         "component_id": 0,
-        "timestamp": "2026-05-06T01:11:09.052615",
-        "visitor_id": 0,
         "idfa": 0,
+        "visitor_id": 0,
         "aaid": 0,
+        "timestamp": "2026-05-18T01:11:03.956546",
         "id5_id": 0
       },
       "kpis": {
-        "source_audience_reach": {
-          "component_id": 6747248
-        },
+        "lookalike_id": "2a6434f74e54ca4eba41b8a5a1dc6efc",
         "reach_per_similarity": {
+          "3": {
+            "component_id": 11794828
+          },
           "4": {
             "component_id": 6863402
-          },
-          "5": {
-            "component_id": 3674839
           },
           "1": {
             "component_id": 17400326
@@ -1667,12 +1665,14 @@
           "2": {
             "component_id": 15437835
           },
-          "3": {
-            "component_id": 11794828
+          "5": {
+            "component_id": 3674839
           }
         },
         "run_date": "2025-06-25",
-        "lookalike_id": "2a6434f74e54ca4eba41b8a5a1dc6efc"
+        "source_audience_reach": {
+          "component_id": 6747248
+        }
       }
     },
     {

@@ -1,8 +1,5 @@
 // ─── Color Tokens ─────────────────────────────────────────────────────────────
-$color-primary:        #266bd3;
-$color-primary-hover:  #2e5aae;
-$color-secondary:      #6c49cf;
-$color-accent:         #099f91;
+$color-primary:        #020617;
 
 $color-bg:             #f1f5f9;
 $color-surface:        #ffffff;
@@ -12,10 +9,7 @@ $color-text-base:      #1c1c1c;
 $color-text-muted:     #64748b;
 $color-text-inverse:   #ffffff;
 
-$color-dark-primary:        #9c7fcb;
-$color-dark-primary-hover:  #c4acea;
-$color-dark-secondary:      #2bb5b5;
-$color-dark-accent:         #368383;
+$color-dark-primary:        #f1f5f9;
 
 $color-dark-bg:             #020617;
 $color-dark-surface:        #0e172a;
@@ -23,8 +17,7 @@ $color-dark-surface-nuance: #182540;
 $color-dark-border:         #334155;
 
 $color-dark-text-base:      #ffffff;
-$color-dark-text-muted:  #74859c;
-$color-dark-text-inverse:   #212121;
+$color-dark-text-muted:     #74859c;
 
 $error-color:               #de3e64;
 $warning-color:             #f3c640;
@@ -34,16 +27,12 @@ $active-color:              #6a9807;
 $font-family-base:     'Segoe UI', system-ui, -apple-system, sans-serif;
 
 $font-size-xs:         0.75rem;   // 12px
-$font-size-sm:         0.875rem;  // 14px
 $font-size-base:       1rem;      // 16px
 $font-size-lg:         1.125rem;  // 18px
-$font-size-xl:         1.25rem;   // 20px
-$font-size-2xl:        1.5rem;    // 24px
 $font-size-3xl:        1.875rem;  // 30px
 $font-size-4xl:        2.25rem;   // 36px
 
 $font-weight-normal:   400;
-$font-weight-medium:   500;
 $font-weight-semibold: 600;
 $font-weight-bold:     700;
 
@@ -51,25 +40,20 @@ $line-height-tight:    1.25;
 $line-height-base:     1.6;
 
 // ─── Spacing Tokens ───────────────────────────────────────────────────────────
-$space-1:  0.25rem;   //  4px
 $space-2:  0.5rem;    //  8px
 $space-3:  0.75rem;   // 12px
 $space-4:  1rem;      // 16px
-$space-5:  1.25rem;   // 20px
 $space-6:  1.5rem;    // 24px
 $space-8:  2rem;      // 32px
 $space-10: 2.5rem;    // 40px
 $space-12: 3rem;      // 48px
-$space-16: 4rem;      // 64px
 
 // ─── Border Radius Tokens ─────────────────────────────────────────────────────
-$radius-sm:  0.25rem;
 $radius-md:  0.5rem;
 $radius-lg:  0.75rem;
 $radius-xl:  1rem;
 
 // ─── Shadow Tokens ────────────────────────────────────────────────────────────
-$shadow-sm:  0 1px 3px rgba(0, 0, 0, 0.08);
 $shadow-md:  0 4px 12px rgba(0, 0, 0, 0.10);
 $shadow-lg:  0 8px 24px rgba(0, 0, 0, 0.12);
 
