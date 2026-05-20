@@ -3,7 +3,7 @@
 .cache
 *.env
 *.iml
-activeTargets
+briefing
 node_modules
 .env.*
 !.env.example
