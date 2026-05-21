@@ -142,6 +142,7 @@ body.theme--light {
   display: flex;
   flex-direction: column;
   gap: $space-6;
+  padding: $space-8;
   border-radius: $radius-xl;
   box-shadow: $shadow-lg;
 
@@ -209,6 +210,7 @@ body.theme--light {
     }
 
     &--type,
+    &--reach,
     &--used,
     &--end-date {
       white-space: nowrap;
@@ -217,6 +219,10 @@ body.theme--light {
 
     &--type {
       width: 5rem;
+    }
+
+    &--reach {
+      width: 7rem;
     }
 
     &--used {

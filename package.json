@@ -11,9 +11,8 @@
     "copy:assets": "rm -rf webapp/assets && mkdir -p webapp/assets && cp -R src/assets/. webapp/assets/",
     "build": "npm run clean && npm run compile:ts && npm run compile:sass && npm run copy:assets",
     "fetch": "NODE_ENV=development ts-node src/scripts/fetchSegmentData.ts",
-    "fetch:prod": "NODE_ENV=production ts-node src/scripts/fetchSegmentData.ts",
-    "start:prod": "npm run build && npm run fetch:prod && NODE_ENV=production node webapp/server.js",
-    "start:dev": "npm run clean && npm run fetch && npm run build && npm run dev"
+    "start": "npm run build && npm run dev",
+    "all": "npm run clean && npm run fetch && npm run build && npm run dev"
   },
   "dependencies": {
     "axios": "^1.7.2",

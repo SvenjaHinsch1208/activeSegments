@@ -8,6 +8,7 @@ export interface SegmentTableRow {
   name: string;
   description: string;
   type: string;
+  reach: string;
   used: number;
   endDate: string;
   author: string;
@@ -53,6 +54,7 @@ export function buildSegmentTableRows(
       name: metadata?.name ?? EMPTY_VALUE,
       description: metadata?.description ?? EMPTY_VALUE,
       type: metadata?.type ?? EMPTY_VALUE,
+      reach: metadata?.reach ?? EMPTY_VALUE,
       used: segment.count,
       endDate: formatEndDate(segment.endTime),
       author: metadata?.author ?? EMPTY_VALUE,
@@ -62,4 +64,3 @@ export function buildSegmentTableRows(
     };
   });
 }
-

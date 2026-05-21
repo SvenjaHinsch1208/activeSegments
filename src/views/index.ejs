@@ -46,6 +46,9 @@
                 <th class="segments-table__cell segments-table__cell--head segments-table__cell--type" scope="col" aria-sort="none">
                   <button class="segments-table__sort-button" type="button" data-sort-type="text">TYPE<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
                 </th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--reach" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="number">REACH<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
                 <th class="segments-table__cell segments-table__cell--head segments-table__cell--used" scope="col" aria-sort="none">
                   <button class="segments-table__sort-button" type="button" data-sort-type="number">USED<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
                 </th>
@@ -70,6 +73,7 @@
                   <td class="segments-table__cell"><%= row.name %></td>
                   <td class="segments-table__cell segments-table__cell--description"><%= row.description %></td>
                   <td class="segments-table__cell segments-table__cell--type"><%= row.type %></td>
+                  <td class="segments-table__cell segments-table__cell--reach"><%= row.reach %></td>
                   <td class="segments-table__cell segments-table__cell--used"><%= row.used %></td>
                   <td class="segments-table__cell segments-table__cell--end-date"><%= row.endDate %></td>
                   <td class="segments-table__cell"><%= row.author %></td>
