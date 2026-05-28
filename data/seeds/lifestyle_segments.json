@@ -1,2002 +1,2002 @@
 {
   "lifestyle_segments": [
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:13.098000+00:00",
-      "original_author": "manual_import",
-      "description": "Digital Creatives are curious innovators who thrive in the real-digital world, using technology as a tool for creativity, self-expression, and shaping the future.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "37512f32201788a65e20c63e4beb6611",
-      "export_id": "Hf",
+      "version_creation_time": "2026-02-17T15:46:13.098000+00:00",
       "display_name": "PER_LIFE_DigitalCreative_High",
-      "lifestyle_profile_id": "digital_creative",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "digital_creative",
+      "version_id": "1",
+      "description": "Digital Creatives are curious innovators who thrive in the real-digital world, using technology as a tool for creativity, self-expression, and shaping the future.",
       "status": "ACTIVE",
+      "export_id": "Hf",
       "original_creation_time": "2026-02-17T15:46:13.098000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 8737168
-          },
-          "4": {
-            "component_id": 5829698
-          },
-          "1": {
-            "component_id": 11649557
+          "5": {
+            "component_id": 2907607
           },
           "2": {
-            "component_id": 10518950
+            "component_id": 10406846
           },
-          "5": {
-            "component_id": 2941925
+          "4": {
+            "component_id": 5764635
+          },
+          "3": {
+            "component_id": 8646952
+          },
+          "1": {
+            "component_id": 11529270
           }
         },
-        "lifestyle_profile_id": "digital_creative",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "digital_creative"
       },
-      "reach": 5829698
+      "reach": 5764635
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:13.527000+00:00",
-      "original_author": "manual_import",
-      "description": "Digital Creatives are curious innovators who thrive in the real-digital world, using technology as a tool for creativity, self-expression, and shaping the future.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "11dc678931adad811a0eb2ed03c8af21",
-      "export_id": "Hg",
+      "version_creation_time": "2026-02-17T15:46:13.527000+00:00",
       "display_name": "PER_LIFE_DigitalCreative_Max",
-      "lifestyle_profile_id": "digital_creative",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "digital_creative",
+      "version_id": "1",
+      "description": "Digital Creatives are curious innovators who thrive in the real-digital world, using technology as a tool for creativity, self-expression, and shaping the future.",
       "status": "ACTIVE",
+      "export_id": "Hg",
       "original_creation_time": "2026-02-17T15:46:13.527000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 8737168
-          },
-          "4": {
-            "component_id": 5829698
-          },
-          "1": {
-            "component_id": 11649557
+          "5": {
+            "component_id": 2907607
           },
           "2": {
-            "component_id": 10518950
+            "component_id": 10406846
           },
-          "5": {
-            "component_id": 2941925
+          "4": {
+            "component_id": 5764635
+          },
+          "3": {
+            "component_id": 8646952
+          },
+          "1": {
+            "component_id": 11529270
           }
         },
-        "lifestyle_profile_id": "digital_creative",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "digital_creative"
       },
-      "reach": 2941925
+      "reach": 2907607
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:12.577000+00:00",
-      "original_author": "manual_import",
-      "description": "Digital Creatives are curious innovators who thrive in the real-digital world, using technology as a tool for creativity, self-expression, and shaping the future.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "6271baabbabfc9879d348f8384f2dec9",
-      "export_id": "He",
+      "version_creation_time": "2026-02-17T15:46:12.577000+00:00",
       "display_name": "PER_LIFE_DigitalCreative_Med",
-      "lifestyle_profile_id": "digital_creative",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "digital_creative",
+      "version_id": "1",
+      "description": "Digital Creatives are curious innovators who thrive in the real-digital world, using technology as a tool for creativity, self-expression, and shaping the future.",
       "status": "ACTIVE",
+      "export_id": "He",
       "original_creation_time": "2026-02-17T15:46:12.577000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 8737168
-          },
-          "4": {
-            "component_id": 5829698
-          },
-          "1": {
-            "component_id": 11649557
+          "5": {
+            "component_id": 2907607
           },
           "2": {
-            "component_id": 10518950
+            "component_id": 10406846
           },
-          "5": {
-            "component_id": 2941925
+          "4": {
+            "component_id": 5764635
+          },
+          "3": {
+            "component_id": 8646952
+          },
+          "1": {
+            "component_id": 11529270
           }
         },
-        "lifestyle_profile_id": "digital_creative",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "digital_creative"
       },
-      "reach": 8737168
+      "reach": 8646952
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:14.449000+00:00",
-      "original_author": "manual_import",
-      "description": "Forever Youngsters are health-conscious self-optimizers who see youthfulness as a life goal and continuously invest in keeping body and mind fit.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "59fb5da4582a1957447b01b10a74cd4c",
-      "export_id": "Hi",
+      "version_creation_time": "2026-02-17T15:46:14.449000+00:00",
       "display_name": "PER_LIFE_ForeverYoungster_High",
-      "lifestyle_profile_id": "forever_youngster",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "forever_youngster",
+      "version_id": "1",
+      "description": "Forever Youngsters are health-conscious self-optimizers who see youthfulness as a life goal and continuously invest in keeping body and mind fit.",
       "status": "ACTIVE",
+      "export_id": "Hi",
       "original_creation_time": "2026-02-17T15:46:14.449000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 6255443
-          },
-          "4": {
-            "component_id": 4159244
-          },
           "1": {
-            "component_id": 8318467
+            "component_id": 8339009
           },
           "2": {
-            "component_id": 7492290
+            "component_id": 7505108
+          },
+          "4": {
+            "component_id": 4169505
+          },
+          "3": {
+            "component_id": 6254257
           },
           "5": {
-            "component_id": 2084971
+            "component_id": 2084753
           }
         },
-        "lifestyle_profile_id": "forever_youngster",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "forever_youngster"
       },
-      "reach": 4159244
+      "reach": 4169505
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:14.674000+00:00",
-      "original_author": "manual_import",
-      "description": "Forever Youngsters are health-conscious self-optimizers who see youthfulness as a life goal and continuously invest in keeping body and mind fit.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "cc43a48fe02139f8916e5e553e3cbfe5",
-      "export_id": "Hj",
+      "version_creation_time": "2026-02-17T15:46:14.674000+00:00",
       "display_name": "PER_LIFE_ForeverYoungster_Max",
-      "lifestyle_profile_id": "forever_youngster",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "forever_youngster",
+      "version_id": "1",
+      "description": "Forever Youngsters are health-conscious self-optimizers who see youthfulness as a life goal and continuously invest in keeping body and mind fit.",
       "status": "ACTIVE",
+      "export_id": "Hj",
       "original_creation_time": "2026-02-17T15:46:14.674000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 6255443
-          },
-          "4": {
-            "component_id": 4159244
-          },
           "1": {
-            "component_id": 8318467
+            "component_id": 8339009
           },
           "2": {
-            "component_id": 7492290
+            "component_id": 7505108
+          },
+          "4": {
+            "component_id": 4169505
+          },
+          "3": {
+            "component_id": 6254257
           },
           "5": {
-            "component_id": 2084971
+            "component_id": 2084753
           }
         },
-        "lifestyle_profile_id": "forever_youngster",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "forever_youngster"
       },
-      "reach": 2084971
+      "reach": 2084753
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:13.902000+00:00",
-      "original_author": "manual_import",
-      "description": "Forever Youngsters are health-conscious self-optimizers who see youthfulness as a life goal and continuously invest in keeping body and mind fit.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "1229808808f86ac8d3338f481251f04f",
-      "export_id": "Hh",
+      "version_creation_time": "2026-02-17T15:46:13.902000+00:00",
       "display_name": "PER_LIFE_ForeverYoungster_Med",
-      "lifestyle_profile_id": "forever_youngster",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "forever_youngster",
+      "version_id": "1",
+      "description": "Forever Youngsters are health-conscious self-optimizers who see youthfulness as a life goal and continuously invest in keeping body and mind fit.",
       "status": "ACTIVE",
+      "export_id": "Hh",
       "original_creation_time": "2026-02-17T15:46:13.902000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 6255443
-          },
-          "4": {
-            "component_id": 4159244
-          },
           "1": {
-            "component_id": 8318467
+            "component_id": 8339009
           },
           "2": {
-            "component_id": 7492290
+            "component_id": 7505108
+          },
+          "4": {
+            "component_id": 4169505
+          },
+          "3": {
+            "component_id": 6254257
           },
           "5": {
-            "component_id": 2084971
+            "component_id": 2084753
           }
         },
-        "lifestyle_profile_id": "forever_youngster",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "forever_youngster"
       },
-      "reach": 6255443
+      "reach": 6254257
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:15.212000+00:00",
-      "original_author": "manual_import",
-      "description": "Free Agers are calm, pragmatic optimists who prize mindfulness, simple living, and respectful relationships, treating aging as a privilege while favoring family, nature, and low-pressure routines over status or trends.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "c46c07a5c63f00dfd9d923410abede70",
-      "export_id": "Hl",
+      "version_creation_time": "2026-02-17T15:46:15.212000+00:00",
       "display_name": "PER_LIFE_FreeAger_High",
-      "lifestyle_profile_id": "free_ager",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "free_ager",
+      "version_id": "1",
+      "description": "Free Agers are calm, pragmatic optimists who prize mindfulness, simple living, and respectful relationships, treating aging as a privilege while favoring family, nature, and low-pressure routines over status or trends.",
       "status": "ACTIVE",
+      "export_id": "Hl",
       "original_creation_time": "2026-02-17T15:46:15.212000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10539469
-          },
-          "4": {
-            "component_id": 7026313
-          },
-          "1": {
-            "component_id": 14052625
+          "5": {
+            "component_id": 3477864
           },
           "2": {
-            "component_id": 12698133
+            "component_id": 12573342
           },
-          "5": {
-            "component_id": 3513157
+          "4": {
+            "component_id": 6955727
+          },
+          "3": {
+            "component_id": 10433590
+          },
+          "1": {
+            "component_id": 13911453
           }
         },
-        "lifestyle_profile_id": "free_ager",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "free_ager"
       },
-      "reach": 7026313
+      "reach": 6955727
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:15.547000+00:00",
-      "original_author": "manual_import",
-      "description": "Free Agers are calm, pragmatic optimists who prize mindfulness, simple living, and respectful relationships, treating aging as a privilege while favoring family, nature, and low-pressure routines over status or trends.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "cdae642dc5523b5187551f09f8a5c235",
-      "export_id": "Hm",
+      "version_creation_time": "2026-02-17T15:46:15.547000+00:00",
       "display_name": "PER_LIFE_FreeAger_Max",
-      "lifestyle_profile_id": "free_ager",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "free_ager",
+      "version_id": "1",
+      "description": "Free Agers are calm, pragmatic optimists who prize mindfulness, simple living, and respectful relationships, treating aging as a privilege while favoring family, nature, and low-pressure routines over status or trends.",
       "status": "ACTIVE",
+      "export_id": "Hm",
       "original_creation_time": "2026-02-17T15:46:15.547000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10539469
-          },
-          "4": {
-            "component_id": 7026313
-          },
-          "1": {
-            "component_id": 14052625
+          "5": {
+            "component_id": 3477864
           },
           "2": {
-            "component_id": 12698133
+            "component_id": 12573342
           },
-          "5": {
-            "component_id": 3513157
+          "4": {
+            "component_id": 6955727
+          },
+          "3": {
+            "component_id": 10433590
+          },
+          "1": {
+            "component_id": 13911453
           }
         },
-        "lifestyle_profile_id": "free_ager",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "free_ager"
       },
-      "reach": 3513157
+      "reach": 3477864
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:14.884000+00:00",
-      "original_author": "manual_import",
-      "description": "Free Agers are calm, pragmatic optimists who prize mindfulness, simple living, and respectful relationships, treating aging as a privilege while favoring family, nature, and low-pressure routines over status or trends.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "b49d87b38d53de1d16db89fb559ebf7b",
-      "export_id": "Hk",
+      "version_creation_time": "2026-02-17T15:46:14.884000+00:00",
       "display_name": "PER_LIFE_FreeAger_Med",
-      "lifestyle_profile_id": "free_ager",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "free_ager",
+      "version_id": "1",
+      "description": "Free Agers are calm, pragmatic optimists who prize mindfulness, simple living, and respectful relationships, treating aging as a privilege while favoring family, nature, and low-pressure routines over status or trends.",
       "status": "ACTIVE",
+      "export_id": "Hk",
       "original_creation_time": "2026-02-17T15:46:14.884000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10539469
-          },
-          "4": {
-            "component_id": 7026313
-          },
-          "1": {
-            "component_id": 14052625
+          "5": {
+            "component_id": 3477864
           },
           "2": {
-            "component_id": 12698133
+            "component_id": 12573342
           },
-          "5": {
-            "component_id": 3513157
+          "4": {
+            "component_id": 6955727
+          },
+          "3": {
+            "component_id": 10433590
+          },
+          "1": {
+            "component_id": 13911453
           }
         },
-        "lifestyle_profile_id": "free_ager",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "free_ager"
       },
-      "reach": 10539469
+      "reach": 10433590
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:16.456000+00:00",
-      "original_author": "manual_import",
-      "description": "Golden Mentors are lifelong learners who turn their experience into wisdom and actively share it with society and the economy, even in later life.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "184c39f6974153c447679f762ca59521",
-      "export_id": "Ho",
+      "version_creation_time": "2026-02-17T15:46:16.456000+00:00",
       "display_name": "PER_LIFE_GoldenMentor_High",
-      "lifestyle_profile_id": "golden_mentor",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "golden_mentor",
+      "version_id": "1",
+      "description": "Golden Mentors are lifelong learners who turn their experience into wisdom and actively share it with society and the economy, even in later life.",
       "status": "ACTIVE",
+      "export_id": "Ho",
       "original_creation_time": "2026-02-17T15:46:16.456000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5011411
-          },
-          "4": {
-            "component_id": 3373252
-          },
-          "1": {
-            "component_id": 6674802
+          "5": {
+            "component_id": 1776870
           },
           "2": {
-            "component_id": 6102340
+            "component_id": 5978890
           },
-          "5": {
-            "component_id": 1793707
+          "4": {
+            "component_id": 3347165
+          },
+          "3": {
+            "component_id": 5008300
+          },
+          "1": {
+            "component_id": 6662285
           }
         },
-        "lifestyle_profile_id": "golden_mentor",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "golden_mentor"
       },
-      "reach": 3373252
+      "reach": 3347165
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:16.863000+00:00",
-      "original_author": "manual_import",
-      "description": "Golden Mentors are lifelong learners who turn their experience into wisdom and actively share it with society and the economy, even in later life.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "4a9404da63c28fa02aa68cd48d9295b4",
-      "export_id": "Hp",
+      "version_creation_time": "2026-02-17T15:46:16.863000+00:00",
       "display_name": "PER_LIFE_GoldenMentor_Max",
-      "lifestyle_profile_id": "golden_mentor",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "golden_mentor",
+      "version_id": "1",
+      "description": "Golden Mentors are lifelong learners who turn their experience into wisdom and actively share it with society and the economy, even in later life.",
       "status": "ACTIVE",
+      "export_id": "Hp",
       "original_creation_time": "2026-02-17T15:46:16.863000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5011411
-          },
-          "4": {
-            "component_id": 3373252
-          },
-          "1": {
-            "component_id": 6674802
+          "5": {
+            "component_id": 1776870
           },
           "2": {
-            "component_id": 6102340
+            "component_id": 5978890
           },
-          "5": {
-            "component_id": 1793707
+          "4": {
+            "component_id": 3347165
+          },
+          "3": {
+            "component_id": 5008300
+          },
+          "1": {
+            "component_id": 6662285
           }
         },
-        "lifestyle_profile_id": "golden_mentor",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "golden_mentor"
       },
-      "reach": 1793707
+      "reach": 1776870
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:16.007000+00:00",
-      "original_author": "manual_import",
-      "description": "Golden Mentors are lifelong learners who turn their experience into wisdom and actively share it with society and the economy, even in later life.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "91df62741a8c70042b06d5718d6569b0",
-      "export_id": "Hn",
+      "version_creation_time": "2026-02-17T15:46:16.007000+00:00",
       "display_name": "PER_LIFE_GoldenMentor_Med",
-      "lifestyle_profile_id": "golden_mentor",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "golden_mentor",
+      "version_id": "1",
+      "description": "Golden Mentors are lifelong learners who turn their experience into wisdom and actively share it with society and the economy, even in later life.",
       "status": "ACTIVE",
+      "export_id": "Hn",
       "original_creation_time": "2026-02-17T15:46:16.007000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5011411
-          },
-          "4": {
-            "component_id": 3373252
-          },
-          "1": {
-            "component_id": 6674802
+          "5": {
+            "component_id": 1776870
           },
           "2": {
-            "component_id": 6102340
+            "component_id": 5978890
           },
-          "5": {
-            "component_id": 1793707
+          "4": {
+            "component_id": 3347165
+          },
+          "3": {
+            "component_id": 5008300
+          },
+          "1": {
+            "component_id": 6662285
           }
         },
-        "lifestyle_profile_id": "golden_mentor",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "golden_mentor"
       },
-      "reach": 5011411
+      "reach": 5008300
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:17.639000+00:00",
-      "original_author": "manual_import",
-      "description": "Home Keepers are security-oriented traditionalists who put family first, invest in a cozy, well-kept home and stable job, and prefer reliable routines over risky novelty.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "bdee96d0015acd6e15f6dd3eef7e262a",
-      "export_id": "Hr",
+      "version_creation_time": "2026-02-17T15:46:17.639000+00:00",
       "display_name": "PER_LIFE_HomeKeeper_High",
-      "lifestyle_profile_id": "home_keeper",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "home_keeper",
+      "version_id": "1",
+      "description": "Home Keepers are security-oriented traditionalists who put family first, invest in a cozy, well-kept home and stable job, and prefer reliable routines over risky novelty.",
       "status": "ACTIVE",
+      "export_id": "Hr",
       "original_creation_time": "2026-02-17T15:46:17.639000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11466348
-          },
-          "4": {
-            "component_id": 7637456
-          },
           "1": {
-            "component_id": 15274911
+            "component_id": 15074499
           },
           "2": {
-            "component_id": 13897415
+            "component_id": 13704032
+          },
+          "4": {
+            "component_id": 7537342
+          },
+          "3": {
+            "component_id": 11310273
           },
           "5": {
-            "component_id": 3818728
+            "component_id": 3768626
           }
         },
-        "lifestyle_profile_id": "home_keeper",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "home_keeper"
       },
-      "reach": 7637456
+      "reach": 7537342
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:17.993000+00:00",
-      "original_author": "manual_import",
-      "description": "Home Keepers are security-oriented traditionalists who put family first, invest in a cozy, well-kept home and stable job, and prefer reliable routines over risky novelty.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "43b4ca5364d100d7b820c2db6d046b26",
-      "export_id": "Hs",
+      "version_creation_time": "2026-02-17T15:46:17.993000+00:00",
       "display_name": "PER_LIFE_HomeKeeper_Max",
-      "lifestyle_profile_id": "home_keeper",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "home_keeper",
+      "version_id": "1",
+      "description": "Home Keepers are security-oriented traditionalists who put family first, invest in a cozy, well-kept home and stable job, and prefer reliable routines over risky novelty.",
       "status": "ACTIVE",
+      "export_id": "Hs",
       "original_creation_time": "2026-02-17T15:46:17.993000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11466348
-          },
-          "4": {
-            "component_id": 7637456
-          },
           "1": {
-            "component_id": 15274911
+            "component_id": 15074499
           },
           "2": {
-            "component_id": 13897415
+            "component_id": 13704032
+          },
+          "4": {
+            "component_id": 7537342
+          },
+          "3": {
+            "component_id": 11310273
           },
           "5": {
-            "component_id": 3818728
+            "component_id": 3768626
           }
         },
-        "lifestyle_profile_id": "home_keeper",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "home_keeper"
       },
-      "reach": 3818728
+      "reach": 3768626
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:17.265000+00:00",
-      "original_author": "manual_import",
-      "description": "Home Keepers are security-oriented traditionalists who put family first, invest in a cozy, well-kept home and stable job, and prefer reliable routines over risky novelty.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "fae9ad29eee3b618f93a0e55b50ca010",
-      "export_id": "Hq",
+      "version_creation_time": "2026-02-17T15:46:17.265000+00:00",
       "display_name": "PER_LIFE_HomeKeeper_Med",
-      "lifestyle_profile_id": "home_keeper",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "home_keeper",
+      "version_id": "1",
+      "description": "Home Keepers are security-oriented traditionalists who put family first, invest in a cozy, well-kept home and stable job, and prefer reliable routines over risky novelty.",
       "status": "ACTIVE",
+      "export_id": "Hq",
       "original_creation_time": "2026-02-17T15:46:17.265000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11466348
-          },
-          "4": {
-            "component_id": 7637456
-          },
           "1": {
-            "component_id": 15274911
+            "component_id": 15074499
           },
           "2": {
-            "component_id": 13897415
+            "component_id": 13704032
+          },
+          "4": {
+            "component_id": 7537342
+          },
+          "3": {
+            "component_id": 11310273
           },
           "5": {
-            "component_id": 3818728
+            "component_id": 3768626
           }
         },
-        "lifestyle_profile_id": "home_keeper",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "home_keeper"
       },
-      "reach": 11466348
+      "reach": 11310273
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:18.593000+00:00",
-      "original_author": "manual_import",
-      "description": "Mainstreamers are security-seeking joiners who value social acceptance, stick to proven choices, and prefer a safe, unobtrusive everyday life over risk or novelty.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "46fe7fd08f6b1e682427ccb933506728",
-      "export_id": "Hu",
+      "version_creation_time": "2026-02-17T15:46:18.593000+00:00",
       "display_name": "PER_LIFE_Mainstreamer_High",
-      "lifestyle_profile_id": "mainstreamer",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "mainstreamer",
+      "version_id": "1",
+      "description": "Mainstreamers are security-seeking joiners who value social acceptance, stick to proven choices, and prefer a safe, unobtrusive everyday life over risk or novelty.",
       "status": "ACTIVE",
+      "export_id": "Hu",
       "original_creation_time": "2026-02-17T15:46:18.593000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11605365
-          },
-          "4": {
-            "component_id": 7736910
-          },
-          "1": {
-            "component_id": 15473820
+          "5": {
+            "component_id": 3824597
           },
           "2": {
-            "component_id": 14093703
+            "component_id": 13921572
           },
-          "5": {
-            "component_id": 3868455
+          "4": {
+            "component_id": 7649193
+          },
+          "3": {
+            "component_id": 11473790
+          },
+          "1": {
+            "component_id": 15298385
           }
         },
-        "lifestyle_profile_id": "mainstreamer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "mainstreamer"
       },
-      "reach": 7736910
+      "reach": 7649193
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:18.814000+00:00",
-      "original_author": "manual_import",
-      "description": "Mainstreamers are security-seeking joiners who value social acceptance, stick to proven choices, and prefer a safe, unobtrusive everyday life over risk or novelty.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "71b74f230b5f458f23b2de84089dd60c",
-      "export_id": "Hv",
+      "version_creation_time": "2026-02-17T15:46:18.814000+00:00",
       "display_name": "PER_LIFE_Mainstreamer_Max",
-      "lifestyle_profile_id": "mainstreamer",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "mainstreamer",
+      "version_id": "1",
+      "description": "Mainstreamers are security-seeking joiners who value social acceptance, stick to proven choices, and prefer a safe, unobtrusive everyday life over risk or novelty.",
       "status": "ACTIVE",
+      "export_id": "Hv",
       "original_creation_time": "2026-02-17T15:46:18.814000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11605365
-          },
-          "4": {
-            "component_id": 7736910
-          },
-          "1": {
-            "component_id": 15473820
+          "5": {
+            "component_id": 3824597
           },
           "2": {
-            "component_id": 14093703
+            "component_id": 13921572
           },
-          "5": {
-            "component_id": 3868455
+          "4": {
+            "component_id": 7649193
+          },
+          "3": {
+            "component_id": 11473790
+          },
+          "1": {
+            "component_id": 15298385
           }
         },
-        "lifestyle_profile_id": "mainstreamer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "mainstreamer"
       },
-      "reach": 3868455
+      "reach": 3824597
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:18.305000+00:00",
-      "original_author": "manual_import",
-      "description": "Mainstreamers are security-seeking joiners who value social acceptance, stick to proven choices, and prefer a safe, unobtrusive everyday life over risk or novelty.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "ae32d0e9b2e379538b4d0c6f1bc1abef",
-      "export_id": "Ht",
+      "version_creation_time": "2026-02-17T15:46:18.305000+00:00",
       "display_name": "PER_LIFE_Mainstreamer_Med",
-      "lifestyle_profile_id": "mainstreamer",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "mainstreamer",
+      "version_id": "1",
+      "description": "Mainstreamers are security-seeking joiners who value social acceptance, stick to proven choices, and prefer a safe, unobtrusive everyday life over risk or novelty.",
       "status": "ACTIVE",
+      "export_id": "Ht",
       "original_creation_time": "2026-02-17T15:46:18.305000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11605365
-          },
-          "4": {
-            "component_id": 7736910
-          },
-          "1": {
-            "component_id": 15473820
+          "5": {
+            "component_id": 3824597
           },
           "2": {
-            "component_id": 14093703
+            "component_id": 13921572
           },
-          "5": {
-            "component_id": 3868455
+          "4": {
+            "component_id": 7649193
+          },
+          "3": {
+            "component_id": 11473790
+          },
+          "1": {
+            "component_id": 15298385
           }
         },
-        "lifestyle_profile_id": "mainstreamer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "mainstreamer"
       },
-      "reach": 11605365
+      "reach": 11473790
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:19.528000+00:00",
-      "original_author": "manual_import",
-      "description": "Me Professionals are status-driven high performers who chase success, luxury, and fun while thriving on attention, aesthetics, and self-optimization.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "fabcd7e7f3d43c91a2ff4324db345fc0",
-      "export_id": "Hx",
+      "version_creation_time": "2026-02-17T15:46:19.528000+00:00",
       "display_name": "PER_LIFE_MeProfessional_High",
-      "lifestyle_profile_id": "me_professional",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "me_professional",
+      "version_id": "1",
+      "description": "Me Professionals are status-driven high performers who chase success, luxury, and fun while thriving on attention, aesthetics, and self-optimization.",
       "status": "ACTIVE",
+      "export_id": "Hx",
       "original_creation_time": "2026-02-17T15:46:19.528000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 9766534
-          },
-          "4": {
-            "component_id": 6497326
-          },
           "1": {
-            "component_id": 12994651
+            "component_id": 12851658
           },
           "2": {
-            "component_id": 11728534
+            "component_id": 11603441
+          },
+          "4": {
+            "component_id": 6425829
+          },
+          "3": {
+            "component_id": 9638743
           },
           "5": {
-            "component_id": 3273740
+            "component_id": 3235290
           }
         },
-        "lifestyle_profile_id": "me_professional",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "me_professional"
       },
-      "reach": 6497326
+      "reach": 6425829
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:19.798000+00:00",
-      "original_author": "manual_import",
-      "description": "Me Professionals are status-driven high performers who chase success, luxury, and fun while thriving on attention, aesthetics, and self-optimization.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "c0b9b5c827a796338cf47224ec3bf056",
-      "export_id": "Hy",
+      "version_creation_time": "2026-02-17T15:46:19.798000+00:00",
       "display_name": "PER_LIFE_MeProfessional_Max",
-      "lifestyle_profile_id": "me_professional",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "me_professional",
+      "version_id": "1",
+      "description": "Me Professionals are status-driven high performers who chase success, luxury, and fun while thriving on attention, aesthetics, and self-optimization.",
       "status": "ACTIVE",
+      "export_id": "Hy",
       "original_creation_time": "2026-02-17T15:46:19.798000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 9766534
-          },
-          "4": {
-            "component_id": 6497326
-          },
           "1": {
-            "component_id": 12994651
+            "component_id": 12851658
           },
           "2": {
-            "component_id": 11728534
+            "component_id": 11603441
+          },
+          "4": {
+            "component_id": 6425829
+          },
+          "3": {
+            "component_id": 9638743
           },
           "5": {
-            "component_id": 3273740
+            "component_id": 3235290
           }
         },
-        "lifestyle_profile_id": "me_professional",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "me_professional"
       },
-      "reach": 3273740
+      "reach": 3235290
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:19.167000+00:00",
-      "original_author": "manual_import",
-      "description": "Me Professionals are status-driven high performers who chase success, luxury, and fun while thriving on attention, aesthetics, and self-optimization.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "51dc74462c0560fdb8479bc94740b406",
-      "export_id": "Hw",
+      "version_creation_time": "2026-02-17T15:46:19.167000+00:00",
       "display_name": "PER_LIFE_MeProfessional_Med",
-      "lifestyle_profile_id": "me_professional",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "me_professional",
+      "version_id": "1",
+      "description": "Me Professionals are status-driven high performers who chase success, luxury, and fun while thriving on attention, aesthetics, and self-optimization.",
       "status": "ACTIVE",
+      "export_id": "Hw",
       "original_creation_time": "2026-02-17T15:46:19.167000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 9766534
-          },
-          "4": {
-            "component_id": 6497326
-          },
           "1": {
-            "component_id": 12994651
+            "component_id": 12851658
           },
           "2": {
-            "component_id": 11728534
+            "component_id": 11603441
+          },
+          "4": {
+            "component_id": 6425829
+          },
+          "3": {
+            "component_id": 9638743
           },
           "5": {
-            "component_id": 3273740
+            "component_id": 3235290
           }
         },
-        "lifestyle_profile_id": "me_professional",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "me_professional"
       },
-      "reach": 9766534
+      "reach": 9638743
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:20.311000+00:00",
-      "original_author": "manual_import",
-      "description": "Meaning Seekers are meaning-driven achievers who pursue social and ecological good, seek resonance in work and life, and measure success by values and wellbeing rather than status or possessions.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "fe682dd2c8aec6da50c8387026d02e8d",
-      "export_id": "H0",
+      "version_creation_time": "2026-02-17T15:46:20.311000+00:00",
       "display_name": "PER_LIFE_MeaningSeeker_High",
-      "lifestyle_profile_id": "meaning_seeker",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "meaning_seeker",
+      "version_id": "1",
+      "description": "Meaning Seekers are meaning-driven achievers who pursue social and ecological good, seek resonance in work and life, and measure success by values and wellbeing rather than status or possessions.",
       "status": "ACTIVE",
+      "export_id": "H0",
       "original_creation_time": "2026-02-17T15:46:20.311000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 7067925
-          },
-          "4": {
-            "component_id": 4811458
-          },
           "1": {
-            "component_id": 9423737
+            "component_id": 9334422
           },
           "2": {
-            "component_id": 8494335
+            "component_id": 8411988
+          },
+          "4": {
+            "component_id": 4763452
+          },
+          "3": {
+            "component_id": 7000816
           },
           "5": {
-            "component_id": 2355935
+            "component_id": 2333606
           }
         },
-        "lifestyle_profile_id": "meaning_seeker",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "meaning_seeker"
       },
-      "reach": 4811458
+      "reach": 4763452
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:20.566000+00:00",
-      "original_author": "manual_import",
-      "description": "Meaning Seekers are meaning-driven achievers who pursue social and ecological good, seek resonance in work and life, and measure success by values and wellbeing rather than status or possessions.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "9007381da58cf348766f4ffd11e75b8c",
-      "export_id": "H1",
+      "version_creation_time": "2026-02-17T15:46:20.566000+00:00",
       "display_name": "PER_LIFE_MeaningSeeker_Max",
-      "lifestyle_profile_id": "meaning_seeker",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "meaning_seeker",
+      "version_id": "1",
+      "description": "Meaning Seekers are meaning-driven achievers who pursue social and ecological good, seek resonance in work and life, and measure success by values and wellbeing rather than status or possessions.",
       "status": "ACTIVE",
+      "export_id": "H1",
       "original_creation_time": "2026-02-17T15:46:20.566000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 7067925
-          },
-          "4": {
-            "component_id": 4811458
-          },
           "1": {
-            "component_id": 9423737
+            "component_id": 9334422
           },
           "2": {
-            "component_id": 8494335
+            "component_id": 8411988
+          },
+          "4": {
+            "component_id": 4763452
+          },
+          "3": {
+            "component_id": 7000816
           },
           "5": {
-            "component_id": 2355935
+            "component_id": 2333606
           }
         },
-        "lifestyle_profile_id": "meaning_seeker",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "meaning_seeker"
       },
-      "reach": 2355935
+      "reach": 2333606
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:20.081000+00:00",
-      "original_author": "manual_import",
-      "description": "Meaning Seekers are meaning-driven achievers who pursue social and ecological good, seek resonance in work and life, and measure success by values and wellbeing rather than status or possessions.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "0b88c3251c1dd33b093a972ca7270c5b",
-      "export_id": "Hz",
+      "version_creation_time": "2026-02-17T15:46:20.081000+00:00",
       "display_name": "PER_LIFE_MeaningSeeker_Med",
-      "lifestyle_profile_id": "meaning_seeker",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "meaning_seeker",
+      "version_id": "1",
+      "description": "Meaning Seekers are meaning-driven achievers who pursue social and ecological good, seek resonance in work and life, and measure success by values and wellbeing rather than status or possessions.",
       "status": "ACTIVE",
+      "export_id": "Hz",
       "original_creation_time": "2026-02-17T15:46:20.081000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 7067925
-          },
-          "4": {
-            "component_id": 4811458
-          },
           "1": {
-            "component_id": 9423737
+            "component_id": 9334422
           },
           "2": {
-            "component_id": 8494335
+            "component_id": 8411988
+          },
+          "4": {
+            "component_id": 4763452
+          },
+          "3": {
+            "component_id": 7000816
           },
           "5": {
-            "component_id": 2355935
+            "component_id": 2333606
           }
         },
-        "lifestyle_profile_id": "meaning_seeker",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "meaning_seeker"
       },
-      "reach": 7067925
+      "reach": 7000816
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:21.199000+00:00",
-      "original_author": "manual_import",
-      "description": "Modern Nomads are globally minded, hyper-mobile explorers who feel at home everywhere, live untethered to place, and chase new experiences while blending work, travel, and digital connection.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "a95f616b4444079216a3b37b1cd9a447",
-      "export_id": "H3",
+      "version_creation_time": "2026-02-17T15:46:21.199000+00:00",
       "display_name": "PER_LIFE_ModernNomad_High",
-      "lifestyle_profile_id": "modern_nomad",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "modern_nomad",
+      "version_id": "1",
+      "description": "Modern Nomads are globally minded, hyper-mobile explorers who feel at home everywhere, live untethered to place, and chase new experiences while blending work, travel, and digital connection.",
       "status": "ACTIVE",
+      "export_id": "H3",
       "original_creation_time": "2026-02-17T15:46:21.199000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 12306163
-          },
-          "4": {
-            "component_id": 8204109
-          },
-          "1": {
-            "component_id": 16408217
+          "5": {
+            "component_id": 4059879
           },
           "2": {
-            "component_id": 14804221
+            "component_id": 14581614
           },
-          "5": {
-            "component_id": 4125453
+          "4": {
+            "component_id": 8099856
+          },
+          "3": {
+            "component_id": 12149783
+          },
+          "1": {
+            "component_id": 16199711
           }
         },
-        "lifestyle_profile_id": "modern_nomad",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "modern_nomad"
       },
-      "reach": 8204109
+      "reach": 8099856
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:21.423000+00:00",
-      "original_author": "manual_import",
-      "description": "Modern Nomads are globally minded, hyper-mobile explorers who feel at home everywhere, live untethered to place, and chase new experiences while blending work, travel, and digital connection.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "9b1fa60d857a73ada987cf3e3faed234",
-      "export_id": "H4",
+      "version_creation_time": "2026-02-17T15:46:21.423000+00:00",
       "display_name": "PER_LIFE_ModernNomad_Max",
-      "lifestyle_profile_id": "modern_nomad",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "modern_nomad",
+      "version_id": "1",
+      "description": "Modern Nomads are globally minded, hyper-mobile explorers who feel at home everywhere, live untethered to place, and chase new experiences while blending work, travel, and digital connection.",
       "status": "ACTIVE",
+      "export_id": "H4",
       "original_creation_time": "2026-02-17T15:46:21.423000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 12306163
-          },
-          "4": {
-            "component_id": 8204109
-          },
-          "1": {
-            "component_id": 16408217
+          "5": {
+            "component_id": 4059879
           },
           "2": {
-            "component_id": 14804221
+            "component_id": 14581614
           },
-          "5": {
-            "component_id": 4125453
+          "4": {
+            "component_id": 8099856
+          },
+          "3": {
+            "component_id": 12149783
+          },
+          "1": {
+            "component_id": 16199711
           }
         },
-        "lifestyle_profile_id": "modern_nomad",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "modern_nomad"
       },
-      "reach": 4125453
+      "reach": 4059879
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:20.976000+00:00",
-      "original_author": "manual_import",
-      "description": "Modern Nomads are globally minded, hyper-mobile explorers who feel at home everywhere, live untethered to place, and chase new experiences while blending work, travel, and digital connection.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "d9404dd114d335c4c6729a05db317f8a",
-      "export_id": "H2",
+      "version_creation_time": "2026-02-17T15:46:20.976000+00:00",
       "display_name": "PER_LIFE_ModernNomad_Med",
-      "lifestyle_profile_id": "modern_nomad",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "modern_nomad",
+      "version_id": "1",
+      "description": "Modern Nomads are globally minded, hyper-mobile explorers who feel at home everywhere, live untethered to place, and chase new experiences while blending work, travel, and digital connection.",
       "status": "ACTIVE",
+      "export_id": "H2",
       "original_creation_time": "2026-02-17T15:46:20.976000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 12306163
-          },
-          "4": {
-            "component_id": 8204109
-          },
-          "1": {
-            "component_id": 16408217
+          "5": {
+            "component_id": 4059879
           },
           "2": {
-            "component_id": 14804221
+            "component_id": 14581614
           },
-          "5": {
-            "component_id": 4125453
+          "4": {
+            "component_id": 8099856
+          },
+          "3": {
+            "component_id": 12149783
+          },
+          "1": {
+            "component_id": 16199711
           }
         },
-        "lifestyle_profile_id": "modern_nomad",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "modern_nomad"
       },
-      "reach": 12306163
+      "reach": 12149783
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:21.938000+00:00",
-      "original_author": "manual_import",
-      "description": "Moral Evangelists are conscientious, community-minded pragmatists who seek to improve the world from the ground up—favoring local, ethical choices, cultural education, and steady civic action over flashy trends.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "1a6f14f5322d01822739890c13756a89",
-      "export_id": "H6",
+      "version_creation_time": "2026-02-17T15:46:21.938000+00:00",
       "display_name": "PER_LIFE_MoralCitizen_High",
-      "lifestyle_profile_id": "moral_citizen",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "moral_citizen",
+      "version_id": "1",
+      "description": "Moral Evangelists are conscientious, community-minded pragmatists who seek to improve the world from the ground up—favoring local, ethical choices, cultural education, and steady civic action over flashy trends.",
       "status": "ACTIVE",
+      "export_id": "H6",
       "original_creation_time": "2026-02-17T15:46:21.938000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 9901149
-          },
-          "4": {
-            "component_id": 6558997
-          },
           "1": {
-            "component_id": 13104687
+            "component_id": 12936553
           },
           "2": {
-            "component_id": 11816097
+            "component_id": 11665485
+          },
+          "4": {
+            "component_id": 6470719
+          },
+          "3": {
+            "component_id": 9771793
           },
           "5": {
-            "component_id": 3276172
+            "component_id": 3234139
           }
         },
-        "lifestyle_profile_id": "moral_citizen",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "moral_citizen"
       },
-      "reach": 6558997
+      "reach": 6470719
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:22.162000+00:00",
-      "original_author": "manual_import",
-      "description": "Moral Evangelists are conscientious, community-minded pragmatists who seek to improve the world from the ground up—favoring local, ethical choices, cultural education, and steady civic action over flashy trends.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "2871e7371ea6a03919048d15d1cc666e",
-      "export_id": "H7",
+      "version_creation_time": "2026-02-17T15:46:22.162000+00:00",
       "display_name": "PER_LIFE_MoralCitizen_Max",
-      "lifestyle_profile_id": "moral_citizen",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "moral_citizen",
+      "version_id": "1",
+      "description": "Moral Evangelists are conscientious, community-minded pragmatists who seek to improve the world from the ground up—favoring local, ethical choices, cultural education, and steady civic action over flashy trends.",
       "status": "ACTIVE",
+      "export_id": "H7",
       "original_creation_time": "2026-02-17T15:46:22.162000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 9901149
-          },
-          "4": {
-            "component_id": 6558997
-          },
           "1": {
-            "component_id": 13104687
+            "component_id": 12936553
           },
           "2": {
-            "component_id": 11816097
+            "component_id": 11665485
+          },
+          "4": {
+            "component_id": 6470719
+          },
+          "3": {
+            "component_id": 9771793
           },
           "5": {
-            "component_id": 3276172
+            "component_id": 3234139
           }
         },
-        "lifestyle_profile_id": "moral_citizen",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "moral_citizen"
       },
-      "reach": 3276172
+      "reach": 3234139
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:21.719000+00:00",
-      "original_author": "manual_import",
-      "description": "Moral Evangelists are conscientious, community-minded pragmatists who seek to improve the world from the ground up—favoring local, ethical choices, cultural education, and steady civic action over flashy trends.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "df9b14b55b84de3a23fbee71f9530a83",
-      "export_id": "H5",
+      "version_creation_time": "2026-02-17T15:46:21.719000+00:00",
       "display_name": "PER_LIFE_MoralCitizen_Med",
-      "lifestyle_profile_id": "moral_citizen",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "moral_citizen",
+      "version_id": "1",
+      "description": "Moral Evangelists are conscientious, community-minded pragmatists who seek to improve the world from the ground up—favoring local, ethical choices, cultural education, and steady civic action over flashy trends.",
       "status": "ACTIVE",
+      "export_id": "H5",
       "original_creation_time": "2026-02-17T15:46:21.719000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 9901149
-          },
-          "4": {
-            "component_id": 6558997
-          },
           "1": {
-            "component_id": 13104687
+            "component_id": 12936553
           },
           "2": {
-            "component_id": 11816097
+            "component_id": 11665485
+          },
+          "4": {
+            "component_id": 6470719
+          },
+          "3": {
+            "component_id": 9771793
           },
           "5": {
-            "component_id": 3276172
+            "component_id": 3234139
           }
         },
-        "lifestyle_profile_id": "moral_citizen",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "moral_citizen"
       },
-      "reach": 9901149
+      "reach": 9771793
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:22.665000+00:00",
-      "original_author": "manual_import",
-      "description": "Multi Performers are ambitious, performance-driven career builders who use technology to optimize work and life, make strategic decisions, and strive for recognized success.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "2be984b4021d38371e87916bc3210964",
-      "export_id": "H9",
+      "version_creation_time": "2026-02-17T15:46:22.665000+00:00",
       "display_name": "PER_LIFE_MultiPerformer_High",
-      "lifestyle_profile_id": "multi_performer",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "multi_performer",
+      "version_id": "1",
+      "description": "Multi Performers are ambitious, performance-driven career builders who use technology to optimize work and life, make strategic decisions, and strive for recognized success.",
       "status": "ACTIVE",
+      "export_id": "H9",
       "original_creation_time": "2026-02-17T15:46:22.665000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5954027
-          },
-          "4": {
-            "component_id": 3969567
-          },
           "1": {
-            "component_id": 7938703
+            "component_id": 7890515
           },
           "2": {
-            "component_id": 7112741
+            "component_id": 7052473
+          },
+          "4": {
+            "component_id": 3945258
+          },
+          "3": {
+            "component_id": 5917886
           },
           "5": {
-            "component_id": 2022409
+            "component_id": 2003669
           }
         },
-        "lifestyle_profile_id": "multi_performer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "multi_performer"
       },
-      "reach": 3969567
+      "reach": 3945258
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:22.950000+00:00",
-      "original_author": "manual_import",
-      "description": "Multi Performers are ambitious, performance-driven career builders who use technology to optimize work and life, make strategic decisions, and strive for recognized success.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "554314032ad3ab92a284ac96dd0ba113",
-      "export_id": "H-",
+      "version_creation_time": "2026-02-17T15:46:22.950000+00:00",
       "display_name": "PER_LIFE_MultiPerformer_Max",
-      "lifestyle_profile_id": "multi_performer",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "multi_performer",
+      "version_id": "1",
+      "description": "Multi Performers are ambitious, performance-driven career builders who use technology to optimize work and life, make strategic decisions, and strive for recognized success.",
       "status": "ACTIVE",
+      "export_id": "H-",
       "original_creation_time": "2026-02-17T15:46:22.950000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5954027
-          },
-          "4": {
-            "component_id": 3969567
-          },
           "1": {
-            "component_id": 7938703
+            "component_id": 7890515
           },
           "2": {
-            "component_id": 7112741
+            "component_id": 7052473
+          },
+          "4": {
+            "component_id": 3945258
+          },
+          "3": {
+            "component_id": 5917886
           },
           "5": {
-            "component_id": 2022409
+            "component_id": 2003669
           }
         },
-        "lifestyle_profile_id": "multi_performer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "multi_performer"
       },
-      "reach": 2022409
+      "reach": 2003669
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:22.387000+00:00",
-      "original_author": "manual_import",
-      "description": "Multi Performers are ambitious, performance-driven career builders who use technology to optimize work and life, make strategic decisions, and strive for recognized success.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "989b6fefaf314d09aa05fa21f975ee5c",
-      "export_id": "H8",
+      "version_creation_time": "2026-02-17T15:46:22.387000+00:00",
       "display_name": "PER_LIFE_MultiPerformer_Med",
-      "lifestyle_profile_id": "multi_performer",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "multi_performer",
+      "version_id": "1",
+      "description": "Multi Performers are ambitious, performance-driven career builders who use technology to optimize work and life, make strategic decisions, and strive for recognized success.",
       "status": "ACTIVE",
+      "export_id": "H8",
       "original_creation_time": "2026-02-17T15:46:22.387000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5954027
-          },
-          "4": {
-            "component_id": 3969567
-          },
           "1": {
-            "component_id": 7938703
+            "component_id": 7890515
           },
           "2": {
-            "component_id": 7112741
+            "component_id": 7052473
+          },
+          "4": {
+            "component_id": 3945258
+          },
+          "3": {
+            "component_id": 5917886
           },
           "5": {
-            "component_id": 2022409
+            "component_id": 2003669
           }
         },
-        "lifestyle_profile_id": "multi_performer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "multi_performer"
       },
-      "reach": 5954027
+      "reach": 5917886
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:23.480000+00:00",
-      "original_author": "manual_import",
-      "description": "Neo-Hippies are fun-loving community seekers who celebrate life through shared experiences, events, and spontaneous adventures..",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "c6156567020e2ae50836ee7a4e596e49",
-      "export_id": "IA",
+      "version_creation_time": "2026-02-17T15:46:23.480000+00:00",
       "display_name": "PER_LIFE_NeoHippie_High",
-      "lifestyle_profile_id": "neo_hippie",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "neo_hippie",
+      "version_id": "1",
+      "description": "Neo-Hippies are fun-loving community seekers who celebrate life through shared experiences, events, and spontaneous adventures..",
       "status": "ACTIVE",
+      "export_id": "IA",
       "original_creation_time": "2026-02-17T15:46:23.480000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10474297
-          },
-          "4": {
-            "component_id": 6982830
-          },
           "1": {
-            "component_id": 13965659
+            "component_id": 13818263
           },
           "2": {
-            "component_id": 12628187
+            "component_id": 12498820
+          },
+          "4": {
+            "component_id": 6909132
+          },
+          "3": {
+            "component_id": 10363697
           },
           "5": {
-            "component_id": 3491415
+            "component_id": 3454566
           }
         },
-        "lifestyle_profile_id": "neo_hippie",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "neo_hippie"
       },
-      "reach": 6982830
+      "reach": 6909132
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:23.709000+00:00",
-      "original_author": "manual_import",
-      "description": "Neo-Hippies are fun-loving community seekers who celebrate life through shared experiences, events, and spontaneous adventures..",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "28900c3ef17162e23542f7b8ba83ed44",
-      "export_id": "IB",
+      "version_creation_time": "2026-02-17T15:46:23.709000+00:00",
       "display_name": "PER_LIFE_NeoHippie_Max",
-      "lifestyle_profile_id": "neo_hippie",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "neo_hippie",
+      "version_id": "1",
+      "description": "Neo-Hippies are fun-loving community seekers who celebrate life through shared experiences, events, and spontaneous adventures..",
       "status": "ACTIVE",
+      "export_id": "IB",
       "original_creation_time": "2026-02-17T15:46:23.709000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10474297
-          },
-          "4": {
-            "component_id": 6982830
-          },
           "1": {
-            "component_id": 13965659
+            "component_id": 13818263
           },
           "2": {
-            "component_id": 12628187
+            "component_id": 12498820
+          },
+          "4": {
+            "component_id": 6909132
+          },
+          "3": {
+            "component_id": 10363697
           },
           "5": {
-            "component_id": 3491415
+            "component_id": 3454566
           }
         },
-        "lifestyle_profile_id": "neo_hippie",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "neo_hippie"
       },
-      "reach": 3491415
+      "reach": 3454566
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:23.182000+00:00",
-      "original_author": "manual_import",
-      "description": "Neo-Hippies are fun-loving community seekers who celebrate life through shared experiences, events, and spontaneous adventures..",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "a82e1f8fa8eaa95086d9e479c903806b",
-      "export_id": "H_",
+      "version_creation_time": "2026-02-17T15:46:23.182000+00:00",
       "display_name": "PER_LIFE_NeoHippie_Med",
-      "lifestyle_profile_id": "neo_hippie",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "neo_hippie",
+      "version_id": "1",
+      "description": "Neo-Hippies are fun-loving community seekers who celebrate life through shared experiences, events, and spontaneous adventures..",
       "status": "ACTIVE",
+      "export_id": "H_",
       "original_creation_time": "2026-02-17T15:46:23.182000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10474297
-          },
-          "4": {
-            "component_id": 6982830
-          },
           "1": {
-            "component_id": 13965659
+            "component_id": 13818263
           },
           "2": {
-            "component_id": 12628187
+            "component_id": 12498820
+          },
+          "4": {
+            "component_id": 6909132
+          },
+          "3": {
+            "component_id": 10363697
           },
           "5": {
-            "component_id": 3491415
+            "component_id": 3454566
           }
         },
-        "lifestyle_profile_id": "neo_hippie",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "neo_hippie"
       },
-      "reach": 10474297
+      "reach": 10363697
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:24.216000+00:00",
-      "original_author": "manual_import",
-      "description": "Party Hoppers are pleasure-driven urban free spirits who chase thrills, live for the moment, and reject commitments or rules that curb their self-expression.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "177215862ac1d45499778f951fd08f1b",
-      "export_id": "ID",
+      "version_creation_time": "2026-02-17T15:46:24.216000+00:00",
       "display_name": "PER_LIFE_PartyHopper_High",
-      "lifestyle_profile_id": "party_hopper",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "party_hopper",
+      "version_id": "1",
+      "description": "Party Hoppers are pleasure-driven urban free spirits who chase thrills, live for the moment, and reject commitments or rules that curb their self-expression.",
       "status": "ACTIVE",
+      "export_id": "ID",
       "original_creation_time": "2026-02-17T15:46:24.216000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11004499
-          },
-          "4": {
-            "component_id": 7302147
-          },
-          "1": {
-            "component_id": 14604294
+          "5": {
+            "component_id": 3612646
           },
           "2": {
-            "component_id": 13377719
+            "component_id": 13243913
           },
-          "5": {
-            "component_id": 3651074
+          "4": {
+            "component_id": 7225292
+          },
+          "3": {
+            "component_id": 10903513
+          },
+          "1": {
+            "component_id": 14450583
           }
         },
-        "lifestyle_profile_id": "party_hopper",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "party_hopper"
       },
-      "reach": 7302147
+      "reach": 7225292
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:24.437000+00:00",
-      "original_author": "manual_import",
-      "description": "Party Hoppers are pleasure-driven urban free spirits who chase thrills, live for the moment, and reject commitments or rules that curb their self-expression.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "d5965b2b786f9d015ecb31112303aa17",
-      "export_id": "IE",
+      "version_creation_time": "2026-02-17T15:46:24.437000+00:00",
       "display_name": "PER_LIFE_PartyHopper_Max",
-      "lifestyle_profile_id": "party_hopper",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "party_hopper",
+      "version_id": "1",
+      "description": "Party Hoppers are pleasure-driven urban free spirits who chase thrills, live for the moment, and reject commitments or rules that curb their self-expression.",
       "status": "ACTIVE",
+      "export_id": "IE",
       "original_creation_time": "2026-02-17T15:46:24.437000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11004499
-          },
-          "4": {
-            "component_id": 7302147
-          },
-          "1": {
-            "component_id": 14604294
+          "5": {
+            "component_id": 3612646
           },
           "2": {
-            "component_id": 13377719
+            "component_id": 13243913
           },
-          "5": {
-            "component_id": 3651074
+          "4": {
+            "component_id": 7225292
+          },
+          "3": {
+            "component_id": 10903513
+          },
+          "1": {
+            "component_id": 14450583
           }
         },
-        "lifestyle_profile_id": "party_hopper",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "party_hopper"
       },
-      "reach": 3651074
+      "reach": 3612646
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:23.935000+00:00",
-      "original_author": "manual_import",
-      "description": "Party Hoppers are pleasure-driven urban free spirits who chase thrills, live for the moment, and reject commitments or rules that curb their self-expression.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "5591802a374e418aeafeeb8ea067bb0c",
-      "export_id": "IC",
+      "version_creation_time": "2026-02-17T15:46:23.935000+00:00",
       "display_name": "PER_LIFE_PartyHopper_Med",
-      "lifestyle_profile_id": "party_hopper",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "party_hopper",
+      "version_id": "1",
+      "description": "Party Hoppers are pleasure-driven urban free spirits who chase thrills, live for the moment, and reject commitments or rules that curb their self-expression.",
       "status": "ACTIVE",
+      "export_id": "IC",
       "original_creation_time": "2026-02-17T15:46:23.935000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11004499
-          },
-          "4": {
-            "component_id": 7302147
-          },
-          "1": {
-            "component_id": 14604294
+          "5": {
+            "component_id": 3612646
           },
           "2": {
-            "component_id": 13377719
+            "component_id": 13243913
           },
-          "5": {
-            "component_id": 3651074
+          "4": {
+            "component_id": 7225292
+          },
+          "3": {
+            "component_id": 10903513
+          },
+          "1": {
+            "component_id": 14450583
           }
         },
-        "lifestyle_profile_id": "party_hopper",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "party_hopper"
       },
-      "reach": 11004499
+      "reach": 10903513
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:24.884000+00:00",
-      "original_author": "manual_import",
-      "description": "Progressive Heros are purpose-driven changemakers who pair fierce ambition and social empathy to lead, innovate, and push society forward on their own terms.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "9acbb8d134319b540959259d9956bb9f",
-      "export_id": "IG",
+      "version_creation_time": "2026-02-17T15:46:24.884000+00:00",
       "display_name": "PER_LIFE_ProgressiveHero_High",
-      "lifestyle_profile_id": "progressive_hero",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "progressive_hero",
+      "version_id": "1",
+      "description": "Progressive Heros are purpose-driven changemakers who pair fierce ambition and social empathy to lead, innovate, and push society forward on their own terms.",
       "status": "ACTIVE",
+      "export_id": "IG",
       "original_creation_time": "2026-02-17T15:46:24.884000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5005005
-          },
-          "4": {
-            "component_id": 3281936
-          },
-          "1": {
-            "component_id": 6563871
+          "5": {
+            "component_id": 1631615
           },
           "2": {
-            "component_id": 5932023
+            "component_id": 5897979
           },
-          "5": {
-            "component_id": 1640968
+          "4": {
+            "component_id": 3263229
+          },
+          "3": {
+            "component_id": 4982849
+          },
+          "1": {
+            "component_id": 6526457
           }
         },
-        "lifestyle_profile_id": "progressive_hero",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "progressive_hero"
       },
-      "reach": 3281936
+      "reach": 3263229
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:25.095000+00:00",
-      "original_author": "manual_import",
-      "description": "Progressive Heros are purpose-driven changemakers who pair fierce ambition and social empathy to lead, innovate, and push society forward on their own terms.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "f22a013f13226af7f2c74243ebfe27b1",
-      "export_id": "IH",
+      "version_creation_time": "2026-02-17T15:46:25.095000+00:00",
       "display_name": "PER_LIFE_ProgressiveHero_Max",
-      "lifestyle_profile_id": "progressive_hero",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "progressive_hero",
+      "version_id": "1",
+      "description": "Progressive Heros are purpose-driven changemakers who pair fierce ambition and social empathy to lead, innovate, and push society forward on their own terms.",
       "status": "ACTIVE",
+      "export_id": "IH",
       "original_creation_time": "2026-02-17T15:46:25.095000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5005005
-          },
-          "4": {
-            "component_id": 3281936
-          },
-          "1": {
-            "component_id": 6563871
+          "5": {
+            "component_id": 1631615
           },
           "2": {
-            "component_id": 5932023
+            "component_id": 5897979
           },
-          "5": {
-            "component_id": 1640968
+          "4": {
+            "component_id": 3263229
+          },
+          "3": {
+            "component_id": 4982849
+          },
+          "1": {
+            "component_id": 6526457
           }
         },
-        "lifestyle_profile_id": "progressive_hero",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "progressive_hero"
       },
-      "reach": 1640968
+      "reach": 1631615
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:24.660000+00:00",
-      "original_author": "manual_import",
-      "description": "Progressive Heros are purpose-driven changemakers who pair fierce ambition and social empathy to lead, innovate, and push society forward on their own terms.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "b287174564b46a4907c1c12a77c83bae",
-      "export_id": "IF",
+      "version_creation_time": "2026-02-17T15:46:24.660000+00:00",
       "display_name": "PER_LIFE_ProgressiveHero_Med",
-      "lifestyle_profile_id": "progressive_hero",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "progressive_hero",
+      "version_id": "1",
+      "description": "Progressive Heros are purpose-driven changemakers who pair fierce ambition and social empathy to lead, innovate, and push society forward on their own terms.",
       "status": "ACTIVE",
+      "export_id": "IF",
       "original_creation_time": "2026-02-17T15:46:24.660000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5005005
-          },
-          "4": {
-            "component_id": 3281936
-          },
-          "1": {
-            "component_id": 6563871
+          "5": {
+            "component_id": 1631615
           },
           "2": {
-            "component_id": 5932023
+            "component_id": 5897979
           },
-          "5": {
-            "component_id": 1640968
+          "4": {
+            "component_id": 3263229
+          },
+          "3": {
+            "component_id": 4982849
+          },
+          "1": {
+            "component_id": 6526457
           }
         },
-        "lifestyle_profile_id": "progressive_hero",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "progressive_hero"
       },
-      "reach": 5005005
+      "reach": 4982849
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:25.616000+00:00",
-      "original_author": "manual_import",
-      "description": "Progressive Parents are equality-minded family shapers who challenge traditional gender roles, blend career and caregiving, and push for flexible, fair structures so everyone can thrive.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "4b47c431912558c7e598ffc44cf25cbb",
-      "export_id": "IJ",
+      "version_creation_time": "2026-02-17T15:46:25.616000+00:00",
       "display_name": "PER_LIFE_ProgressiveParent_High",
-      "lifestyle_profile_id": "progressive_parent",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "progressive_parent",
+      "version_id": "1",
+      "description": "Progressive Parents are equality-minded family shapers who challenge traditional gender roles, blend career and caregiving, and push for flexible, fair structures so everyone can thrive.",
       "status": "ACTIVE",
+      "export_id": "IJ",
       "original_creation_time": "2026-02-17T15:46:25.616000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 6904109
-          },
-          "4": {
-            "component_id": 4602730
-          },
-          "1": {
-            "component_id": 9205456
+          "5": {
+            "component_id": 2267875
           },
           "2": {
-            "component_id": 8321058
+            "component_id": 8192410
           },
-          "5": {
-            "component_id": 2301364
+          "4": {
+            "component_id": 4535750
+          },
+          "3": {
+            "component_id": 6803642
+          },
+          "1": {
+            "component_id": 9071500
           }
         },
-        "lifestyle_profile_id": "progressive_parent",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "progressive_parent"
       },
-      "reach": 4602730
+      "reach": 4535750
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:25.831000+00:00",
-      "original_author": "manual_import",
-      "description": "Progressive Parents are equality-minded family shapers who challenge traditional gender roles, blend career and caregiving, and push for flexible, fair structures so everyone can thrive.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "a7667e48710ae4dbcd848c05b5b707d2",
-      "export_id": "IK",
+      "version_creation_time": "2026-02-17T15:46:25.831000+00:00",
       "display_name": "PER_LIFE_ProgressiveParent_Max",
-      "lifestyle_profile_id": "progressive_parent",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "progressive_parent",
+      "version_id": "1",
+      "description": "Progressive Parents are equality-minded family shapers who challenge traditional gender roles, blend career and caregiving, and push for flexible, fair structures so everyone can thrive.",
       "status": "ACTIVE",
+      "export_id": "IK",
       "original_creation_time": "2026-02-17T15:46:25.831000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 6904109
-          },
-          "4": {
-            "component_id": 4602730
-          },
-          "1": {
-            "component_id": 9205456
+          "5": {
+            "component_id": 2267875
           },
           "2": {
-            "component_id": 8321058
+            "component_id": 8192410
           },
-          "5": {
-            "component_id": 2301364
+          "4": {
+            "component_id": 4535750
+          },
+          "3": {
+            "component_id": 6803642
+          },
+          "1": {
+            "component_id": 9071500
           }
         },
-        "lifestyle_profile_id": "progressive_parent",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "progressive_parent"
       },
-      "reach": 2301364
+      "reach": 2267875
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:25.384000+00:00",
-      "original_author": "manual_import",
-      "description": "Progressive Parents are equality-minded family shapers who challenge traditional gender roles, blend career and caregiving, and push for flexible, fair structures so everyone can thrive.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "d9c4cc04f2e7a2d51c36cbf00913f88f",
-      "export_id": "II",
+      "version_creation_time": "2026-02-17T15:46:25.384000+00:00",
       "display_name": "PER_LIFE_ProgressiveParent_Med",
-      "lifestyle_profile_id": "progressive_parent",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "progressive_parent",
+      "version_id": "1",
+      "description": "Progressive Parents are equality-minded family shapers who challenge traditional gender roles, blend career and caregiving, and push for flexible, fair structures so everyone can thrive.",
       "status": "ACTIVE",
+      "export_id": "II",
       "original_creation_time": "2026-02-17T15:46:25.384000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 6904109
-          },
-          "4": {
-            "component_id": 4602730
-          },
-          "1": {
-            "component_id": 9205456
+          "5": {
+            "component_id": 2267875
           },
           "2": {
-            "component_id": 8321058
+            "component_id": 8192410
           },
-          "5": {
-            "component_id": 2301364
+          "4": {
+            "component_id": 4535750
+          },
+          "3": {
+            "component_id": 6803642
+          },
+          "1": {
+            "component_id": 9071500
           }
         },
-        "lifestyle_profile_id": "progressive_parent",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "progressive_parent"
       },
-      "reach": 6904109
+      "reach": 6803642
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:26.282000+00:00",
-      "original_author": "manual_import",
-      "description": "Self Balancers are harmony-seeking pragmatists who prioritize holistic wellbeing, meaningful work, and a simple, balanced life over stress, status, or constant hustle.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "ccb548eeaa801c4d0fbda2283cbb59ff",
-      "export_id": "IM",
+      "version_creation_time": "2026-02-17T15:46:26.282000+00:00",
       "display_name": "PER_LIFE_SelfBalancer_High",
-      "lifestyle_profile_id": "self_balancer",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "self_balancer",
+      "version_id": "1",
+      "description": "Self Balancers are harmony-seeking pragmatists who prioritize holistic wellbeing, meaningful work, and a simple, balanced life over stress, status, or constant hustle.",
       "status": "ACTIVE",
+      "export_id": "IM",
       "original_creation_time": "2026-02-17T15:46:26.282000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 8241228
-          },
-          "4": {
-            "component_id": 5448654
-          },
-          "1": {
-            "component_id": 10897308
+          "5": {
+            "component_id": 2697720
           },
           "2": {
-            "component_id": 9862346
+            "component_id": 9760868
           },
-          "5": {
-            "component_id": 2724327
+          "4": {
+            "component_id": 5396420
+          },
+          "3": {
+            "component_id": 8160177
+          },
+          "1": {
+            "component_id": 10790877
           }
         },
-        "lifestyle_profile_id": "self_balancer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "self_balancer"
       },
-      "reach": 5448654
+      "reach": 5396420
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:26.551000+00:00",
-      "original_author": "manual_import",
-      "description": "Self Balancers are harmony-seeking pragmatists who prioritize holistic wellbeing, meaningful work, and a simple, balanced life over stress, status, or constant hustle.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "19bf020757f69baca878f9ac95d84595",
-      "export_id": "IN",
+      "version_creation_time": "2026-02-17T15:46:26.551000+00:00",
       "display_name": "PER_LIFE_SelfBalancer_Max",
-      "lifestyle_profile_id": "self_balancer",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "self_balancer",
+      "version_id": "1",
+      "description": "Self Balancers are harmony-seeking pragmatists who prioritize holistic wellbeing, meaningful work, and a simple, balanced life over stress, status, or constant hustle.",
       "status": "ACTIVE",
+      "export_id": "IN",
       "original_creation_time": "2026-02-17T15:46:26.551000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 8241228
-          },
-          "4": {
-            "component_id": 5448654
-          },
-          "1": {
-            "component_id": 10897308
+          "5": {
+            "component_id": 2697720
           },
           "2": {
-            "component_id": 9862346
+            "component_id": 9760868
           },
-          "5": {
-            "component_id": 2724327
+          "4": {
+            "component_id": 5396420
+          },
+          "3": {
+            "component_id": 8160177
+          },
+          "1": {
+            "component_id": 10790877
           }
         },
-        "lifestyle_profile_id": "self_balancer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "self_balancer"
       },
-      "reach": 2724327
+      "reach": 2697720
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:26.059000+00:00",
-      "original_author": "manual_import",
-      "description": "Self Balancers are harmony-seeking pragmatists who prioritize holistic wellbeing, meaningful work, and a simple, balanced life over stress, status, or constant hustle.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "7c9dd3e08781a6ce9bf115910a4a984d",
-      "export_id": "IL",
+      "version_creation_time": "2026-02-17T15:46:26.059000+00:00",
       "display_name": "PER_LIFE_SelfBalancer_Med",
-      "lifestyle_profile_id": "self_balancer",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "self_balancer",
+      "version_id": "1",
+      "description": "Self Balancers are harmony-seeking pragmatists who prioritize holistic wellbeing, meaningful work, and a simple, balanced life over stress, status, or constant hustle.",
       "status": "ACTIVE",
+      "export_id": "IL",
       "original_creation_time": "2026-02-17T15:46:26.059000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 8241228
-          },
-          "4": {
-            "component_id": 5448654
-          },
-          "1": {
-            "component_id": 10897308
+          "5": {
+            "component_id": 2697720
           },
           "2": {
-            "component_id": 9862346
+            "component_id": 9760868
           },
-          "5": {
-            "component_id": 2724327
+          "4": {
+            "component_id": 5396420
+          },
+          "3": {
+            "component_id": 8160177
+          },
+          "1": {
+            "component_id": 10790877
           }
         },
-        "lifestyle_profile_id": "self_balancer",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "self_balancer"
       },
-      "reach": 8241228
+      "reach": 8160177
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:27.073000+00:00",
-      "original_author": "manual_import",
-      "description": "Stability Seekers are cautious realists who value security, stability, and familiar routines while avoiding unnecessary risks and changes.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "0d5e5ee3c687284b96425e5f4ff184ee",
-      "export_id": "IP",
+      "version_creation_time": "2026-02-17T15:46:27.073000+00:00",
       "display_name": "PER_LIFE_StabilitySeeker_High",
-      "lifestyle_profile_id": "stability_seeker",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "stability_seeker",
+      "version_id": "1",
+      "description": "Stability Seekers are cautious realists who value security, stability, and familiar routines while avoiding unnecessary risks and changes.",
       "status": "ACTIVE",
+      "export_id": "IP",
       "original_creation_time": "2026-02-17T15:46:27.073000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11060338
-          },
-          "4": {
-            "component_id": 7278222
-          },
           "1": {
-            "component_id": 14549995
+            "component_id": 14395198
           },
           "2": {
-            "component_id": 12651757
+            "component_id": 13054951
+          },
+          "4": {
+            "component_id": 7240390
+          },
+          "3": {
+            "component_id": 10941989
           },
           "5": {
-            "component_id": 3637499
+            "component_id": 3598800
           }
         },
-        "lifestyle_profile_id": "stability_seeker",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "stability_seeker"
       },
-      "reach": 7278222
+      "reach": 7240390
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:27.309000+00:00",
-      "original_author": "manual_import",
-      "description": "Stability Seekers are cautious realists who value security, stability, and familiar routines while avoiding unnecessary risks and changes.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "68a7ade1a871f4bd63ff077d5ae68e0b",
-      "export_id": "IQ",
+      "version_creation_time": "2026-02-17T15:46:27.309000+00:00",
       "display_name": "PER_LIFE_StabilitySeeker_Max",
-      "lifestyle_profile_id": "stability_seeker",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "stability_seeker",
+      "version_id": "1",
+      "description": "Stability Seekers are cautious realists who value security, stability, and familiar routines while avoiding unnecessary risks and changes.",
       "status": "ACTIVE",
+      "export_id": "IQ",
       "original_creation_time": "2026-02-17T15:46:27.309000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11060338
-          },
-          "4": {
-            "component_id": 7278222
-          },
           "1": {
-            "component_id": 14549995
+            "component_id": 14395198
           },
           "2": {
-            "component_id": 12651757
+            "component_id": 13054951
+          },
+          "4": {
+            "component_id": 7240390
+          },
+          "3": {
+            "component_id": 10941989
           },
           "5": {
-            "component_id": 3637499
+            "component_id": 3598800
           }
         },
-        "lifestyle_profile_id": "stability_seeker",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "stability_seeker"
       },
-      "reach": 3637499
+      "reach": 3598800
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:26.851000+00:00",
-      "original_author": "manual_import",
-      "description": "Stability Seekers are cautious realists who value security, stability, and familiar routines while avoiding unnecessary risks and changes.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "d3bcc7a40eccf0e397df2d0e7d1c0e66",
-      "export_id": "IO",
+      "version_creation_time": "2026-02-17T15:46:26.851000+00:00",
       "display_name": "PER_LIFE_StabilitySeeker_Med",
-      "lifestyle_profile_id": "stability_seeker",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "stability_seeker",
+      "version_id": "1",
+      "description": "Stability Seekers are cautious realists who value security, stability, and familiar routines while avoiding unnecessary risks and changes.",
       "status": "ACTIVE",
+      "export_id": "IO",
       "original_creation_time": "2026-02-17T15:46:26.851000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11060338
-          },
-          "4": {
-            "component_id": 7278222
-          },
           "1": {
-            "component_id": 14549995
+            "component_id": 14395198
           },
           "2": {
-            "component_id": 12651757
+            "component_id": 13054951
+          },
+          "4": {
+            "component_id": 7240390
+          },
+          "3": {
+            "component_id": 10941989
           },
           "5": {
-            "component_id": 3637499
+            "component_id": 3598800
           }
         },
-        "lifestyle_profile_id": "stability_seeker",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "stability_seeker"
       },
-      "reach": 11060338
+      "reach": 10941989
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:27.764000+00:00",
-      "original_author": "manual_import",
-      "description": "Urban Matchas are self-assured urban trendsetters who blend sustainable hedonism with creative city-making, forever chasing fresh experiences while balancing city and nature.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "66c442c079490fc928ff25ef8036d6fe",
-      "export_id": "IS",
+      "version_creation_time": "2026-02-17T15:46:27.764000+00:00",
       "display_name": "PER_LIFE_UrbanMatcha_High",
-      "lifestyle_profile_id": "urban_matcha",
-      "tags": [],
       "similarity": "4",
+      "lifestyle_profile_id": "urban_matcha",
+      "version_id": "1",
+      "description": "Urban Matchas are self-assured urban trendsetters who blend sustainable hedonism with creative city-making, forever chasing fresh experiences while balancing city and nature.",
       "status": "ACTIVE",
+      "export_id": "IS",
       "original_creation_time": "2026-02-17T15:46:27.764000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10628801
-          },
-          "4": {
-            "component_id": 7081008
-          },
-          "1": {
-            "component_id": 14162015
+          "5": {
+            "component_id": 3550182
           },
           "2": {
-            "component_id": 12745813
+            "component_id": 12603451
           },
-          "5": {
-            "component_id": 3622456
+          "4": {
+            "component_id": 6997855
+          },
+          "3": {
+            "component_id": 10496782
+          },
+          "1": {
+            "component_id": 13995710
           }
         },
-        "lifestyle_profile_id": "urban_matcha",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "urban_matcha"
       },
-      "reach": 7081008
+      "reach": 6997855
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:28.007000+00:00",
-      "original_author": "manual_import",
-      "description": "Urban Matchas are self-assured urban trendsetters who blend sustainable hedonism with creative city-making, forever chasing fresh experiences while balancing city and nature.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "1a7c49b53852d5443c4c0a79415b3839",
-      "export_id": "IT",
+      "version_creation_time": "2026-02-17T15:46:28.007000+00:00",
       "display_name": "PER_LIFE_UrbanMatcha_Max",
-      "lifestyle_profile_id": "urban_matcha",
-      "tags": [],
       "similarity": "5",
+      "lifestyle_profile_id": "urban_matcha",
+      "version_id": "1",
+      "description": "Urban Matchas are self-assured urban trendsetters who blend sustainable hedonism with creative city-making, forever chasing fresh experiences while balancing city and nature.",
       "status": "ACTIVE",
+      "export_id": "IT",
       "original_creation_time": "2026-02-17T15:46:28.007000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10628801
-          },
-          "4": {
-            "component_id": 7081008
-          },
-          "1": {
-            "component_id": 14162015
+          "5": {
+            "component_id": 3550182
           },
           "2": {
-            "component_id": 12745813
+            "component_id": 12603451
           },
-          "5": {
-            "component_id": 3622456
+          "4": {
+            "component_id": 6997855
+          },
+          "3": {
+            "component_id": 10496782
+          },
+          "1": {
+            "component_id": 13995710
           }
         },
-        "lifestyle_profile_id": "urban_matcha",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "urban_matcha"
       },
-      "reach": 3622456
+      "reach": 3550182
     },
     {
-      "version_id": "1",
-      "version_creation_time": "2026-02-17T15:46:27.533000+00:00",
-      "original_author": "manual_import",
-      "description": "Urban Matchas are self-assured urban trendsetters who blend sustainable hedonism with creative city-making, forever chasing fresh experiences while balancing city and nature.",
+      "tags": [],
       "version_author": "manual_import",
       "lifestyle_segment_id": "62b25505bd3369885d51c39f8a7c0c1f",
-      "export_id": "IR",
+      "version_creation_time": "2026-02-17T15:46:27.533000+00:00",
       "display_name": "PER_LIFE_UrbanMatcha_Med",
-      "lifestyle_profile_id": "urban_matcha",
-      "tags": [],
       "similarity": "3",
+      "lifestyle_profile_id": "urban_matcha",
+      "version_id": "1",
+      "description": "Urban Matchas are self-assured urban trendsetters who blend sustainable hedonism with creative city-making, forever chasing fresh experiences while balancing city and nature.",
       "status": "ACTIVE",
+      "export_id": "IR",
       "original_creation_time": "2026-02-17T15:46:27.533000+00:00",
+      "original_author": "manual_import",
       "kpis": {
+        "run_date": "2026-05-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10628801
-          },
-          "4": {
-            "component_id": 7081008
-          },
-          "1": {
-            "component_id": 14162015
+          "5": {
+            "component_id": 3550182
           },
           "2": {
-            "component_id": 12745813
+            "component_id": 12603451
           },
-          "5": {
-            "component_id": 3622456
+          "4": {
+            "component_id": 6997855
+          },
+          "3": {
+            "component_id": 10496782
+          },
+          "1": {
+            "component_id": 13995710
           }
         },
-        "lifestyle_profile_id": "urban_matcha",
-        "run_date": "2026-05-18"
+        "lifestyle_profile_id": "urban_matcha"
       },
-      "reach": 10628801
+      "reach": 10496782
     }
   ]
 }

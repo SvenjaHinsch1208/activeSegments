@@ -36,6 +36,7 @@ export interface TargetSegmentCount {
   targetSegment: string;
   count: number;
   endTime: string | null;
+  campaignIds?: string;
 }
 
 export interface TargetSegmentCountDetail extends TargetSegmentCount {
@@ -256,4 +257,3 @@ export class ActiveAgentApiService {
     };
   }
 }
-

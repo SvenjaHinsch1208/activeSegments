@@ -13,6 +13,8 @@ export interface SegmentTableRow {
   endDate: string;
   author: string;
   modifier: string;
+  campaignIds: string;
+  campaignCount: number;
   statusTone: SegmentStatusTone;
   isShortIdWarning: boolean;
 }
@@ -49,6 +51,11 @@ export function buildSegmentTableRows(
 ): SegmentTableRow[] {
   return segments.map((segment) => {
     const metadata = metadataLookup.get(segment.targetSegment);
+    const campaignIds = segment.campaignIds?.trim() ? segment.campaignIds : EMPTY_VALUE;
+    const campaignCount = campaignIds === EMPTY_VALUE
+      ? 0
+      : campaignIds.split(",").filter(Boolean).length;
+
     return {
       shortId: segment.targetSegment,
       name: metadata?.name ?? EMPTY_VALUE,
@@ -59,6 +66,8 @@ export function buildSegmentTableRows(
       endDate: formatEndDate(segment.endTime),
       author: metadata?.author ?? EMPTY_VALUE,
       modifier: metadata?.modifier ?? EMPTY_VALUE,
+      campaignIds,
+      campaignCount,
       statusTone: mapStatusToTone(metadata?.status),
       isShortIdWarning: segment.targetSegment.length > 5,
     };

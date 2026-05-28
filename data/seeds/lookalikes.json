@@ -15,7 +15,8 @@
       "source_audience": "N2B_Lascana",
       "source_segment_id": "bb51ab4bd6ef515d84a2682c40a35788",
       "last_run": null,
-      "kpis": null
+      "kpis": null,
+      "mine": false
     },
     {
       "lookalike_id": "f1b5269995ea111e48d380e3f20b73da",
@@ -32,37 +33,38 @@
       "source_audience": "CUST_BOSE_Buyers",
       "source_segment_id": "ab11bd22e5798ef273fcfb4d39e71452",
       "last_run": {
+        "aaid": 273637,
         "component_id": 7832750,
-        "idfa": 160335,
-        "visitor_id": 5185899,
-        "aaid": 273268,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 1042012
+        "id5_id": 1056025,
+        "idfa": 160379,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 5192588
       },
       "kpis": {
         "lookalike_id": "f1b5269995ea111e48d380e3f20b73da",
+        "source_audience_reach": {
+          "component_id": 18658
+        },
+        "run_date": "2025-12-17",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 7832750
-          },
-          "4": {
-            "component_id": 1351232
-          },
-          "1": {
-            "component_id": 14859700
+          "5": {
+            "component_id": 49443
           },
           "2": {
             "component_id": 9855802
           },
-          "5": {
-            "component_id": 49443
+          "4": {
+            "component_id": 1351232
+          },
+          "3": {
+            "component_id": 7832750
+          },
+          "1": {
+            "component_id": 14859700
           }
-        },
-        "run_date": "2025-12-17",
-        "source_audience_reach": {
-          "component_id": 18658
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "e8ca55b03e44a83dec5919ae4f005932",
@@ -79,37 +81,38 @@
       "source_audience": "CUST_BSH_Hauhaltsgeraete_Buyer",
       "source_segment_id": "f798d1881a2ea01968f412f4e1f83b18",
       "last_run": {
+        "aaid": 1158127,
         "component_id": 3401542,
-        "idfa": 702565,
-        "visitor_id": 16997563,
-        "aaid": 1160072,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 4672967
+        "id5_id": 4709929,
+        "idfa": 699093,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 16908933
       },
       "kpis": {
         "lookalike_id": "e8ca55b03e44a83dec5919ae4f005932",
+        "source_audience_reach": {
+          "component_id": 204749
+        },
+        "run_date": "2026-02-17",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 15381466
-          },
-          "4": {
-            "component_id": 6244489
-          },
-          "1": {
-            "component_id": 27999144
+          "5": {
+            "component_id": 3401542
           },
           "2": {
             "component_id": 24911620
           },
-          "5": {
-            "component_id": 3401542
+          "4": {
+            "component_id": 6244489
+          },
+          "3": {
+            "component_id": 15381466
+          },
+          "1": {
+            "component_id": 27999144
           }
-        },
-        "run_date": "2026-02-17",
-        "source_audience_reach": {
-          "component_id": 204749
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "484480d029640699785ad08287ee57d5",
@@ -126,37 +129,38 @@
       "source_audience": "CUST_Barbie_Buyers",
       "source_segment_id": "7cd1785e62ed16d0160f67d5ff0652ba",
       "last_run": {
+        "visitor_id": 6657637,
         "component_id": 5050894,
-        "idfa": 192822,
-        "visitor_id": 6668822,
-        "aaid": 322704,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 1409550
+        "id5_id": 1423503,
+        "idfa": 192427,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 322512
       },
       "kpis": {
         "lookalike_id": "484480d029640699785ad08287ee57d5",
+        "source_audience_reach": {
+          "component_id": 21385
+        },
         "run_date": "2026-02-04",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5050894
-          },
-          "4": {
-            "component_id": 282157
-          },
-          "1": {
-            "component_id": 17450015
+          "5": {
+            "component_id": 138621
           },
           "2": {
             "component_id": 12568197
           },
-          "5": {
-            "component_id": 138621
+          "4": {
+            "component_id": 282157
+          },
+          "3": {
+            "component_id": 5050894
+          },
+          "1": {
+            "component_id": 17450015
           }
-        },
-        "source_audience_reach": {
-          "component_id": 21385
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "f28c95da191d10449c0b87fea6eb186e",
@@ -173,37 +177,38 @@
       "source_audience": "CUST_BEKO_Buyers",
       "source_segment_id": "b16e94b3b3cb6f2d02cf4b3a1b271829",
       "last_run": {
+        "aaid": 1413524,
         "component_id": 5431164,
-        "idfa": 876677,
-        "visitor_id": 19964581,
-        "aaid": 1414556,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 5452940
+        "id5_id": 5506216,
+        "idfa": 873603,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 19914534
       },
       "kpis": {
         "lookalike_id": "f28c95da191d10449c0b87fea6eb186e",
+        "source_audience_reach": {
+          "component_id": 83503
+        },
+        "run_date": "2026-01-23",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 5431164
-          },
-          "4": {
-            "component_id": 3154076
-          },
-          "1": {
-            "component_id": 8170772
+          "5": {
+            "component_id": 1517828
           },
           "2": {
             "component_id": 7088669
           },
-          "5": {
-            "component_id": 1517828
+          "4": {
+            "component_id": 3154076
+          },
+          "3": {
+            "component_id": 5431164
+          },
+          "1": {
+            "component_id": 8170772
           }
-        },
-        "run_date": "2026-01-23",
-        "source_audience_reach": {
-          "component_id": 83503
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "ae8ed50458532cf6747034ee31f98b24",
@@ -220,37 +225,38 @@
       "source_audience": "CUST_Bett1",
       "source_segment_id": "073dc406be5e1d5ca127694c0b2a2e6a",
       "last_run": {
-        "component_id": 0,
-        "idfa": 0,
-        "visitor_id": 0,
         "aaid": 0,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 0
+        "component_id": 0,
+        "id5_id": 0,
+        "idfa": 0,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 0
       },
       "kpis": {
         "lookalike_id": "ae8ed50458532cf6747034ee31f98b24",
+        "source_audience_reach": {
+          "component_id": 3633339
+        },
+        "run_date": "2025-10-17",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 12691566
-          },
-          "4": {
-            "component_id": 8508725
-          },
-          "1": {
-            "component_id": 16389757
+          "5": {
+            "component_id": 4741457
           },
           "2": {
             "component_id": 15139213
           },
-          "5": {
-            "component_id": 4741457
+          "4": {
+            "component_id": 8508725
+          },
+          "3": {
+            "component_id": 12691566
+          },
+          "1": {
+            "component_id": 16389757
           }
-        },
-        "run_date": "2025-10-17",
-        "source_audience_reach": {
-          "component_id": 3633339
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "f0ab4744bd347394ea5c4f6a6aa1db07",
@@ -267,37 +273,38 @@
       "source_audience": "CUST_CarolinaHerrera_Beauty_Female_18To35",
       "source_segment_id": "1b627117e99e9a3cf87230d4958149c3",
       "last_run": {
+        "aaid": 1205936,
         "component_id": 7562345,
-        "idfa": 670071,
-        "visitor_id": 21633724,
-        "aaid": 1206913,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 4983900
+        "id5_id": 5043869,
+        "idfa": 668464,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 21627149
       },
       "kpis": {
         "lookalike_id": "f0ab4744bd347394ea5c4f6a6aa1db07",
+        "source_audience_reach": {
+          "component_id": 292015
+        },
+        "run_date": "2025-10-15",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 7562345
-          },
-          "4": {
-            "component_id": 6056218
-          },
-          "1": {
-            "component_id": 8314626
+          "5": {
+            "component_id": 3855380
           },
           "2": {
             "component_id": 8095359
           },
-          "5": {
-            "component_id": 3855380
+          "4": {
+            "component_id": 6056218
+          },
+          "3": {
+            "component_id": 7562345
+          },
+          "1": {
+            "component_id": 8314626
           }
-        },
-        "run_date": "2025-10-15",
-        "source_audience_reach": {
-          "component_id": 292015
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "4ec1c7bb6ce1ae0075679e9826e8046e",
@@ -314,37 +321,38 @@
       "source_audience": "CUST_DYSON_BEAUTY_Buyers",
       "source_segment_id": "ce4d426ee6238d3fc46262d717c7e180",
       "last_run": {
+        "visitor_id": 168471,
         "component_id": 41762,
-        "idfa": 7961,
-        "visitor_id": 169167,
-        "aaid": 11332,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 43705
+        "id5_id": 44171,
+        "idfa": 7962,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 11335
       },
       "kpis": {
         "lookalike_id": "4ec1c7bb6ce1ae0075679e9826e8046e",
+        "source_audience_reach": {
+          "component_id": 17464
+        },
+        "run_date": "2026-02-19",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 41762
-          },
-          "4": {
-            "component_id": 10682
-          },
-          "1": {
-            "component_id": 239863
+          "5": {
+            "component_id": 1626
           },
           "2": {
             "component_id": 114028
           },
-          "5": {
-            "component_id": 1626
+          "4": {
+            "component_id": 10682
+          },
+          "3": {
+            "component_id": 41762
+          },
+          "1": {
+            "component_id": 239863
           }
-        },
-        "run_date": "2026-02-19",
-        "source_audience_reach": {
-          "component_id": 17464
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "b17dc89ae903d949a31ffaf0814fb2bd",
@@ -361,37 +369,38 @@
       "source_audience": "CUST_GABOR_Buyers",
       "source_segment_id": "9239a7ae9eb2744118689fba836ddbb6",
       "last_run": {
+        "aaid": 647777,
         "component_id": 2668357,
-        "idfa": 289589,
-        "visitor_id": 12963974,
-        "aaid": 650561,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 3300515
+        "id5_id": 3312256,
+        "idfa": 287343,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 12846526
       },
       "kpis": {
         "lookalike_id": "b17dc89ae903d949a31ffaf0814fb2bd",
+        "source_audience_reach": {
+          "component_id": 133090
+        },
+        "run_date": "2026-03-19",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11640097
-          },
-          "4": {
-            "component_id": 5057006
-          },
-          "1": {
-            "component_id": 22361502
+          "5": {
+            "component_id": 2668357
           },
           "2": {
             "component_id": 19773023
           },
-          "5": {
-            "component_id": 2668357
+          "4": {
+            "component_id": 5057006
+          },
+          "3": {
+            "component_id": 11640097
+          },
+          "1": {
+            "component_id": 22361502
           }
-        },
-        "run_date": "2026-03-19",
-        "source_audience_reach": {
-          "component_id": 133090
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "dcf9b24816c25625efcb589a56b227ca",
@@ -408,37 +417,38 @@
       "source_audience": "CUST_GANG_Buyers",
       "source_segment_id": "b321299bc8a608ab924ccdc1fc4710c8",
       "last_run": {
+        "visitor_id": 15656645,
         "component_id": 3562387,
-        "idfa": 377625,
-        "visitor_id": 15751305,
-        "aaid": 783963,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 3858610
+        "id5_id": 3886098,
+        "idfa": 375285,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 781130
       },
       "kpis": {
         "lookalike_id": "dcf9b24816c25625efcb589a56b227ca",
+        "source_audience_reach": {
+          "component_id": 80225
+        },
+        "run_date": "2026-02-19",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 3562387
-          },
-          "4": {
-            "component_id": 1960731
-          },
-          "1": {
-            "component_id": 13881092
+          "5": {
+            "component_id": 891116
           },
           "2": {
             "component_id": 8887065
           },
-          "5": {
-            "component_id": 891116
+          "4": {
+            "component_id": 1960731
+          },
+          "3": {
+            "component_id": 3562387
+          },
+          "1": {
+            "component_id": 13881092
           }
-        },
-        "run_date": "2026-02-19",
-        "source_audience_reach": {
-          "component_id": 80225
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "5eea08a5688406c031bd69651a79c442",
@@ -455,37 +465,38 @@
       "source_audience": "CUST_HASPA_Maeusekonto_ParentsGrandparents",
       "source_segment_id": "e2bfb8ec1e3b6260e7438d8ae918e4b2",
       "last_run": {
+        "aaid": 1395696,
         "component_id": 14242292,
-        "idfa": 931023,
-        "visitor_id": 23517277,
-        "aaid": 1395669,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 4616112
+        "id5_id": 4676387,
+        "idfa": 929869,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 23536816
       },
       "kpis": {
         "lookalike_id": "5eea08a5688406c031bd69651a79c442",
+        "source_audience_reach": {
+          "component_id": 8253804
+        },
         "run_date": "2025-10-27",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 14242292
-          },
-          "4": {
-            "component_id": 7589129
-          },
-          "1": {
-            "component_id": 23652496
+          "5": {
+            "component_id": 3535124
           },
           "2": {
             "component_id": 20135554
           },
-          "5": {
-            "component_id": 3535124
+          "4": {
+            "component_id": 7589129
+          },
+          "3": {
+            "component_id": 14242292
+          },
+          "1": {
+            "component_id": 23652496
           }
-        },
-        "source_audience_reach": {
-          "component_id": 8253804
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "7ef44e2afc9b0cba68982adf2dd4ac31",
@@ -502,37 +513,38 @@
       "source_audience": "INTEREST_Headsets",
       "source_segment_id": "1c44f33890bc63df52b4bd6612546211",
       "last_run": {
-        "component_id": 0,
-        "idfa": 0,
         "visitor_id": 0,
-        "aaid": 0,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 0
+        "component_id": 0,
+        "id5_id": 0,
+        "idfa": 0,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 0
       },
       "kpis": {
         "lookalike_id": "7ef44e2afc9b0cba68982adf2dd4ac31",
+        "source_audience_reach": {
+          "component_id": 1114933
+        },
+        "run_date": "2025-09-22",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 8039689
-          },
-          "4": {
-            "component_id": 4970612
-          },
-          "1": {
-            "component_id": 10508571
+          "5": {
+            "component_id": 2422165
           },
           "2": {
             "component_id": 9713440
           },
-          "5": {
-            "component_id": 2422165
+          "4": {
+            "component_id": 4970612
+          },
+          "3": {
+            "component_id": 8039689
+          },
+          "1": {
+            "component_id": 10508571
           }
-        },
-        "run_date": "2025-09-22",
-        "source_audience_reach": {
-          "component_id": 1114933
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "74bfc8e30710817739a725a5996c1993",
@@ -549,37 +561,38 @@
       "source_audience": "N2B_JBL_Headphone_Buyers",
       "source_segment_id": "92b2ea82039f0a184ce1cd93087cd9e8",
       "last_run": {
+        "visitor_id": 4744539,
         "component_id": 1444586,
-        "idfa": 269991,
-        "visitor_id": 4738584,
-        "aaid": 436557,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 1269353
+        "id5_id": 1285851,
+        "idfa": 269530,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 436586
       },
       "kpis": {
         "lookalike_id": "74bfc8e30710817739a725a5996c1993",
+        "source_audience_reach": {
+          "component_id": 27625
+        },
+        "run_date": "2025-10-08",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 1444586
-          },
-          "4": {
-            "component_id": 634168
-          },
-          "1": {
-            "component_id": 2771780
+          "5": {
+            "component_id": 332909
           },
           "2": {
             "component_id": 2282824
           },
-          "5": {
-            "component_id": 332909
+          "4": {
+            "component_id": 634168
+          },
+          "3": {
+            "component_id": 1444586
+          },
+          "1": {
+            "component_id": 2771780
           }
-        },
-        "run_date": "2025-10-08",
-        "source_audience_reach": {
-          "component_id": 27625
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "10b105549af111094ba28af0a27c4e1b",
@@ -596,37 +609,38 @@
       "source_audience": "N2B_JBL",
       "source_segment_id": "bb2a17975a9d0a3fb754b8afdce32e22",
       "last_run": {
+        "aaid": 1964898,
         "component_id": 16406923,
-        "idfa": 1222863,
-        "visitor_id": 31075543,
-        "aaid": 1964566,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 7400126
+        "id5_id": 7496399,
+        "idfa": 1221057,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 31101828
       },
       "kpis": {
         "lookalike_id": "10b105549af111094ba28af0a27c4e1b",
+        "source_audience_reach": {
+          "component_id": 119766
+        },
+        "run_date": "2025-10-08",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 16406923
-          },
-          "4": {
-            "component_id": 6623825
-          },
-          "1": {
-            "component_id": 30774920
+          "5": {
+            "component_id": 3409553
           },
           "2": {
             "component_id": 24232310
           },
-          "5": {
-            "component_id": 3409553
+          "4": {
+            "component_id": 6623825
+          },
+          "3": {
+            "component_id": 16406923
+          },
+          "1": {
+            "component_id": 30774920
           }
-        },
-        "run_date": "2025-10-08",
-        "source_audience_reach": {
-          "component_id": 119766
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "d2b332b7a94c9307cf0d78f43efa5171",
@@ -643,37 +657,38 @@
       "source_audience": "CUST_JackWolfskin_Buyers",
       "source_segment_id": "6b67adc35e52c86df3d367c474163b7b",
       "last_run": {
+        "visitor_id": 15069800,
         "component_id": 3048020,
-        "idfa": 469902,
-        "visitor_id": 15166921,
-        "aaid": 905357,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 3967062
+        "id5_id": 3992248,
+        "idfa": 467214,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 903172
       },
       "kpis": {
         "lookalike_id": "d2b332b7a94c9307cf0d78f43efa5171",
+        "source_audience_reach": {
+          "component_id": 140296
+        },
+        "run_date": "2026-02-28",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 14753785
-          },
-          "4": {
-            "component_id": 7991450
-          },
-          "1": {
-            "component_id": 30338545
+          "5": {
+            "component_id": 3048020
           },
           "2": {
             "component_id": 25491483
           },
-          "5": {
-            "component_id": 3048020
+          "4": {
+            "component_id": 7991450
+          },
+          "3": {
+            "component_id": 14753785
+          },
+          "1": {
+            "component_id": 30338545
           }
-        },
-        "run_date": "2026-02-28",
-        "source_audience_reach": {
-          "component_id": 140296
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "63a42430ddd41fd5d54d3d64d4cf0466",
@@ -690,37 +705,38 @@
       "source_audience": "CUST_LEGO_Mothersday_GenZ",
       "source_segment_id": "fa41ef67fc6b3035de0e3137dc141c2b",
       "last_run": {
+        "visitor_id": 50440375,
         "component_id": 4260867,
-        "idfa": 1610603,
-        "visitor_id": 51020361,
-        "aaid": 3207257,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 14372886
+        "id5_id": 14361513,
+        "idfa": 1596126,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 3191254
       },
       "kpis": {
         "lookalike_id": "63a42430ddd41fd5d54d3d64d4cf0466",
+        "source_audience_reach": {
+          "component_id": 622010
+        },
+        "run_date": "2026-04-27",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 10797213
-          },
-          "4": {
-            "component_id": 7283394
-          },
-          "1": {
-            "component_id": 12592881
+          "5": {
+            "component_id": 4260867
           },
           "2": {
             "component_id": 12338039
           },
-          "5": {
-            "component_id": 4260867
+          "4": {
+            "component_id": 7283394
+          },
+          "3": {
+            "component_id": 10797213
+          },
+          "1": {
+            "component_id": 12592881
           }
-        },
-        "run_date": "2026-04-27",
-        "source_audience_reach": {
-          "component_id": 622010
         }
-      }
+      },
+      "mine": true
     },
     {
       "lookalike_id": "741e02ada069dde73c78cfa4070943b7",
@@ -737,37 +753,38 @@
       "source_audience": "CUST_LEVIS_Buyers",
       "source_segment_id": "8cffe598f92bd638f5d617850d1789ca",
       "last_run": {
+        "aaid": 1739072,
         "component_id": 16998857,
-        "idfa": 965541,
-        "visitor_id": 29843528,
-        "aaid": 1739535,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 7126694
+        "id5_id": 7211067,
+        "idfa": 963319,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 29833209
       },
       "kpis": {
         "lookalike_id": "741e02ada069dde73c78cfa4070943b7",
+        "source_audience_reach": {
+          "component_id": 263219
+        },
+        "run_date": "2025-11-21",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 16998857
-          },
-          "4": {
-            "component_id": 8397867
-          },
-          "1": {
-            "component_id": 34149281
+          "5": {
+            "component_id": 3431379
           },
           "2": {
             "component_id": 27211666
           },
-          "5": {
-            "component_id": 3431379
+          "4": {
+            "component_id": 8397867
+          },
+          "3": {
+            "component_id": 16998857
+          },
+          "1": {
+            "component_id": 34149281
           }
-        },
-        "run_date": "2025-11-21",
-        "source_audience_reach": {
-          "component_id": 263219
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "9c8a37f03d6f4d85158d78805abafbb5",
@@ -784,37 +801,38 @@
       "source_audience": "N2B_LG",
       "source_segment_id": "150534492e91de6ef74462047122bd0a",
       "last_run": {
+        "visitor_id": 30104376,
         "component_id": 14014230,
-        "idfa": 1215284,
-        "visitor_id": 30079639,
-        "aaid": 1942469,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 7293915
+        "id5_id": 7389728,
+        "idfa": 1213570,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 1942919
       },
       "kpis": {
         "lookalike_id": "9c8a37f03d6f4d85158d78805abafbb5",
+        "source_audience_reach": {
+          "component_id": 127102
+        },
+        "run_date": "2025-10-15",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 14014230
-          },
-          "4": {
-            "component_id": 6432719
-          },
-          "1": {
-            "component_id": 24899785
+          "5": {
+            "component_id": 3436238
           },
           "2": {
             "component_id": 20623860
           },
-          "5": {
-            "component_id": 3436238
+          "4": {
+            "component_id": 6432719
+          },
+          "3": {
+            "component_id": 14014230
+          },
+          "1": {
+            "component_id": 24899785
           }
-        },
-        "run_date": "2025-10-15",
-        "source_audience_reach": {
-          "component_id": 127102
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "a28c4743fd2715a035a5c7eb34b6c481",
@@ -831,37 +849,38 @@
       "source_audience": "N2B_Lascana",
       "source_segment_id": "bb51ab4bd6ef515d84a2682c40a35788",
       "last_run": {
+        "visitor_id": 25629405,
         "component_id": 19527467,
-        "idfa": 665427,
-        "visitor_id": 25644176,
-        "aaid": 1332981,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 5877133
+        "id5_id": 5942687,
+        "idfa": 663856,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 1331991
       },
       "kpis": {
         "lookalike_id": "a28c4743fd2715a035a5c7eb34b6c481",
+        "source_audience_reach": {
+          "component_id": 1721296
+        },
+        "run_date": "2025-11-25",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 19527467
-          },
-          "4": {
-            "component_id": 6866071
-          },
-          "1": {
-            "component_id": 24501464
+          "5": {
+            "component_id": 2681114
           },
           "2": {
             "component_id": 24073051
           },
-          "5": {
-            "component_id": 2681114
+          "4": {
+            "component_id": 6866071
+          },
+          "3": {
+            "component_id": 19527467
+          },
+          "1": {
+            "component_id": 24501464
           }
-        },
-        "run_date": "2025-11-25",
-        "source_audience_reach": {
-          "component_id": 1721296
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "c2693c38597fad790a4e3d97357aa201",
@@ -878,37 +897,38 @@
       "source_audience": "CUST_MOP_Buyers",
       "source_segment_id": "4d7a5f863b1e2981542c8f7c0b601e20",
       "last_run": {
+        "aaid": 1111056,
         "component_id": 4581428,
-        "idfa": 577236,
-        "visitor_id": 20127141,
-        "aaid": 1114069,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 5121064
+        "id5_id": 5159049,
+        "idfa": 573949,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 20017636
       },
       "kpis": {
         "lookalike_id": "c2693c38597fad790a4e3d97357aa201",
+        "source_audience_reach": {
+          "component_id": 102454
+        },
+        "run_date": "2026-02-19",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 4581428
-          },
-          "4": {
-            "component_id": 2343274
-          },
-          "1": {
-            "component_id": 6873007
+          "5": {
+            "component_id": 1081890
           },
           "2": {
             "component_id": 6065608
           },
-          "5": {
-            "component_id": 1081890
+          "4": {
+            "component_id": 2343274
+          },
+          "3": {
+            "component_id": 4581428
+          },
+          "1": {
+            "component_id": 6873007
           }
-        },
-        "run_date": "2026-02-19",
-        "source_audience_reach": {
-          "component_id": 102454
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "9f3a6800317553d52198a2ab59396f28",
@@ -925,37 +945,38 @@
       "source_audience": "CUST_Miele_Buyers",
       "source_segment_id": "0a6967c201ae81f1be05f215fec17359",
       "last_run": {
+        "visitor_id": 19068179,
         "component_id": 4543223,
-        "idfa": 737365,
-        "visitor_id": 19122282,
-        "aaid": 1259019,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 5142306
+        "id5_id": 5192852,
+        "idfa": 734705,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 1257806
       },
       "kpis": {
         "lookalike_id": "9f3a6800317553d52198a2ab59396f28",
+        "source_audience_reach": {
+          "component_id": 77073
+        },
+        "run_date": "2026-01-23",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 4543223
-          },
-          "4": {
-            "component_id": 2160518
-          },
-          "1": {
-            "component_id": 7582279
+          "5": {
+            "component_id": 809883
           },
           "2": {
             "component_id": 6585351
           },
-          "5": {
-            "component_id": 809883
+          "4": {
+            "component_id": 2160518
+          },
+          "3": {
+            "component_id": 4543223
+          },
+          "1": {
+            "component_id": 7582279
           }
-        },
-        "run_date": "2026-01-23",
-        "source_audience_reach": {
-          "component_id": 77073
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "23b7914ca2b3709bea0ca1c47e4ad4cc",
@@ -972,37 +993,38 @@
       "source_audience": "N2B_Samsung",
       "source_segment_id": "8a61d692cc98ffdf829406a4ecfe628c",
       "last_run": {
+        "visitor_id": 31421544,
         "component_id": 14518242,
-        "idfa": 1220413,
-        "visitor_id": 31398301,
-        "aaid": 1937182,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 7541487
+        "id5_id": 7639758,
+        "idfa": 1218445,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 1937446
       },
       "kpis": {
         "lookalike_id": "23b7914ca2b3709bea0ca1c47e4ad4cc",
+        "source_audience_reach": {
+          "component_id": 330230
+        },
+        "run_date": "2025-10-15",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 14518242
-          },
-          "4": {
-            "component_id": 6725946
-          },
-          "1": {
-            "component_id": 24081475
+          "5": {
+            "component_id": 3702855
           },
           "2": {
             "component_id": 20385131
           },
-          "5": {
-            "component_id": 3702855
+          "4": {
+            "component_id": 6725946
+          },
+          "3": {
+            "component_id": 14518242
+          },
+          "1": {
+            "component_id": 24081475
           }
-        },
-        "run_date": "2025-10-15",
-        "source_audience_reach": {
-          "component_id": 330230
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "73c9d37b9b7177c705bcbc09df1a8ec6",
@@ -1019,37 +1041,38 @@
       "source_audience": "CUST_TommyHilfiger_Purchaser",
       "source_segment_id": "a7c6397f89241d56bbd40274f1d7b198",
       "last_run": {
+        "visitor_id": 18622263,
         "component_id": 7943044,
-        "idfa": 665383,
-        "visitor_id": 18612997,
-        "aaid": 1203300,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 4561504
+        "id5_id": 4617754,
+        "idfa": 663979,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 1203059
       },
       "kpis": {
         "lookalike_id": "73c9d37b9b7177c705bcbc09df1a8ec6",
+        "source_audience_reach": {
+          "component_id": 400196
+        },
+        "run_date": "2025-10-15",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 14673113
-          },
-          "4": {
-            "component_id": 7943044
-          },
-          "1": {
-            "component_id": 29224078
+          "5": {
+            "component_id": 3305344
           },
           "2": {
             "component_id": 26815643
           },
-          "5": {
-            "component_id": 3305344
+          "4": {
+            "component_id": 7943044
+          },
+          "3": {
+            "component_id": 14673113
+          },
+          "1": {
+            "component_id": 29224078
           }
-        },
-        "run_date": "2025-10-15",
-        "source_audience_reach": {
-          "component_id": 400196
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "b5f98218ab021fdbf3a8e562f48d1e9f",
@@ -1066,37 +1089,38 @@
       "source_audience": "CUST_nobilia_Competitors_30d",
       "source_segment_id": "d1068f0924514b9e58e824bdd7875062",
       "last_run": {
+        "visitor_id": 69893763,
         "component_id": 7212987,
-        "idfa": 2247207,
-        "visitor_id": 70569063,
-        "aaid": 4352070,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 19432804
+        "id5_id": 19414598,
+        "idfa": 2222362,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 4323747
       },
       "kpis": {
         "lookalike_id": "b5f98218ab021fdbf3a8e562f48d1e9f",
+        "source_audience_reach": {
+          "component_id": 312869
+        },
+        "run_date": "2026-04-07",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 13024753
-          },
-          "4": {
-            "component_id": 7212987
-          },
-          "1": {
-            "component_id": 16989103
+          "5": {
+            "component_id": 3920736
           },
           "2": {
             "component_id": 15685233
           },
-          "5": {
-            "component_id": 3920736
+          "4": {
+            "component_id": 7212987
+          },
+          "3": {
+            "component_id": 13024753
+          },
+          "1": {
+            "component_id": 16989103
           }
-        },
-        "run_date": "2026-04-07",
-        "source_audience_reach": {
-          "component_id": 312869
         }
-      }
+      },
+      "mine": true
     },
     {
       "lookalike_id": "73eaa764e157cb395b45383f472a0211",
@@ -1113,37 +1137,38 @@
       "source_audience": "CUST_nobilia_Competitors_90d",
       "source_segment_id": "d88036ee0214fce1724339b6c6f38349",
       "last_run": {
+        "visitor_id": 67221476,
         "component_id": 7868025,
-        "idfa": 2121884,
-        "visitor_id": 67804921,
-        "aaid": 4134228,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 18479359
+        "id5_id": 18478977,
+        "idfa": 2100007,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 4107940
       },
       "kpis": {
         "lookalike_id": "73eaa764e157cb395b45383f472a0211",
+        "source_audience_reach": {
+          "component_id": 875100
+        },
+        "run_date": "2026-04-07",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 12829561
-          },
-          "4": {
-            "component_id": 7868025
-          },
-          "1": {
-            "component_id": 21838961
+          "5": {
+            "component_id": 3703316
           },
           "2": {
             "component_id": 16825453
           },
-          "5": {
-            "component_id": 3703316
+          "4": {
+            "component_id": 7868025
+          },
+          "3": {
+            "component_id": 12829561
+          },
+          "1": {
+            "component_id": 21838961
           }
-        },
-        "run_date": "2026-04-07",
-        "source_audience_reach": {
-          "component_id": 875100
         }
-      }
+      },
+      "mine": true
     },
     {
       "lookalike_id": "14f68949e016a593e17dbb43e3104af5",
@@ -1160,37 +1185,38 @@
       "source_audience": "CUST_set_one_by_Musterring_Buyers",
       "source_segment_id": "80ec5ea83baef8e9519b11a0471463c2",
       "last_run": {
+        "visitor_id": 3676010,
         "component_id": 6344188,
-        "idfa": 66335,
-        "visitor_id": 3678307,
-        "aaid": 166578,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 657570
+        "id5_id": 664090,
+        "idfa": 66392,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 166665
       },
       "kpis": {
         "lookalike_id": "14f68949e016a593e17dbb43e3104af5",
+        "source_audience_reach": {
+          "component_id": 1797
+        },
+        "run_date": "2026-02-02",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 6344188
-          },
-          "4": {
-            "component_id": 2531663
-          },
-          "1": {
-            "component_id": 19245381
+          "5": {
+            "component_id": 1282433
           },
           "2": {
             "component_id": 19245381
           },
-          "5": {
-            "component_id": 1282433
+          "4": {
+            "component_id": 2531663
+          },
+          "3": {
+            "component_id": 6344188
+          },
+          "1": {
+            "component_id": 19245381
           }
-        },
-        "run_date": "2026-02-02",
-        "source_audience_reach": {
-          "component_id": 1797
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "29b8ca4f53a3368e20caf6d22c9b6068",
@@ -1207,7 +1233,8 @@
       "source_audience": "N2B_JBL_Headphone_Buyers",
       "source_segment_id": "92b2ea82039f0a184ce1cd93087cd9e8",
       "last_run": null,
-      "kpis": null
+      "kpis": null,
+      "mine": false
     },
     {
       "lookalike_id": "23426d07546867494ae123005db292b8",
@@ -1224,37 +1251,38 @@
       "source_audience": "CUST_LEGO_InterestToys_NotLEGO",
       "source_segment_id": "a790e3915e92f8db4360f726dc5e557c",
       "last_run": {
+        "visitor_id": 19226762,
         "component_id": 16491317,
-        "idfa": 824634,
-        "visitor_id": 19219624,
-        "aaid": 1276830,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 4681224
+        "id5_id": 4740373,
+        "idfa": 823100,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 1276838
       },
       "kpis": {
         "lookalike_id": "23426d07546867494ae123005db292b8",
+        "source_audience_reach": {
+          "component_id": 6442905
+        },
+        "run_date": "2025-11-08",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 16491317
-          },
-          "4": {
-            "component_id": 9187043
-          },
-          "1": {
-            "component_id": 25130832
+          "5": {
+            "component_id": 5018188
           },
           "2": {
             "component_id": 22167146
           },
-          "5": {
-            "component_id": 5018188
+          "4": {
+            "component_id": 9187043
+          },
+          "3": {
+            "component_id": 16491317
+          },
+          "1": {
+            "component_id": 25130832
           }
-        },
-        "run_date": "2025-11-08",
-        "source_audience_reach": {
-          "component_id": 6442905
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "50e9f57c1c0532ff88fc32646ed10c82",
@@ -1271,37 +1299,38 @@
       "source_audience": "CUST_LAL_Vacuum",
       "source_segment_id": "c62fe21110d2c4f04d1f6e4709bc62aa",
       "last_run": {
+        "visitor_id": 55829187,
         "component_id": 4224443,
-        "idfa": 1742418,
-        "visitor_id": 56695286,
-        "aaid": 3429509,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 15856156
+        "id5_id": 15741117,
+        "idfa": 1717481,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 3404950
       },
       "kpis": {
         "lookalike_id": "50e9f57c1c0532ff88fc32646ed10c82",
+        "source_audience_reach": {
+          "component_id": 56657
+        },
+        "run_date": "2026-04-23",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11254743
-          },
-          "4": {
-            "component_id": 7214023
-          },
-          "1": {
-            "component_id": 15900434
+          "5": {
+            "component_id": 4224443
           },
           "2": {
             "component_id": 14487950
           },
-          "5": {
-            "component_id": 4224443
+          "4": {
+            "component_id": 7214023
+          },
+          "3": {
+            "component_id": 11254743
+          },
+          "1": {
+            "component_id": 15900434
           }
-        },
-        "run_date": "2026-04-23",
-        "source_audience_reach": {
-          "component_id": 56657
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "5ecf54d876f6bfea0e60412ca1758b60",
@@ -1318,37 +1347,38 @@
       "source_audience": "N2B_LEGO_Holiday",
       "source_segment_id": "b4906daf97ef6938b339db9aad22604b",
       "last_run": {
-        "component_id": 0,
-        "idfa": 0,
-        "visitor_id": 0,
         "aaid": 0,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 0
+        "component_id": 0,
+        "id5_id": 0,
+        "idfa": 0,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 0
       },
       "kpis": {
         "lookalike_id": "5ecf54d876f6bfea0e60412ca1758b60",
+        "source_audience_reach": {
+          "component_id": 4512754
+        },
+        "run_date": "2025-11-08",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 14288822
-          },
-          "4": {
-            "component_id": 9348161
-          },
-          "1": {
-            "component_id": 19097493
+          "5": {
+            "component_id": 4816172
           },
           "2": {
             "component_id": 17467388
           },
-          "5": {
-            "component_id": 4816172
+          "4": {
+            "component_id": 9348161
+          },
+          "3": {
+            "component_id": 14288822
+          },
+          "1": {
+            "component_id": 19097493
           }
-        },
-        "run_date": "2025-11-08",
-        "source_audience_reach": {
-          "component_id": 4512754
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "4884a3e805c6b4ef3d31211a9e6de7e9",
@@ -1365,37 +1395,38 @@
       "source_audience": "CUST_LEGO_Adults_Technic_Luxury",
       "source_segment_id": "4c54d136a229b2c76e36bda9d9cbfde1",
       "last_run": {
+        "visitor_id": 36644100,
         "component_id": 13203335,
-        "idfa": 1414896,
-        "visitor_id": 36623100,
-        "aaid": 2195276,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 8082588
+        "id5_id": 8185786,
+        "idfa": 1412537,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 2194978
       },
       "kpis": {
         "lookalike_id": "4884a3e805c6b4ef3d31211a9e6de7e9",
+        "source_audience_reach": {
+          "component_id": 1484378
+        },
+        "run_date": "2025-11-08",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 13203335
-          },
-          "4": {
-            "component_id": 10188597
-          },
-          "1": {
-            "component_id": 19324854
+          "5": {
+            "component_id": 5754810
           },
           "2": {
             "component_id": 15330289
           },
-          "5": {
-            "component_id": 5754810
+          "4": {
+            "component_id": 10188597
+          },
+          "3": {
+            "component_id": 13203335
+          },
+          "1": {
+            "component_id": 19324854
           }
-        },
-        "run_date": "2025-11-08",
-        "source_audience_reach": {
-          "component_id": 1484378
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "112351357cef70f7f60a8d3d4fba5991",
@@ -1412,37 +1443,38 @@
       "source_audience": "INTEREST_BrandsSmallKids",
       "source_segment_id": "0c98dc4d239fe5ed746f410de06b009e",
       "last_run": {
-        "component_id": 0,
-        "idfa": 0,
-        "visitor_id": 0,
         "aaid": 0,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 0
+        "component_id": 0,
+        "id5_id": 0,
+        "idfa": 0,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 0
       },
       "kpis": {
         "lookalike_id": "112351357cef70f7f60a8d3d4fba5991",
+        "source_audience_reach": {
+          "component_id": 3101752
+        },
+        "run_date": "2025-06-16",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 18757133
-          },
-          "4": {
-            "component_id": 8856778
-          },
-          "1": {
-            "component_id": 29890233
+          "5": {
+            "component_id": 3454775
           },
           "2": {
             "component_id": 26578418
           },
-          "5": {
-            "component_id": 3454775
+          "4": {
+            "component_id": 8856778
+          },
+          "3": {
+            "component_id": 18757133
+          },
+          "1": {
+            "component_id": 29890233
           }
-        },
-        "run_date": "2025-06-16",
-        "source_audience_reach": {
-          "component_id": 3101752
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "0f874e27fa8ce302c6fecce1eaad2ff8",
@@ -1461,28 +1493,77 @@
       "last_run": null,
       "kpis": {
         "lookalike_id": "0f874e27fa8ce302c6fecce1eaad2ff8",
+        "source_audience_reach": {
+          "component_id": 1202679
+        },
+        "run_date": "2025-09-22",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11111310
-          },
-          "4": {
-            "component_id": 5530264
-          },
-          "1": {
-            "component_id": 20682261
+          "5": {
+            "component_id": 2620034
           },
           "2": {
             "component_id": 16296535
           },
-          "5": {
-            "component_id": 2620034
+          "4": {
+            "component_id": 5530264
+          },
+          "3": {
+            "component_id": 11111310
+          },
+          "1": {
+            "component_id": 20682261
           }
-        },
-        "run_date": "2025-09-22",
-        "source_audience_reach": {
-          "component_id": 1202679
         }
-      }
+      },
+      "mine": false
+    },
+    {
+      "lookalike_id": "753d18e213ac2e6b508c93857d229137",
+      "export_id": "K7",
+      "display_name": "TEST_MIGRATION",
+      "status": "ACTIVE",
+      "similarity": "3",
+      "description": "This segment is used to test the migrated lookalike backend. (by Jia-Jen)",
+      "version_id": "1",
+      "version_creation_time": "2026-05-21T07:17:58.956000+00:00",
+      "original_creation_time": "2026-05-21T07:17:58.956000+00:00",
+      "version_author": "jia-jen.yang@og1o.de",
+      "original_author": "jia-jen.yang@og1o.de",
+      "source_audience": "CUST_LEGO_Mothersday_GenZ",
+      "source_segment_id": "fa41ef67fc6b3035de0e3137dc141c2b",
+      "last_run": {
+        "visitor_id": 106703763,
+        "component_id": 11803817,
+        "id5_id": 29542556,
+        "idfa": 2939967,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 6100590
+      },
+      "kpis": {
+        "lookalike_id": "753d18e213ac2e6b508c93857d229137",
+        "source_audience_reach": {
+          "component_id": 628452
+        },
+        "run_date": "2026-05-21",
+        "reach_per_similarity": {
+          "5": {
+            "component_id": 4122887
+          },
+          "2": {
+            "component_id": 12479008
+          },
+          "4": {
+            "component_id": 8196120
+          },
+          "3": {
+            "component_id": 11803817
+          },
+          "1": {
+            "component_id": 12734880
+          }
+        }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "aa87008c82606f462b10f78b9e0d55da",
@@ -1499,7 +1580,8 @@
       "source_audience": "INTEREST_Puzzle",
       "source_segment_id": "3904ba623e63e21e17341037d8c39eac",
       "last_run": null,
-      "kpis": null
+      "kpis": null,
+      "mine": false
     },
     {
       "lookalike_id": "3aef3887eee57268265dd20a162ee1dc",
@@ -1518,28 +1600,29 @@
       "last_run": null,
       "kpis": {
         "lookalike_id": "3aef3887eee57268265dd20a162ee1dc",
+        "source_audience_reach": {
+          "component_id": 107255
+        },
+        "run_date": "2025-06-29",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 18370679
-          },
-          "4": {
-            "component_id": 6870797
-          },
-          "1": {
-            "component_id": 23964744
+          "5": {
+            "component_id": 2885764
           },
           "2": {
             "component_id": 20640078
           },
-          "5": {
-            "component_id": 2885764
+          "4": {
+            "component_id": 6870797
+          },
+          "3": {
+            "component_id": 18370679
+          },
+          "1": {
+            "component_id": 23964744
           }
-        },
-        "run_date": "2025-06-29",
-        "source_audience_reach": {
-          "component_id": 107255
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "e1f7fb9e88dedbc02e248ca5ccdb2ba4",
@@ -1558,28 +1641,29 @@
       "last_run": null,
       "kpis": {
         "lookalike_id": "e1f7fb9e88dedbc02e248ca5ccdb2ba4",
+        "source_audience_reach": {
+          "component_id": 2390748
+        },
+        "run_date": "2025-06-14",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 17651724
-          },
-          "4": {
-            "component_id": 9433945
-          },
-          "1": {
-            "component_id": 25094776
+          "5": {
+            "component_id": 4048822
           },
           "2": {
             "component_id": 22670501
           },
-          "5": {
-            "component_id": 4048822
+          "4": {
+            "component_id": 9433945
+          },
+          "3": {
+            "component_id": 17651724
+          },
+          "1": {
+            "component_id": 25094776
           }
-        },
-        "run_date": "2025-06-14",
-        "source_audience_reach": {
-          "component_id": 2390748
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "898f5769727a87ba3cefb172cbd13dd9",
@@ -1596,37 +1680,38 @@
       "source_audience": "INTENT_VacuumCleaner",
       "source_segment_id": "c904706c5f4a19cf2fee3badec46c5eb",
       "last_run": {
-        "component_id": 0,
-        "idfa": 0,
         "visitor_id": 0,
-        "aaid": 0,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 0
+        "component_id": 0,
+        "id5_id": 0,
+        "idfa": 0,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "aaid": 0
       },
       "kpis": {
         "lookalike_id": "898f5769727a87ba3cefb172cbd13dd9",
+        "source_audience_reach": {
+          "component_id": 3916413
+        },
+        "run_date": "2025-06-14",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 18032514
-          },
-          "4": {
-            "component_id": 8292412
-          },
-          "1": {
-            "component_id": 31433205
+          "5": {
+            "component_id": 3267124
           },
           "2": {
             "component_id": 26593520
           },
-          "5": {
-            "component_id": 3267124
+          "4": {
+            "component_id": 8292412
+          },
+          "3": {
+            "component_id": 18032514
+          },
+          "1": {
+            "component_id": 31433205
           }
-        },
-        "run_date": "2025-06-14",
-        "source_audience_reach": {
-          "component_id": 3916413
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "2a6434f74e54ca4eba41b8a5a1dc6efc",
@@ -1643,37 +1728,38 @@
       "source_audience": "INTEREST_Pharmacy",
       "source_segment_id": "002ac0d1a694654a655abdb4cc7856bb",
       "last_run": {
-        "component_id": 0,
-        "idfa": 0,
-        "visitor_id": 0,
         "aaid": 0,
-        "timestamp": "2026-05-18T01:11:03.956546",
-        "id5_id": 0
+        "component_id": 0,
+        "id5_id": 0,
+        "idfa": 0,
+        "timestamp": "2026-05-28T01:10:52.274052",
+        "visitor_id": 0
       },
       "kpis": {
         "lookalike_id": "2a6434f74e54ca4eba41b8a5a1dc6efc",
+        "source_audience_reach": {
+          "component_id": 6747248
+        },
+        "run_date": "2025-06-25",
         "reach_per_similarity": {
-          "3": {
-            "component_id": 11794828
-          },
-          "4": {
-            "component_id": 6863402
-          },
-          "1": {
-            "component_id": 17400326
+          "5": {
+            "component_id": 3674839
           },
           "2": {
             "component_id": 15437835
           },
-          "5": {
-            "component_id": 3674839
+          "4": {
+            "component_id": 6863402
+          },
+          "3": {
+            "component_id": 11794828
+          },
+          "1": {
+            "component_id": 17400326
           }
-        },
-        "run_date": "2025-06-25",
-        "source_audience_reach": {
-          "component_id": 6747248
         }
-      }
+      },
+      "mine": false
     },
     {
       "lookalike_id": "2cb6449ad78d84c278e6d5cd995e8d43",
@@ -1690,7 +1776,8 @@
       "source_audience": "INTEREST_Pharmacy",
       "source_segment_id": "002ac0d1a694654a655abdb4cc7856bb",
       "last_run": null,
-      "kpis": null
+      "kpis": null,
+      "mine": false
     }
   ]
 }

@@ -10,9 +10,15 @@ const parseDateValue = (value) => {
   return Number(`${year}${month}${day}`);
 };
 
+const parseNumberValue = (value) => {
+  const normalized = value.trim().replace(/\./g, "").replace(",", ".");
+  const parsed = Number(normalized);
+  return Number.isFinite(parsed) ? parsed : Number.NaN;
+};
+
 const parseValue = (value, type) => {
   if (type === "number") {
-    return Number(value.trim());
+    return parseNumberValue(value);
   }
 
   if (type === "date") {
@@ -56,6 +62,14 @@ const resetSortState = (headers) => {
   });
 };
 
+const getDetailRow = (table, segmentRow) => {
+  const detailRowId = segmentRow.dataset.accordionToggle;
+  if (!detailRowId) {
+    return null;
+  }
+  return table.querySelector(`#${detailRowId}`);
+};
+
 const sortTable = (table, headerButton) => {
   const headerCell = headerButton.closest("th");
   const headerRow = headerCell?.parentElement;
@@ -69,7 +83,7 @@ const sortTable = (table, headerButton) => {
   const columnIndex = headers.indexOf(headerCell);
   const sortType = headerButton.dataset.sortType ?? "text";
   const nextDirection = headerCell.dataset.sortDirection === "asc" ? "desc" : "asc";
-  const rows = Array.from(tbody.querySelectorAll("tr"));
+  const rows = Array.from(tbody.querySelectorAll('tr[data-row-type="segment"]'));
 
   rows.sort((leftRow, rightRow) => {
     const leftCell = leftRow.children[columnIndex];
@@ -79,16 +93,75 @@ const sortTable = (table, headerButton) => {
     return compareValues(leftValue, rightValue, nextDirection);
   });
 
+  const fragment = document.createDocumentFragment();
+  rows.forEach((row) => {
+    const detailRow = getDetailRow(table, row);
+    fragment.append(row);
+    if (detailRow) {
+      fragment.append(detailRow);
+    }
+  });
+
   resetSortState(headers);
   headerCell.dataset.sortDirection = nextDirection;
   headerCell.setAttribute("aria-sort", nextDirection === "asc" ? "ascending" : "descending");
-  tbody.append(...rows);
+  tbody.append(fragment);
 };
+
+const toggleAccordionRow = (table, segmentRow) => {
+  const detailRow = getDetailRow(table, segmentRow);
+  if (!detailRow) {
+    return;
+  }
+
+  const isExpanded = segmentRow.getAttribute("aria-expanded") === "true";
+  segmentRow.setAttribute("aria-expanded", isExpanded ? "false" : "true");
+  detailRow.hidden = isExpanded;
+};
+
+const isInteractiveTarget = (target) =>
+  target.closest("a, button, input, select, textarea, label");
 
 tables.forEach((table) => {
   const sortButtons = Array.from(table.querySelectorAll(".segments-table__sort-button"));
   sortButtons.forEach((button) => {
     button.addEventListener("click", () => sortTable(table, button));
   });
-});
 
+  const tbody = table.querySelector("tbody");
+  if (!tbody) {
+    return;
+  }
+
+  tbody.addEventListener("click", (event) => {
+    const target = event.target;
+    if (!(target instanceof HTMLElement) || isInteractiveTarget(target)) {
+      return;
+    }
+
+    const segmentRow = target.closest('tr[data-row-type="segment"]');
+    if (!(segmentRow instanceof HTMLTableRowElement)) {
+      return;
+    }
+
+    toggleAccordionRow(table, segmentRow);
+  });
+
+  tbody.addEventListener("keydown", (event) => {
+    const target = event.target;
+    if (!(target instanceof HTMLTableRowElement)) {
+      return;
+    }
+
+    if (target.dataset.rowType !== "segment") {
+      return;
+    }
+
+    if (event.key !== "Enter" && event.key !== " ") {
+      return;
+    }
+
+    event.preventDefault();
+    toggleAccordionRow(table, target);
+  });
+});

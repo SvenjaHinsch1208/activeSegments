@@ -305,6 +305,58 @@ body.theme--light {
       background-color: rgba($warning-color, 0.18);
     }
   }
+
+  &__row--expandable {
+    cursor: pointer;
+
+    &:hover .segments-table__cell {
+      background-color: rgba($color-primary, 0.08);
+    }
+
+    &:focus-visible {
+      outline: 2px solid $color-dark-primary;
+      outline-offset: -2px;
+    }
+
+    &[aria-expanded="true"] .segments-table__expand-indicator::before {
+      transform: rotate(90deg);
+    }
+  }
+
+  &__expand-indicator {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: $space-3;
+    margin-right: $space-2;
+    color: var(--text-muted-color);
+
+    &::before {
+      content: "▸";
+      font-size: $font-size-xs;
+      line-height: 1;
+      transition: transform 0.2s ease;
+    }
+  }
+
+  &__details-row {
+    .segments-table__details-cell {
+      padding: $space-4;
+      border-bottom: 1px solid var(--border-color);
+      background-color: var(--surface-alt-bg);
+      color: var(--text-color);
+      overflow-wrap: anywhere;
+    }
+  }
+
+  &__details-label {
+    font-weight: $font-weight-semibold;
+    margin-right: $space-2;
+  }
+
+  &__details-value {
+    color: var(--text-muted-color);
+  }
 }
 
 @media (max-width: 48rem) {
