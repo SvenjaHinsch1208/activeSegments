@@ -45,10 +45,22 @@ async function main(): Promise<void> {
   const targetData = await api.getTargetSegmentsActiveCampaigns({ from: dateFrom, to: dateTo });
   const debugFilePath = buildDebugFilePath(TARGET_FILE);
 
+  const campaignIdsByTargetSegment = new Map(
+    targetData.targetSegmentCampaignCountDetails.map((detail) => {
+      const campaignIds = Array.from(new Set(detail.campaigns.map((campaign) => campaign.id)));
+      return [detail.targetSegment, campaignIds.join(",")];
+    })
+  );
+
+  const targetDataWithCampaignIds = targetData.targetSegmentCampaignCount.map((segment) => ({
+    ...segment,
+    campaignIds: campaignIdsByTargetSegment.get(segment.targetSegment) ?? "-",
+  }));
+
   console.log(`→ target file: ${TARGET_FILE}`);
   console.log(`→ debug file: ${debugFilePath}`);
 
-  await writeJsonLines(TARGET_FILE, targetData.targetSegmentCampaignCount);
+  await writeJsonLines(TARGET_FILE, targetDataWithCampaignIds);
   await writeJsonLines(debugFilePath, targetData.targetSegmentCampaignCountDetails);
 
   console.log(`✓  ${targetData.targetSegmentCampaignCount.length} segments → ${path.basename(TARGET_FILE)}`);
@@ -59,4 +71,3 @@ main().catch(err => {
   console.error("fetchSegmentData failed:", (err as Error).message);
   process.exit(1);
 });
-
