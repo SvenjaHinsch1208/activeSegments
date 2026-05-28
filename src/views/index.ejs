@@ -26,6 +26,7 @@
     </header>
     <main class="site-main">
       <section class="segments-panel" aria-labelledby="segments-title">
+        <%- include("partials/tabNav") %>
         <!--<div class="segments-panel__header">
           <h1 class="segments-panel__title" id="segments-title"><%= title %></h1>
           <p class="segments-panel__subtitle">Overview of target segment usage across active campaigns.</p>
@@ -70,6 +71,7 @@
                   class="segments-table__row segments-table__row--expandable<%= row.isShortIdWarning ? ' segments-table__row--warning' : '' %>"
                   data-row-type="segment"
                   data-accordion-toggle="<%= detailRowId %>"
+                  id="segment-<%= row.shortId %>"
                   aria-expanded="false"
                   aria-controls="<%= detailRowId %>"
                   tabindex="0"
@@ -91,7 +93,15 @@
                 <tr class="segments-table__details-row" data-row-type="details" id="<%= detailRowId %>" hidden>
                   <td class="segments-table__details-cell" colspan="9">
                     <span class="segments-table__details-label">Campaign IDs (<%= row.campaignCount %>):</span>
-                    <span class="segments-table__details-value"><%= row.campaignIds %></span>
+                    <% if (row.campaignCount === 0) { %>
+                      <span class="segments-table__details-value">-</span>
+                    <% } else { %>
+                      <span class="segments-table__details-value">
+                        <% row.campaignIds.forEach((id, idIndex) => { %>
+                          <a class="segments-table__details-link" href="/campaigns#campaign-<%= id %>"><%= id %></a><% if (idIndex < row.campaignIds.length - 1) { %>, <% } %>
+                        <% }); %>
+                      </span>
+                    <% } %>
                   </td>
                 </tr>
               <% }); %>

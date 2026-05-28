@@ -18,6 +18,8 @@ body {
   --surface-bg: #{$color-dark-surface};
   --surface-alt-bg: #{$color-dark-surface-nuance};
   --border-color: #{$color-dark-border};
+  --target-row-bg: #124a5d;
+  --target-row-border: rgba(255, 255, 255, 0.16);
   --text-color: #{$color-dark-text-base};
   --text-muted-color: #{$color-dark-text-muted};
   --button-bg: #{$color-dark-surface-nuance};
@@ -38,6 +40,8 @@ body.theme--light {
   --surface-bg: #{$color-surface};
   --surface-alt-bg: #{$color-bg};
   --border-color: #{$color-border};
+  --target-row-bg: #b3cddb;
+  --target-row-border: rgba(2, 6, 23, 0.12);
   --text-color: #{$color-text-base};
   --text-muted-color: #{$color-text-muted};
   --button-bg: #{$color-surface};
@@ -165,6 +169,40 @@ body.theme--light {
   }
 }
 
+// ─── Tab Navigation ───────────────────────────────────────────────────────────
+.tab-nav {
+  display: flex;
+  gap: $space-2;
+  border-bottom: 1px solid var(--border-color);
+
+  &__item {
+    display: inline-flex;
+    align-items: center;
+    padding: $space-3 $space-4;
+    border-bottom: 2px solid transparent;
+    color: var(--text-muted-color);
+    font-size: $font-size-base;
+    font-weight: $font-weight-semibold;
+    text-decoration: none;
+    transition: color 0.2s ease, border-color 0.2s ease;
+
+    &:hover,
+    &:focus-visible {
+      color: var(--text-color);
+    }
+
+    &:focus-visible {
+      outline: 2px solid $color-dark-primary;
+      outline-offset: 2px;
+    }
+
+    &--active {
+      color: var(--text-color);
+      border-bottom-color: $color-dark-primary;
+    }
+  }
+}
+
 // ─── Segments Table ───────────────────────────────────────────────────────────
 .segments-table {
   overflow-x: auto;
@@ -231,6 +269,12 @@ body.theme--light {
 
     &--end-date {
       width: 8rem;
+    }
+
+    &--campaign-id {
+      width: 9rem;
+      white-space: nowrap;
+      overflow-wrap: normal;
     }
   }
 
@@ -309,7 +353,7 @@ body.theme--light {
   &__row--expandable {
     cursor: pointer;
 
-    &:hover .segments-table__cell {
+    &:hover:not(.segments-table__row--target) .segments-table__cell {
       background-color: rgba($color-primary, 0.08);
     }
 
@@ -320,6 +364,26 @@ body.theme--light {
 
     &[aria-expanded="true"] .segments-table__expand-indicator::before {
       transform: rotate(90deg);
+    }
+  }
+
+  &__row--target {
+    .segments-table__cell {
+      background-color: var(--target-row-bg);
+      border-top: 1px solid var(--target-row-border);
+      border-bottom-color: var(--target-row-border);
+    }
+
+    .segments-table__cell:first-child {
+      box-shadow: inset 1px 0 0 0 var(--target-row-border);
+    }
+
+    .segments-table__cell:last-child {
+      box-shadow: inset -1px 0 0 0 var(--target-row-border);
+    }
+
+    .segments-table__cell:not(:first-child):not(:last-child) {
+      box-shadow: none;
     }
   }
 
@@ -342,8 +406,9 @@ body.theme--light {
   &__details-row {
     .segments-table__details-cell {
       padding: $space-4;
-      border-bottom: 1px solid var(--border-color);
-      background-color: var(--surface-alt-bg);
+      border-top: 1px solid var(--target-row-border);
+      border-bottom: 1px solid var(--target-row-border);
+      background-color: var(--target-row-bg);
       color: var(--text-color);
       overflow-wrap: anywhere;
     }
@@ -356,6 +421,57 @@ body.theme--light {
 
   &__details-value {
     color: var(--text-muted-color);
+  }
+
+  &__details-link {
+    color: var(--text-color);
+    text-decoration: underline;
+    text-decoration-color: var(--border-color);
+    text-underline-offset: 0.15em;
+    transition: color 0.2s ease, text-decoration-color 0.2s ease;
+
+    &:hover,
+    &:focus-visible {
+      color: $color-dark-primary;
+      text-decoration-color: $color-dark-primary;
+    }
+
+    &:focus-visible {
+      outline: 2px solid $color-dark-primary;
+      outline-offset: 2px;
+    }
+  }
+
+  &__details-meta {
+    color: var(--text-muted-color);
+    font-size: $font-size-xs;
+  }
+
+  &__details-block {
+    margin-top: $space-3;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  &__targeting {
+    margin: $space-2 0 0;
+    padding: $space-3;
+    background-color: var(--surface-bg);
+    border: 1px solid var(--border-color);
+    border-radius: $radius-md;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+    font-size: $font-size-xs;
+    line-height: 1.5;
+    color: var(--text-color);
+    white-space: pre-wrap;
+    word-break: break-word;
+    overflow-x: auto;
+
+    &--raw {
+      color: var(--text-color);
+    }
   }
 }
 

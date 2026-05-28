@@ -119,6 +119,16 @@ const toggleAccordionRow = (table, segmentRow) => {
   detailRow.hidden = isExpanded;
 };
 
+const closeAccordionRow = (table, segmentRow) => {
+  const detailRow = getDetailRow(table, segmentRow);
+  if (!detailRow) {
+    return;
+  }
+
+  segmentRow.setAttribute("aria-expanded", "false");
+  detailRow.hidden = true;
+};
+
 const isInteractiveTarget = (target) =>
   target.closest("a, button, input, select, textarea, label");
 
@@ -144,7 +154,11 @@ tables.forEach((table) => {
       return;
     }
 
-    toggleAccordionRow(table, segmentRow);
+    if (segmentRow.id) {
+      history.replaceState(null, "", `#${encodeURIComponent(segmentRow.id)}`);
+    }
+
+    focusTargetRow(table, segmentRow, { scroll: false });
   });
 
   tbody.addEventListener("keydown", (event) => {
@@ -162,6 +176,84 @@ tables.forEach((table) => {
     }
 
     event.preventDefault();
-    toggleAccordionRow(table, target);
+    if (target.id) {
+      history.replaceState(null, "", `#${encodeURIComponent(target.id)}`);
+    }
+
+    focusTargetRow(table, target, { scroll: false });
   });
 });
+
+const TARGET_ROW_CLASS = "segments-table__row--target";
+
+const clearTargetRows = () => {
+  document
+    .querySelectorAll(`.${TARGET_ROW_CLASS}`)
+    .forEach((row) => row.classList.remove(TARGET_ROW_CLASS));
+};
+
+const setTargetRow = (targetRow) => {
+  clearTargetRows();
+  targetRow.classList.add(TARGET_ROW_CLASS);
+};
+
+const focusTargetRow = (table, targetRow, { scroll = true } = {}) => {
+  if (!(targetRow instanceof HTMLTableRowElement)) {
+    return;
+  }
+
+  if (targetRow.dataset.rowType !== "segment") {
+    return;
+  }
+
+  const isExpanded = targetRow.getAttribute("aria-expanded") === "true";
+  if (isExpanded) {
+    closeAccordionRow(table, targetRow);
+    clearTargetRows();
+    history.replaceState(null, "", window.location.pathname + window.location.search);
+    if (scroll) {
+      targetRow.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+    return;
+  }
+
+  const expandedRow = table.querySelector('tr[data-row-type="segment"][aria-expanded="true"]');
+  if (expandedRow instanceof HTMLTableRowElement && expandedRow !== targetRow) {
+    closeAccordionRow(table, expandedRow);
+  }
+
+  toggleAccordionRow(table, targetRow);
+  setTargetRow(targetRow);
+
+  if (scroll) {
+    targetRow.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+};
+
+const focusHashRow = () => {
+  const hash = window.location.hash;
+  if (!hash || hash.length < 2) {
+    return;
+  }
+
+  const escaped = typeof CSS !== "undefined" && CSS.escape ? CSS.escape(hash.slice(1)) : hash.slice(1);
+  const targetRow = document.getElementById(decodeURIComponent(hash.slice(1))) || document.querySelector(`#${escaped}`);
+  if (!(targetRow instanceof HTMLTableRowElement)) {
+    return;
+  }
+
+  if (targetRow.dataset.rowType !== "segment") {
+    return;
+  }
+
+  const table = targetRow.closest(".segments-table__table");
+  if (!table) {
+    return;
+  }
+
+  focusTargetRow(table, targetRow, { scroll: true });
+};
+
+window.addEventListener("hashchange", focusHashRow);
+focusHashRow();
+

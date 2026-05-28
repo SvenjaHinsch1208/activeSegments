@@ -13,7 +13,7 @@ export interface SegmentTableRow {
   endDate: string;
   author: string;
   modifier: string;
-  campaignIds: string;
+  campaignIds: string[];
   campaignCount: number;
   statusTone: SegmentStatusTone;
   isShortIdWarning: boolean;
@@ -51,10 +51,11 @@ export function buildSegmentTableRows(
 ): SegmentTableRow[] {
   return segments.map((segment) => {
     const metadata = metadataLookup.get(segment.targetSegment);
-    const campaignIds = segment.campaignIds?.trim() ? segment.campaignIds : EMPTY_VALUE;
-    const campaignCount = campaignIds === EMPTY_VALUE
-      ? 0
-      : campaignIds.split(",").filter(Boolean).length;
+    const campaignIds = (segment.campaignIds ?? "")
+      .split(",")
+      .map((id) => id.trim())
+      .filter(Boolean);
+    const campaignCount = campaignIds.length;
 
     return {
       shortId: segment.targetSegment,

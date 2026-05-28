@@ -1,0 +1,17 @@
+<nav class="tab-nav" aria-label="Sections">
+  <a
+    class="tab-nav__item<%= activeTab === 'segments' ? ' tab-nav__item--active' : '' %>"
+    href="/"
+    <% if (activeTab === 'segments') { %>aria-current="page"<% } %>
+  >
+    Active Segments
+  </a>
+  <a
+    class="tab-nav__item<%= activeTab === 'campaigns' ? ' tab-nav__item--active' : '' %>"
+    href="/campaigns"
+    <% if (activeTab === 'campaigns') { %>aria-current="page"<% } %>
+  >
+    Active Campaigns
+  </a>
+</nav>
+

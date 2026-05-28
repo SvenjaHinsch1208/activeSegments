@@ -10,7 +10,9 @@
     "compile:sass": "sass src/styles/main.scss webapp/main.css --style compressed",
     "copy:assets": "rm -rf webapp/assets && mkdir -p webapp/assets && cp -R src/assets/. webapp/assets/",
     "build": "npm run clean && npm run compile:ts && npm run compile:sass && npm run copy:assets",
-    "fetch": "NODE_ENV=development ts-node src/scripts/fetchSegmentData.ts",
+    "fetch:segments": "NODE_ENV=development ts-node src/scripts/fetchSegmentData.ts",
+    "fetch:reporting": "NODE_ENV=development ts-node src/scripts/fetchCampaignReportingData.ts",
+    "fetch": "npm run fetch:segments && npm run fetch:reporting",
     "start": "npm run build && npm run dev",
     "all": "npm run clean && npm run fetch && npm run build && npm run dev"
   },

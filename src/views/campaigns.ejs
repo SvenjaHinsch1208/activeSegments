@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/main.css" />
+  </head>
+  <body class="theme theme--dark" data-theme="dark">
+    <header class="site-header">
+      <div class="site-header__inner">
+        <span class="site-header__brand"><%= title %></span>
+        <div class="theme-switcher" aria-label="Theme controls">
+          <button
+            class="theme-switcher__button"
+            type="button"
+            aria-label="Switch to light mode"
+            aria-pressed="true"
+            data-theme-toggle
+            data-theme-target="light"
+          >
+            <span class="theme-switcher__icon i-lucide-sun" aria-hidden="true"></span>
+          </button>
+        </div>
+      </div>
+    </header>
+    <main class="site-main">
+      <section class="segments-panel" aria-labelledby="campaigns-title">
+        <%- include("partials/tabNav") %>
+        <div class="segments-table">
+          <table class="segments-table__table">
+            <thead class="segments-table__head">
+              <tr class="segments-table__row">
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--campaign-id" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="number">CAMPAIGN ID<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">CAMPAIGN NAME<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">ORDER NAME<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">ADVERTISER<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--type" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">TYPE<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="text">BIDDING STRATEGY<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--end-date" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="date">START DATE<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+                <th class="segments-table__cell segments-table__cell--head segments-table__cell--end-date" scope="col" aria-sort="none">
+                  <button class="segments-table__sort-button" type="button" data-sort-type="date">END DATE<span class="segments-table__sort-indicator" aria-hidden="true"></span></button>
+                </th>
+              </tr>
+            </thead>
+            <tbody class="segments-table__body">
+              <% rows.forEach((row, index) => { %>
+                <% const detailRowId = `campaign-segments-${index}`; %>
+                <tr
+                  class="segments-table__row segments-table__row--expandable"
+                  data-row-type="segment"
+                  data-accordion-toggle="<%= detailRowId %>"
+                  id="campaign-<%= row.campaignId %>"
+                  aria-expanded="false"
+                  aria-controls="<%= detailRowId %>"
+                  tabindex="0"
+                >
+                  <td class="segments-table__cell segments-table__cell--campaign-id">
+                    <span class="segments-table__expand-indicator" aria-hidden="true"></span>
+                    <%= row.campaignId %>
+                  </td>
+                  <td class="segments-table__cell"><%= row.campaignName %></td>
+                  <td class="segments-table__cell"><%= row.orderName %></td>
+                  <td class="segments-table__cell"><%= row.advertiserName %></td>
+                  <td class="segments-table__cell segments-table__cell--type"><%= row.type %></td>
+                  <td class="segments-table__cell"><%= row.biddingStrategy %></td>
+                  <td class="segments-table__cell segments-table__cell--end-date"><%= row.startDate %></td>
+                  <td class="segments-table__cell segments-table__cell--end-date"><%= row.endDate %></td>
+                </tr>
+                <tr class="segments-table__details-row" data-row-type="details" id="<%= detailRowId %>" hidden>
+                  <td class="segments-table__details-cell" colspan="8">
+                    <div class="segments-table__details-block">
+                      <span class="segments-table__details-label">Target Segments (<%= row.segmentCount %>):</span>
+                      <% if (row.segmentCount === 0) { %>
+                        <span class="segments-table__details-value">-</span>
+                      <% } else { %>
+                        <span class="segments-table__details-value">
+                          <% row.segments.forEach((segment, segmentIndex) => { %>
+                            <a class="segments-table__details-link" href="/#segment-<%= segment.shortId %>"><%= segment.shortId %></a><span class="segments-table__details-meta"> (<%= segment.name %>)</span><% if (segmentIndex < row.segments.length - 1) { %>, <% } %>
+                          <% }); %>
+                        </span>
+                      <% } %>
+                    </div>
+                    <div class="segments-table__details-block">
+                      <span class="segments-table__details-label">Targeting String used in Active Agent:</span>
+                      <% if (row.profileTargeting) { %>
+                        <pre class="segments-table__targeting segments-table__targeting--raw"><%= row.profileTargeting %></pre>
+                      <% } else { %>
+                        <span class="segments-table__details-value">-</span>
+                      <% } %>
+                    </div>
+                  </td>
+                </tr>
+              <% }); %>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    <script src="/assets/themeToggle.js" defer></script>
+    <script src="/assets/tableSort.js" defer></script>
+  </body>
+</html>
+

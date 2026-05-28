@@ -6,6 +6,8 @@ import path from "path";
 import { loadTargetSegments } from "./services/activeTargetSegmentLoader";
 import { getSegmentMetadataLookup } from "./services/segmentMetadataService";
 import { buildSegmentTableRows } from "./services/segmentTableService";
+import { loadCampaignList } from "./services/campaignListLoader";
+import { buildCampaignTableRows, buildSegmentsByCampaignLookup } from "./services/campaignTableService";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -20,7 +22,30 @@ app.get("/", async (_req: Request, res: Response, next: NextFunction) => {
     const segments = await loadTargetSegments();
     const metadataLookup = getSegmentMetadataLookup();
     const rows = buildSegmentTableRows(segments, metadataLookup);
-    res.render("index", { title: "Active Targeting Segment Overview", rows });
+    res.render("index", {
+      title: "Active Targeting Segment Overview",
+      activeTab: "segments",
+      rows,
+    });
+  } catch (err) {
+    next(err);
+  }
+});
+
+app.get("/campaigns", async (_req: Request, res: Response, next: NextFunction) => {
+  try {
+    const [campaigns, segments] = await Promise.all([
+      loadCampaignList(),
+      loadTargetSegments(),
+    ]);
+    const metadataLookup = getSegmentMetadataLookup();
+    const segmentsByCampaign = buildSegmentsByCampaignLookup(segments, metadataLookup);
+    const rows = buildCampaignTableRows(campaigns, segmentsByCampaign);
+    res.render("campaigns", {
+      title: "Active Campaigns Overview",
+      activeTab: "campaigns",
+      rows,
+    });
   } catch (err) {
     next(err);
   }

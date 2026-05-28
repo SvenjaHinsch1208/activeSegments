@@ -6,35 +6,38 @@ Segment Explorer — Node.js · Express · TypeScript · SASS · EJS
 
 | Command | Description |
 |---|---|
-| `npm run dev` | Development server with hot reload (ts-node + nodemon) |
+| `npm run dev` | Development server with nodemon |
 | `npm run clean` | Remove compiled output (`webapp/` directory) |
 | `npm run compile:ts` | Compile TypeScript only → `webapp/` |
 | `npm run compile:sass` | Compile SASS only → `webapp/main.css` |
 | `npm run copy:assets` | Copy assets only → `webapp/assets/` |
-| `npm run build` | Full build: clean → compile TypeScript + SASS + copy assets |
-| `npm run fetch` | Fetch active-agent target segments (dev) — writes JSONL to `data/activeagent/` (`.dev` suffix) |
-| `npm run fetch:prod` | Fetch active-agent target segments (prod) — writes JSONL to `data/activeagent/` (no suffix) |
-| `npm start` | Production: build → fetch:prod → start server at http://localhost:3000 |
+| `npm run build` | Full build: clean -> compile TypeScript + SASS + copy assets |
+| `npm run fetch:segments` | Fetch active-agent target segments -> JSONL in `data/activeagent/` |
+| `npm run fetch:reporting` | Fetch campaign/profile data and write reporting CSV files -> `data/output/` |
+| `npm run fetch` | Run segment + reporting fetch pipeline |
+| `npm start` | Build and start development server |
+| `npm run all` | Clean -> fetch -> build -> start development server |
 
 ## Data Flow (ETL)
 
-### Development
+### Development fetch
 ```bash
-npm run dev      # or npm run fetch
+npm run fetch
 ```
-- Watches `src/`, runs TypeScript directly via `ts-node`
-- `npm run fetch` writes to `data/activeagent/`:
+
+- `npm run fetch:segments` writes to `data/activeagent/`:
   - `targetSegmentList.dev.jsonl`
   - `targetSegmentListDebug.dev.jsonl`
+- `npm run fetch:reporting` writes to `data/output/`:
+  - `Campaign_data_python.csv`
+  - `reichweite_python.csv`
 
-### Production
+### Build + run
 ```bash
+npm run build
 npm start
 ```
+
 - Builds TypeScript + SASS to `webapp/`
-- Runs `npm run fetch:prod` which writes to `data/activeagent/`:
-  - `targetSegmentList.jsonl` (no `.dev` suffix)
-  - `targetSegmentListDebug.jsonl` (no `.dev` suffix)
-- Starts production server on `http://localhost:{PORT}`
-- `src/scripts/fetchSegmentData.ts` logs resolved file paths for verification
-- `src/services/activeTargetSegmentLoader.ts` reads `TARGET_SEGMENT_FILE` from active environment (`.env.production`)
+- Starts server on `http://localhost:{PORT}`
+- `src/services/activeTargetSegmentLoader.ts` reads `TARGET_SEGMENT_FILE` from active environment
