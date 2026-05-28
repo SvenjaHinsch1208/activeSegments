@@ -20,6 +20,7 @@ body {
   --border-color: #{$color-dark-border};
   --target-row-bg: #124a5d;
   --target-row-border: rgba(255, 255, 255, 0.16);
+  --target-row-muted: #7ab3c8;
   --text-color: #{$color-dark-text-base};
   --text-muted-color: #{$color-dark-text-muted};
   --button-bg: #{$color-dark-surface-nuance};
@@ -42,6 +43,7 @@ body.theme--light {
   --border-color: #{$color-border};
   --target-row-bg: #b3cddb;
   --target-row-border: rgba(2, 6, 23, 0.12);
+  --target-row-muted: #3d6b82;
   --text-color: #{$color-text-base};
   --text-muted-color: #{$color-text-muted};
   --button-bg: #{$color-surface};
@@ -470,7 +472,7 @@ body.theme--light {
     overflow-x: auto;
 
     &--raw {
-      color: var(--text-color);
+      color: var(--target-row-muted);
     }
   }
 }
